@@ -167,6 +167,21 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 ### Visual Interactions
 
+* **Visual Semantic Planning using Deep Successor Representations** <br>
+*Yuke Zhu, Daniel Gordon, Eric Kolve, Dieter Fox, Li Fei-Fei, Abhinav Gupta, Roozbeh Mottaghi, Ali Farhadi* <br>
+ICCV, 2017. [[Paper]](https://arxiv.org/abs/1705.08080) [[Code]](link) [[Website]](link)
+
+* **IQA: Visual Question Answering in Interactive Environments** <br>
+*Daniel Gordon, Aniruddha Kembhavi, Mohammad Rastegari, Joseph Redmon, Dieter Fox, and Ali Farhadi* <br>
+CVPR, 2018. [[Paper]](https://arxiv.org/abs/1712.03316) [[Code]](https://github.com/danielgordon10/thor-iqa-cvpr-2018) [[Website]](https://prior.allenai.org/projects/iqa)
+
+* **Learning to Learn How to Learn: Self-Adaptive Visual Navigation Using Meta-Learning** <br>
+*Mitchell Wortsman, Kiana Ehsani, Mohammad Rastegari, Ali Farhadi, Roozbeh Mottaghi* <br>
+CVPR, 2019. [[Paper]](https://arxiv.org/abs/1812.00971) [[Code]](https://github.com/allenai/savn) [[Website]](https://prior.allenai.org/projects/savn)
+
+* **ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks** <br>
+*Mohit Shridhar, Jesse Thomason, Daniel Gordon, Yonatan Bisk, Winson Han, Roozbeh Mottaghi, Luke Zettlemoyer, Dieter Fox* <br>
+CVPR, 2020. [[Paper]](https://arxiv.org/abs/1912.01734) [[Code]](https://github.com/askforalfred/alfred) [[Website]](https://askforalfred.com/)
 
 
 ### Sim-to-Real
@@ -183,6 +198,11 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 *Eric Kolve, Roozbeh Mottaghi, Winson Han, Eli VanderBilt, Luca Weihs, Alvaro Herrasti, Daniel Gordon, Yuke Zhu, Abhinav Gupta, Ali Farhadi* <br>
 arXiv, 2017. [[Paper]](https://arxiv.org/abs/1712.05474) [[Code]](https://github.com/allenai/ai2thor) [[Website]](https://ai2thor.allenai.org/)
 
+* **RoboTHOR: An Open Simulation-to-Real Embodied AI Platform** <br>
+*Matt Deitke, Winson Han, Alvaro Herrasti, Aniruddha Kembhavi, Eric Kolve, Roozbeh Mottaghi, Jordi Salvador, Dustin Schwenk, Eli VanderBilt, Matthew Wallingford, Luca Weihs, Mark Yatskar, Ali Farhadi* <br>
+CVPR, 2020. [[Paper]](https://arxiv.org/abs/2004.06799) [[Code]](https://github.com/allenai/ai2thor) [[Website]](https://ai2thor.allenai.org/robothor/)
+
+
 * **Gibson Env: Real-World Perception for Embodied Agents** <br>
 *Fei Xia, Amir Zamir, Zhi-Yang He, Alexander Sax, Jitendra Malik, Silvio Savarese* <br>
 CVPR, 2018. [[Paper]](https://arxiv.org/abs/1808.10654) [[Code]](https://github.com/StanfordVL/GibsonEnv) [[Website]](http://gibsonenv.stanford.edu/)
@@ -194,3 +214,7 @@ ICCV, 2019. [[Paper]](https://arxiv.org/abs/1904.01201) [[Code]](https://github.
 ## Other Resources
 * **Embodied-AI Workshop** <br>
 CVPR, 2020. [[website]](https://embodied-ai.org/#overview)
+
+
+* **Gibson Sim2Real Challenge** <br>
+CVPR, 2020. [[website]](http://svl.stanford.edu/igibson/challenge.html)
