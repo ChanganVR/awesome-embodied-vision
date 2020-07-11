@@ -38,16 +38,23 @@ CVPR, 2017. [[Paper]](https://arxiv.org/abs/1702.03920)
 *Manolis Savva, Abhishek Kadian, Oleksandr Maksymets, Yili Zhao, Erik Wijmans, Bhavana Jain, Julian Straub, Jia Liu, Vladlen Koltun, Jitendra Malik, Devi Parikh, Dhruv Batra* <br>
 ICCV, 2019. [[Paper]](https://arxiv.org/abs/1904.01201) [[Code]](https://github.com/facebookresearch/habitat-api) [[Website]](https://aihabitat.org/)
 
+* **SplitNet: Sim2Sim and Task2Task Transfer for Embodied Visual Navigation** <br>
+*Daniel Gordon, Abhishek Kadian, Devi Parikh, Judy Hoffman, Dhruv Batra* <br>
+ICCV, 2019. [[Paper]](https://arxiv.org/pdf/1905.07512.pdf) [[Code]](https://github.com/facebookresearch/splitnet)
+
+* **A Behavioral Approach to Visual Navigation with Graph Localization Networks** <br>
+*Kevin Chen, Juan Pablo de Vicente, Gabriel Sepulveda, Fei Xia, Alvaro Soto, Marynel Vazquez, Silvio Savarese* <br>
+RSS, 2019. [[Paper]](https://arxiv.org/pdf/1903.00445.pdf) [[Code]](https://github.com/kchen92/graphnav) [[Website]](https://graphnav.stanford.edu/)
+
 * **DD-PPO: Learning Near-Perfect PointGoal Navigators from 2.5 Billion Frames** <br>
 *Erik Wijmans, Abhishek Kadian, Ari Morcos, Stefan Lee, Irfan Essa, Devi Parikh, Manolis Savva, Dhruv Batra* <br>
 ICLR, 2020. [[Paper]](https://arxiv.org/abs/1911.00357) [[Code]](https://github.com/facebookresearch/habitat-api/tree/master/habitat_baselines/rl/ddppo) [[Website]](https://wijmans.xyz/publication/ddppo-2019/)
 
+* **Learning to Explore using Active Neural SLAM** <br>
+*Devendra Singh Chaplot, Dhiraj Gandhi, Saurabh Gupta, Abhinav Gupta, Ruslan Salakhutdinov* <br>
+ICLR, 2020. [[Paper]](https://openreview.net/pdf?id=HklXn1BKDH) [[Code]](https://github.com/devendrachaplot/Neural-SLAM) [[Website]](https://www.cs.cmu.edu/~dchaplot/projects/neural-slam.html)
 
-
-### Object Navigation
-* **Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning** <br>
-*Yuke Zhu, Roozbeh Mottaghi, Eric Kolve, Joseph J. Lim, Abhinav Gupta, Li Fei-Fei, Ali Farhadi* <br>
-ICRA, 2017. [[Paper]](https://arxiv.org/abs/1609.05143) [[Website]](https://prior.allenai.org/projects/target-driven-visual-navigation)
+### Semantic Navigation
 
 * **Cognitive Mapping and Planning for Visual Navigation** <br>
 *Saurabh Gupta, Varun Tolani, James Davidson, Sergey Levine, Rahul Sukthankar, Jitendra Malik* <br>
@@ -57,6 +64,27 @@ CVPR, 2017. [[Paper]](https://arxiv.org/abs/1702.03920)
 *Wei Yang, Xiaolong Wang, Ali Farhadi, Abhinav Gupta, Roozbeh Mottaghi* <br>
 ICLR, 2019. [[Paper]](https://arxiv.org/abs/1810.06543)
 
+* **Visual Representations for Semantic Target Driven Navigation** <br>
+*Arsalan Mousavian, Alexander Toshev, Marek Fiser, Jana Kosecka, Ayzaan Wahid, James Davidson* <br>
+ICRA, 2019. [[Paper]](https://arxiv.org/pdf/1805.06066.pdf) [[Code]](https://github.com/arsalan-mousavian/Navigation)
+
+* **Bayesian Relational Memory for Semantic Visual Navigation** <br>
+*Yi Wu, Yuxin Wu, Aviv Tamar, Stuart Russell, Georgia Gkioxari, Yuandong Tian* <br>
+ICCV, 2019. [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wu_Bayesian_Relational_Memory_for_Semantic_Visual_Navigation_ICCV_2019_paper.pdf) [[Code]](https://github.com/jxwuyi/HouseNavAgent)
+
+### ImageGoal Navigation
+
+* **Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning** <br>
+*Yuke Zhu, Roozbeh Mottaghi, Eric Kolve, Joseph J. Lim, Abhinav Gupta, Li Fei-Fei, Ali Farhadi* <br>
+ICRA, 2017. [[Paper]](https://arxiv.org/abs/1609.05143) [[Website]](https://prior.allenai.org/projects/target-driven-visual-navigation)
+
+* **Semi-Parametric Topological Memory for Navigation** <br>
+*Nikolay Savinov\*, Alexey Dosovitskiy\*, Vladlen Koltun* <br>
+ICLR, 2018. [[Paper]](https://arxiv.org/pdf/1803.00653.pdf) [[Code]](https://github.com/nsavinov/SPTM) [[Website]](https://sites.google.com/view/SPTM)
+
+* **Neural Topological SLAM for Visual Navigation** <br>
+*Devendra Singh Chaplot, Ruslan Salakhutdinov, Abhinav Gupta, Saurabh Gupta* <br>
+CVPR, 2020. [[Paper]](http://www.cs.cmu.edu/~dchaplot/papers/cvpr20_neural_topological_slam.pdf) [[Website]](https://www.cs.cmu.edu/~dchaplot/projects/neural-topological-slam.html)
 
 ### Vision-Language Navigation
 
@@ -156,17 +184,33 @@ ECCV, 2020. [[Paper]](https://arxiv.org/abs/2007.04979) [[Code]](https://github.
 
 
 ### Visual Exploration
+* **Curiosity-driven Exploration by Self-supervised Prediction** <br>
+*Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, Trevor Darrell* <br>
+ICML, 2017. [[Paper]](https://arxiv.org/pdf/1705.05363.pdf) [[Code]](https://github.com/pathak22/noreward-rl) [[Website]](https://pathak22.github.io/noreward-rl/)
+
 * **Learning to Look Around: Intelligently Exploring Unseen Environments for Unknown Tasks** <br>
 *Dinesh Jayaraman, Kristen Grauman* <br>
 CVPR, 2018. [[Paper]](https://arxiv.org/abs/1709.00507)
 
 * **Sidekick Policy Learning for Active Visual Exploration** <br>
 *Santhosh K. Ramakrishnan, Kristen Grauman* <br>
-ECCV, 2018. [[Paper]](https://arxiv.org/abs/1807.11010)
+ECCV, 2018. [[Paper]](https://arxiv.org/abs/1807.11010) [[Code]](https://github.com/srama2512/sidekicks) [[Website]](http://vision.cs.utexas.edu/projects/sidekicks/)
 
 * **Learning Exploration Policies for Navigation** <br>
 *Tao Chen, Saurabh Gupta, Abhinav Gupta* <br>
 ICLR, 2019. [[Paper]](https://openreview.net/pdf?id=SyMWn05F7) [[Code]](https://github.com/taochenshh/exp4nav) [[Website]](https://sites.google.com/view/exploration-for-nav/)
+
+* **Episodic Curiosity through Reachability** <br>
+*Nikolay Savinov, Anton Raichuk, Damien Vincent, Raphael Marinier, Marc Pollefeys, Timothy Lillicrap, Sylvain Gelly* <br>
+ICLR, 2019. [[Paper]](https://openreview.net/pdf?id=SkeK3s0qKQ) [[Code]](https://github.com/google-research/episodic-curiosity) [[Website]](https://sites.google.com/view/episodic-curiosity)
+
+* **Emergence of Exploratory Look-Around Behaviors through Active Observation Completion** <br>
+*Santhosh K. Ramakrishnan\*, Dinesh Jayaraman\*, Kristen Grauman* <br>
+CVPR, 2019. [[Paper]](https://arxiv.org/pdf/1903.03878.pdf) [[Code]](https://github.com/srama2512/visual-exploration) [[Website]](http://vision.cs.utexas.edu/projects/visual-exploration/)
+
+* **Scene Memory Transformer for Embodied Agents in Long-Horizon Tasks** <br>
+*Kuan Fang, Alexander Toshev, Li Fei-Fei, Silvio Savarese* <br>
+Science Robotics, 2019. [[Paper]](https://arxiv.org/pdf/1906.11407.pdf) [[Website]](https://sites.google.com/view/scene-memory-transformer)
 
 * **Learning to Explore using Active Neural SLAM** <br>
 *Devendra Singh Chaplot, Dhiraj Gandhi, Saurabh Gupta, Abhinav Gupta, Ruslan Salakhutdinov* <br>
@@ -208,6 +252,30 @@ ICLR, 2018. [[Paper]](https://arxiv.org/pdf/1803.00653.pdf) [[Code]](https://git
 Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)-->
 
 ## Datasets
+
+* **A Dataset for Developing and Benchmarking Active Vision** <br>
+*Phil Ammirato, Patrick Poirson, Eunbyung Park, Jana Kosecka, Alexander C. Berg* <br>
+ICRA, 2017. [[Paper]](https://www.cs.unc.edu/~ammirato/active_vision_dataset_website/icra-rohit-paper.pdf) [[Code]](https://github.com/ammirato/active_vision_dataset_processing) [[Website]](https://www.cs.unc.edu/~ammirato/active_vision_dataset_website/)
+
+* **AI2-THOR: An Interactive 3D Environment for Visual AI** <br>
+*Eric Kolve, Roozbeh Mottaghi, Winson Han, Eli VanderBilt, Luca Weihs, Alvaro Herrasti, Daniel Gordon, Yuke Zhu, Abhinav Gupta, Ali Farhadi* <br>
+arXiv, 2017. [[Paper]](https://arxiv.org/abs/1712.05474) [[Code]](https://github.com/allenai/ai2thor) [[Website]](https://ai2thor.allenai.org/)
+
+* **Matterport3D: Learning from RGB-D Data in Indoor Environments** <br>
+*Angel Chang, Angela Dai, Thomas Funkhouser, Maciej Halber, Matthias Nießner, Manolis Savva, Shuran Song, Andy Zeng, Yinda Zhang* <br>
+3DV, 2017. [[Paper]](https://arxiv.org/pdf/1709.06158.pdf) [[Code]](https://github.com/niessner/Matterport) [[Website]](https://niessner.github.io/Matterport/)
+
+
+* **Gibson Env: Real-World Perception for Embodied Agents** <br>
+*Fei Xia, Amir Zamir, Zhi-Yang He, Alexander Sax, Jitendra Malik, Silvio Savarese* <br>
+CVPR, 2018. [[Paper]](https://arxiv.org/abs/1808.10654) [[Code]](https://github.com/StanfordVL/GibsonEnv) [[Website]](http://gibsonenv.stanford.edu/)
+
+* **The Replica Dataset: A Digital Replica of Indoor Spaces** <br>
+*Julian Straub, Thomas Whelan, Lingni Ma, Yufan Chen, Erik Wijmans, Simon Green, Jakob J. Engel, Raul Mur-Artal, Carl Ren, Shobhit Verma, Anton Clarkson, Mingfei Yan, Brian Budge, Yajie Yan, Xiaqing Pan, June Yon, Yuyang Zou, Kimberly Leon, Nigel Carter, Jesus Briales, Tyler Gillingham, Elias Mueggler, Luis Pesqueira, Manolis Savva, Dhruv Batra, Hauke M. Strasdat, Renzo De Nardi, Michael Goesele, Steven Lovegrove, Richard Newcombe* <br>
+arXiV, 2019. [[Paper]](https://arxiv.org/pdf/1906.05797.pdf) [[Code]](https://github.com/facebookresearch/Replica-Dataset)
+
+
+## Environments
 * **AI2-THOR: An Interactive 3D Environment for Visual AI** <br>
 *Eric Kolve, Roozbeh Mottaghi, Winson Han, Eli VanderBilt, Luca Weihs, Alvaro Herrasti, Daniel Gordon, Yuke Zhu, Abhinav Gupta, Ali Farhadi* <br>
 arXiv, 2017. [[Paper]](https://arxiv.org/abs/1712.05474) [[Code]](https://github.com/allenai/ai2thor) [[Website]](https://ai2thor.allenai.org/)
