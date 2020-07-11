@@ -1,6 +1,4 @@
-# awesome-embodied-vision
-
-# Awesome Productivity [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Embodied Vision [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > A curated list of embodied vision resources.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln).
@@ -9,6 +7,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing an
 
 - [Papers](#papers)
 - [Datasets](#datasets)
+- [MISC](#misc)
 
 ## Contributing
 Put the new paper at the correct chronological position as the following format: <br>
@@ -31,6 +30,18 @@ ICRA, 2020. [[Paper]](https://arxiv.org/pdf/1912.11474.pdf) [[Website]](http://v
 
 
 ### PointGoal Navigation
+* **Cognitive Mapping and Planning for Visual Navigation** <br>
+*Saurabh Gupta, Varun Tolani, James Davidson, Sergey Levine, Rahul Sukthankar, Jitendra Malik* <br>
+CVPR, 2017. [[Paper]](https://arxiv.org/abs/1702.03920)
+
+* **Habitat: A Platform for Embodied AI Research** <br>
+*Manolis Savva, Abhishek Kadian, Oleksandr Maksymets, Yili Zhao, Erik Wijmans, Bhavana Jain, Julian Straub, Jia Liu, Vladlen Koltun, Jitendra Malik, Devi Parikh, Dhruv Batra* <br>
+ICCV, 2019. [[Paper]](https://arxiv.org/abs/1904.01201) [[Code]](https://github.com/facebookresearch/habitat-api) [[Website]](https://aihabitat.org/)
+
+* **DD-PPO: Learning Near-Perfect PointGoal Navigators from 2.5 Billion Frames** <br>
+*Erik Wijmans, Abhishek Kadian, Ari Morcos, Stefan Lee, Irfan Essa, Devi Parikh, Manolis Savva, Dhruv Batra* <br>
+ICLR, 2020. [[Paper]](https://arxiv.org/abs/1911.00357) [[Code]](https://github.com/facebookresearch/habitat-api/tree/master/habitat_baselines/rl/ddppo) [[Website]](https://wijmans.xyz/publication/ddppo-2019/)
+
 
 
 ### Object Navigation
@@ -42,21 +53,10 @@ ICRA, 2017. [[Paper]](https://arxiv.org/abs/1609.05143) [[Website]](https://prio
 *Saurabh Gupta, Varun Tolani, James Davidson, Sergey Levine, Rahul Sukthankar, Jitendra Malik* <br>
 CVPR, 2017. [[Paper]](https://arxiv.org/abs/1702.03920)
 
-* **Paper Title** <br>
-*Author(s)* <br>
-Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
+* **Visual Semantic Navigation using Scene Priors** <br>
+*Wei Yang, Xiaolong Wang, Ali Farhadi, Abhinav Gupta, Roozbeh Mottaghi* <br>
+ICLR, 2019. [[Paper]](https://arxiv.org/abs/1810.06543)
 
-* **Paper Title** <br>
-*Author(s)* <br>
-Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
-
-* **Paper Title** <br>
-*Author(s)* <br>
-Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
-
-* **Paper Title** <br>
-*Author(s)* <br>
-Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 ### Vision-Language Navigation
 
@@ -150,23 +150,35 @@ arXiv, 2020. [[Paper]](https://arxiv.org/abs/2004.02707)
 *Unnat Jain\*, Luca Weihs\*, Eric Kolve, Mohammad Rastegari, Svetlana Lazebnik, Ali Farhadi, Alexander Schwing, Aniruddha Kembhavi* <br>
 CVPR, 2019. [[Paper]](https://arxiv.org/pdf/1904.05879.pdf) [[Website]](https://prior.allenai.org/projects/two-body-problem)
 
-* **Paper Title** <br>
-*Author(s)* <br>
-Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
+* **A Cordial Sync: Going Beyond Marginal Policies For Multi-Agent Embodied Tasks** <br>
+*Unnat Jain\*, Luca Weihs\*, Eric Kolve, Ali Farhadi, Svetlana Lazebnik, Aniruddha Kembhavi, Alexander Schwing* <br>
+ECCV, 2020. [[Paper]](https://arxiv.org/abs/2007.04979) [[Code]](https://github.com/allenai/cordial-sync) [[Website]](https://unnat.github.io/cordial-sync/)
 
 
 ### Visual Exploration
-* **Paper Title** <br>
-*Author(s)* <br>
-Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
+* **Learning to Look Around: Intelligently Exploring Unseen Environments for Unknown Tasks** <br>
+*Dinesh Jayaraman, Kristen Grauman* <br>
+CVPR, 2018. [[Paper]](https://arxiv.org/abs/1709.00507)
 
-* **Paper Title** <br>
-*Author(s)* <br>
-Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
+* **Sidekick Policy Learning for Active Visual Exploration** <br>
+*Santhosh K. Ramakrishnan, Kristen Grauman* <br>
+ECCV, 2018. [[Paper]](https://arxiv.org/abs/1807.11010)
+
+* **Learning Exploration Policies for Navigation** <br>
+*Tao Chen, Saurabh Gupta, Abhinav Gupta* <br>
+ICLR, 2019. [[Paper]](https://openreview.net/pdf?id=SyMWn05F7) [[Code]](https://github.com/taochenshh/exp4nav) [[Website]](https://sites.google.com/view/exploration-for-nav/)
+
+* **Learning to Explore using Active Neural SLAM** <br>
+*Devendra Singh Chaplot, Dhiraj Gandhi, Saurabh Gupta, Abhinav Gupta, Ruslan Salakhutdinov* <br>
+ICLR, 2020. [[Paper]](https://openreview.net/pdf?id=HklXn1BKDH) [[Code]](https://github.com/devendrachaplot/Neural-SLAM) [[Website]](https://www.cs.cmu.edu/~dchaplot/projects/neural-slam.html)
+
+* **See, Hear, Explore: Curiosity via Audio-Visual Association** <br>
+*Victoria Dean, Shubham Tulsiani, Abhinav Gupta* <br>
+arXiv, 2020. [[Paper]](https://vdean.github.io/resources/audio-curiosity2020.pdf) [[Website]](https://vdean.github.io/audio-curiosity.html)
+
 
 
 ### Visual Interactions
-
 * **Visual Semantic Planning using Deep Successor Representations** <br>
 *Yuke Zhu, Daniel Gordon, Eric Kolve, Dieter Fox, Li Fei-Fei, Abhinav Gupta, Roozbeh Mottaghi, Ali Farhadi* <br>
 ICCV, 2017. [[Paper]](https://arxiv.org/abs/1705.08080) [[Code]](link) [[Website]](link)
@@ -184,14 +196,16 @@ CVPR, 2019. [[Paper]](https://arxiv.org/abs/1812.00971) [[Code]](https://github.
 CVPR, 2020. [[Paper]](https://arxiv.org/abs/1912.01734) [[Code]](https://github.com/askforalfred/alfred) [[Website]](https://askforalfred.com/)
 
 
-### Sim-to-Real
-* **Paper Title** <br>
-*Author(s)* <br>
-Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
+<!--### Mapping
+* **SEMI-PARAMETRIC TOPOLOGICAL MEMORY FOR NAVIGATION** <br>
+*Nikolay Savinov\*, Alexey Dosovitskiy\*, Vladlen Koltun* <br>
+ICLR, 2018. [[Paper]](https://arxiv.org/pdf/1803.00653.pdf) [[Code]](https://github.com/nsavinov/SPTM) [[Website]](https://sites.google.com/view/SPTM)
+-->
 
+<!--### Sim-to-Real
 * **Paper Title** <br>
 *Author(s)* <br>
-Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
+Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)-->
 
 ## Datasets
 * **AI2-THOR: An Interactive 3D Environment for Visual AI** <br>
@@ -211,10 +225,18 @@ CVPR, 2018. [[Paper]](https://arxiv.org/abs/1808.10654) [[Code]](https://github.
 *Manolis Savva, Abhishek Kadian, Oleksandr Maksymets, Yili Zhao, Erik Wijmans, Bhavana Jain, Julian Straub, Jia Liu, Vladlen Koltun, Jitendra Malik, Devi Parikh, Dhruv Batra* <br>
 ICCV, 2019. [[Paper]](https://arxiv.org/abs/1904.01201) [[Code]](https://github.com/facebookresearch/habitat-api) [[Website]](https://aihabitat.org/)
 
-## Other Resources
+
+## MISC
 * **Embodied-AI Workshop** <br>
 CVPR, 2020. [[website]](https://embodied-ai.org/#overview)
 
-
 * **Gibson Sim2Real Challenge** <br>
 CVPR, 2020. [[website]](http://svl.stanford.edu/igibson/challenge.html)
+
+* **On Evaluation of Embodied Navigation Agents** <br>
+*Peter Anderson, Angel Chang, Devendra Singh Chaplot, Alexey Dosovitskiy, Saurabh Gupta, Vladlen Koltun, Jana Kosecka, Jitendra Malik, Roozbeh Mottaghi, Manolis Savva, Amir R. Zamir* <br>
+arXiv, 2018. [[Paper]](https://arxiv.org/abs/1807.06757)
+
+* **PyRobot: An Open-source Robotics Framework for Research and Benchmarking** <br>
+*Adithya Murali\*, Tao Chen\*, Kalyan Vasudev Alwala\*, Dhiraj Gandhi\*, Lerrel Pinto, Saurabh Gupta, Abhinav Gupta* <br>
+arXiv, 2019. [[Paper]](https://arxiv.org/abs/1906.08236) [[Code]](https://github.com/facebookresearch/pyrobot) [[Website]](https://www.pyrobot.org/)
