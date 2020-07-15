@@ -7,6 +7,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing an
 
 - [Papers](#papers)
 - [Datasets](#datasets)
+- [Environments](#environments)
 - [MISC](#misc)
 
 ## Contributing
@@ -70,7 +71,11 @@ ICRA, 2019. [[Paper]](https://arxiv.org/pdf/1805.06066.pdf) [[Code]](https://git
 
 * **Bayesian Relational Memory for Semantic Visual Navigation** <br>
 *Yi Wu, Yuxin Wu, Aviv Tamar, Stuart Russell, Georgia Gkioxari, Yuandong Tian* <br>
-ICCV, 2019. [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wu_Bayesian_Relational_Memory_for_Semantic_Visual_Navigation_ICCV_2019_paper.pdf) [[Code]](https://github.com/jxwuyi/HouseNavAgent)
+ICCV, 2019. [[Paper]](https://arxiv.org/abs/1909.04306) [[Code]](https://github.com/jxwuyi/HouseNavAgent)
+
+* **Situational Fusion of Visual Representation for Visual Navigation** <br>
+*William B. Shen, Danfei Xu, Yuke Zhu, Leonidas J. Guibas, Li Fei-Fei, Silvio Savarese* <br>
+ICCV, 2019. [[Paper]](https://arxiv.org/abs/1908.09073)
 
 ### ImageGoal Navigation
 
@@ -85,6 +90,10 @@ ICLR, 2018. [[Paper]](https://arxiv.org/pdf/1803.00653.pdf) [[Code]](https://git
 * **Neural Topological SLAM for Visual Navigation** <br>
 *Devendra Singh Chaplot, Ruslan Salakhutdinov, Abhinav Gupta, Saurabh Gupta* <br>
 CVPR, 2020. [[Paper]](http://www.cs.cmu.edu/~dchaplot/papers/cvpr20_neural_topological_slam.pdf) [[Website]](https://www.cs.cmu.edu/~dchaplot/projects/neural-topological-slam.html)
+
+* **Object Goal Navigation using Goal-Oriented Semantic Exploration** <br>
+*Devendra Singh Chaplot, Dhiraj Gandhi, Abhinav Gupta\*, Ruslan Salakhutdinov\** <br>
+arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2007.00643.pdf) [[Website]](https://www.cs.cmu.edu/~dchaplot/projects/semantic-exploration.html)
 
 ### Vision-Language Navigation
 
@@ -265,7 +274,6 @@ arXiv, 2017. [[Paper]](https://arxiv.org/abs/1712.05474) [[Code]](https://github
 *Angel Chang, Angela Dai, Thomas Funkhouser, Maciej Halber, Matthias Nießner, Manolis Savva, Shuran Song, Andy Zeng, Yinda Zhang* <br>
 3DV, 2017. [[Paper]](https://arxiv.org/pdf/1709.06158.pdf) [[Code]](https://github.com/niessner/Matterport) [[Website]](https://niessner.github.io/Matterport/)
 
-
 * **Gibson Env: Real-World Perception for Embodied Agents** <br>
 *Fei Xia, Amir Zamir, Zhi-Yang He, Alexander Sax, Jitendra Malik, Silvio Savarese* <br>
 CVPR, 2018. [[Paper]](https://arxiv.org/abs/1808.10654) [[Code]](https://github.com/StanfordVL/GibsonEnv) [[Website]](http://gibsonenv.stanford.edu/)
@@ -280,10 +288,13 @@ arXiV, 2019. [[Paper]](https://arxiv.org/pdf/1906.05797.pdf) [[Code]](https://gi
 *Eric Kolve, Roozbeh Mottaghi, Winson Han, Eli VanderBilt, Luca Weihs, Alvaro Herrasti, Daniel Gordon, Yuke Zhu, Abhinav Gupta, Ali Farhadi* <br>
 arXiv, 2017. [[Paper]](https://arxiv.org/abs/1712.05474) [[Code]](https://github.com/allenai/ai2thor) [[Website]](https://ai2thor.allenai.org/)
 
+* **BUILDING GENERALIZABLE AGENTS WITH A REALISTIC AND RICH 3D ENVIRONMEN (House3D)** <br>
+*Yi Wu, Yuxin Wu, Georgia Gkioxari, Yuandong Tian* <br>
+arXiv, 2018. [[Paper]](https://arxiv.org/pdf/1801.02209.pdf) [[Code]](https://github.com/facebookresearch/House3D) 
+
 * **RoboTHOR: An Open Simulation-to-Real Embodied AI Platform** <br>
 *Matt Deitke, Winson Han, Alvaro Herrasti, Aniruddha Kembhavi, Eric Kolve, Roozbeh Mottaghi, Jordi Salvador, Dustin Schwenk, Eli VanderBilt, Matthew Wallingford, Luca Weihs, Mark Yatskar, Ali Farhadi* <br>
 CVPR, 2020. [[Paper]](https://arxiv.org/abs/2004.06799) [[Code]](https://github.com/allenai/ai2thor) [[Website]](https://ai2thor.allenai.org/robothor/)
-
 
 * **Gibson Env: Real-World Perception for Embodied Agents** <br>
 *Fei Xia, Amir Zamir, Zhi-Yang He, Alexander Sax, Jitendra Malik, Silvio Savarese* <br>
@@ -292,7 +303,6 @@ CVPR, 2018. [[Paper]](https://arxiv.org/abs/1808.10654) [[Code]](https://github.
 * **Habitat: A Platform for Embodied AI Research** <br>
 *Manolis Savva, Abhishek Kadian, Oleksandr Maksymets, Yili Zhao, Erik Wijmans, Bhavana Jain, Julian Straub, Jia Liu, Vladlen Koltun, Jitendra Malik, Devi Parikh, Dhruv Batra* <br>
 ICCV, 2019. [[Paper]](https://arxiv.org/abs/1904.01201) [[Code]](https://github.com/facebookresearch/habitat-api) [[Website]](https://aihabitat.org/)
-
 
 ## MISC
 * **Embodied-AI Workshop** <br>
