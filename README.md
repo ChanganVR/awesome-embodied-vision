@@ -5,10 +5,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing an
 
 ## Table of Content
 
-- [Papers](#papers)
-- [Datasets](#datasets)
-- [Environments](#environments)
-- [MISC](#misc)
+* [Papers](#papers)
+	* [PointGoal Navigation](#pointgoal)
+	* [Audio-Visual Navigation](#audiogoal)
+	* [Semantic Navigation](#semanticgoal)
+	* [ImageGoal Navigation](#imagegoal)
+	* [Vision-Language Navigation](#vln)
+	* [Multiagent Navigation](#multiagent)
+	* [Visual Exploration](#visual_exploration)
+	* [Visual Interactions](#visual_interaction)
+* [Datasets](#datasets)
+* [Environments](#environments)
+* [MISC](#misc)
 
 ## Contributing
 Put the new paper at the correct chronological position as the following format: <br>
@@ -19,18 +27,9 @@ Put the new paper at the correct chronological position as the following format:
 Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 ```
 
-## Papers
-### Audio-Visual Navigation
-* **Audio-Visual Embodied Navigation** <br>
-*Changan Chen\*, Unnat Jain\*, Carl Schissler, Sebastia Vicenc Amengual Gari, Ziad Al-Halah, Vamsi Krishna Ithapu, Philip Robinson, Kristen Grauman* <br>
-ECCV, 2020. [[Paper]](https://arxiv.org/pdf/1912.11474.pdf) [[Website]](http://vision.cs.utexas.edu/projects/audio_visual_navigation/)
+## <a name="papers"></a> Papers
 
-* **Look, Listen, and Act: Towards Audio-Visual Embodied Navigation** <br>
-*Chuang Gan, Yiwei Zhang, Jiajun Wu, Boqing Gong, Joshua B. Tenenbaum* <br>
-ICRA, 2020. [[Paper]](https://arxiv.org/pdf/1912.11474.pdf) [[Website]](http://vision.cs.utexas.edu/projects/audio_visual_navigation/)
-
-
-### PointGoal Navigation
+### <a name="pointgoal"></a> PointGoal Navigation
 * **Cognitive Mapping and Planning for Visual Navigation** <br>
 *Saurabh Gupta, Varun Tolani, James Davidson, Sergey Levine, Rahul Sukthankar, Jitendra Malik* <br>
 CVPR, 2017. [[Paper]](https://arxiv.org/abs/1702.03920)
@@ -55,7 +54,18 @@ ICLR, 2020. [[Paper]](https://arxiv.org/abs/1911.00357) [[Code]](https://github.
 *Devendra Singh Chaplot, Dhiraj Gandhi, Saurabh Gupta, Abhinav Gupta, Ruslan Salakhutdinov* <br>
 ICLR, 2020. [[Paper]](https://openreview.net/pdf?id=HklXn1BKDH) [[Code]](https://github.com/devendrachaplot/Neural-SLAM) [[Website]](https://www.cs.cmu.edu/~dchaplot/projects/neural-slam.html)
 
-### Semantic Navigation
+
+### <a name="audiogoal"></a> Audio-Visual Navigation
+* **Audio-Visual Embodied Navigation** <br>
+*Changan Chen\*, Unnat Jain\*, Carl Schissler, Sebastia Vicenc Amengual Gari, Ziad Al-Halah, Vamsi Krishna Ithapu, Philip Robinson, Kristen Grauman* <br>
+ECCV, 2020. [[Paper]](https://arxiv.org/pdf/1912.11474.pdf) [[Website]](http://vision.cs.utexas.edu/projects/audio_visual_navigation/)
+
+* **Look, Listen, and Act: Towards Audio-Visual Embodied Navigation** <br>
+*Chuang Gan, Yiwei Zhang, Jiajun Wu, Boqing Gong, Joshua B. Tenenbaum* <br>
+ICRA, 2020. [[Paper]](https://arxiv.org/pdf/1912.11474.pdf) [[Website]](http://vision.cs.utexas.edu/projects/audio_visual_navigation/)
+
+
+### <a name="semanticgoal"></a> Semantic Navigation
 
 * **Cognitive Mapping and Planning for Visual Navigation** <br>
 *Saurabh Gupta, Varun Tolani, James Davidson, Sergey Levine, Rahul Sukthankar, Jitendra Malik* <br>
@@ -77,7 +87,7 @@ ICCV, 2019. [[Paper]](https://arxiv.org/abs/1909.04306) [[Code]](https://github.
 *William B. Shen, Danfei Xu, Yuke Zhu, Leonidas J. Guibas, Li Fei-Fei, Silvio Savarese* <br>
 ICCV, 2019. [[Paper]](https://arxiv.org/abs/1908.09073)
 
-### ImageGoal Navigation
+### <a name="imagegoal"></a> ImageGoal Navigation
 
 * **Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning** <br>
 *Yuke Zhu, Roozbeh Mottaghi, Eric Kolve, Joseph J. Lim, Abhinav Gupta, Li Fei-Fei, Ali Farhadi* <br>
@@ -95,7 +105,7 @@ CVPR, 2020. [[Paper]](http://www.cs.cmu.edu/~dchaplot/papers/cvpr20_neural_topol
 *Devendra Singh Chaplot, Dhiraj Gandhi, Abhinav Gupta\*, Ruslan Salakhutdinov\** <br>
 arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2007.00643.pdf) [[Website]](https://www.cs.cmu.edu/~dchaplot/projects/semantic-exploration.html)
 
-### Vision-Language Navigation
+### <a name="vln"></a> Vision-Language Navigation
 
 * **Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments** <br>
 *Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel* <br>
@@ -182,7 +192,7 @@ arXiv, 2020. [[Paper]](https://arxiv.org/abs/2003.14269)
 arXiv, 2020. [[Paper]](https://arxiv.org/abs/2004.02707)
 
 
-### Multiagent Navigation
+### <a name="multiagent"></a> Multiagent Navigation
 * **Two Body Problem: Collaborative Visual Task Completion** <br>
 *Unnat Jain\*, Luca Weihs\*, Eric Kolve, Mohammad Rastegari, Svetlana Lazebnik, Ali Farhadi, Alexander Schwing, Aniruddha Kembhavi* <br>
 CVPR, 2019. [[Paper]](https://arxiv.org/pdf/1904.05879.pdf) [[Website]](https://prior.allenai.org/projects/two-body-problem)
@@ -192,7 +202,7 @@ CVPR, 2019. [[Paper]](https://arxiv.org/pdf/1904.05879.pdf) [[Website]](https://
 ECCV, 2020. [[Paper]](https://arxiv.org/abs/2007.04979) [[Code]](https://github.com/allenai/cordial-sync) [[Website]](https://unnat.github.io/cordial-sync/)
 
 
-### Visual Exploration
+### <a name="visual_exploration"></a> Visual Exploration
 * **Curiosity-driven Exploration by Self-supervised Prediction** <br>
 *Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, Trevor Darrell* <br>
 ICML, 2017. [[Paper]](https://arxiv.org/pdf/1705.05363.pdf) [[Code]](https://github.com/pathak22/noreward-rl) [[Website]](https://pathak22.github.io/noreward-rl/)
@@ -231,7 +241,7 @@ arXiv, 2020. [[Paper]](https://vdean.github.io/resources/audio-curiosity2020.pdf
 
 
 
-### Visual Interactions
+### <a name="visual_interaction"></a> Visual Interactions
 * **Visual Semantic Planning using Deep Successor Representations** <br>
 *Yuke Zhu, Daniel Gordon, Eric Kolve, Dieter Fox, Li Fei-Fei, Abhinav Gupta, Roozbeh Mottaghi, Ali Farhadi* <br>
 ICCV, 2017. [[Paper]](https://arxiv.org/abs/1705.08080) [[Code]](link) [[Website]](link)
@@ -260,7 +270,7 @@ ICLR, 2018. [[Paper]](https://arxiv.org/pdf/1803.00653.pdf) [[Code]](https://git
 *Author(s)* <br>
 Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)-->
 
-## Datasets
+## <a name="datasets"></a> Datasets
 
 * **A Dataset for Developing and Benchmarking Active Vision** <br>
 *Phil Ammirato, Patrick Poirson, Eunbyung Park, Jana Kosecka, Alexander C. Berg* <br>
@@ -283,7 +293,7 @@ CVPR, 2018. [[Paper]](https://arxiv.org/abs/1808.10654) [[Code]](https://github.
 arXiV, 2019. [[Paper]](https://arxiv.org/pdf/1906.05797.pdf) [[Code]](https://github.com/facebookresearch/Replica-Dataset)
 
 
-## Environments
+## <a name="environments"></a> Environments
 * **AI2-THOR: An Interactive 3D Environment for Visual AI** <br>
 *Eric Kolve, Roozbeh Mottaghi, Winson Han, Eli VanderBilt, Luca Weihs, Alvaro Herrasti, Daniel Gordon, Yuke Zhu, Abhinav Gupta, Ali Farhadi* <br>
 arXiv, 2017. [[Paper]](https://arxiv.org/abs/1712.05474) [[Code]](https://github.com/allenai/ai2thor) [[Website]](https://ai2thor.allenai.org/)
@@ -304,7 +314,7 @@ CVPR, 2018. [[Paper]](https://arxiv.org/abs/1808.10654) [[Code]](https://github.
 *Manolis Savva, Abhishek Kadian, Oleksandr Maksymets, Yili Zhao, Erik Wijmans, Bhavana Jain, Julian Straub, Jia Liu, Vladlen Koltun, Jitendra Malik, Devi Parikh, Dhruv Batra* <br>
 ICCV, 2019. [[Paper]](https://arxiv.org/abs/1904.01201) [[Code]](https://github.com/facebookresearch/habitat-api) [[Website]](https://aihabitat.org/)
 
-## MISC
+## <a name="misc"></a> MISC
 * **Embodied-AI Workshop** <br>
 CVPR, 2020. [[website]](https://embodied-ai.org/#overview)
 
