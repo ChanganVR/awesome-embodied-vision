@@ -3,6 +3,8 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln).
 
+By [Changan Chen](changan.io) (changan@cs.utexas.edu), Department of Computer Science at the University of Texas at Austin, with help from members of the [Computer Vision Group](vision.cs.utexas.edu). If you see papers missing from the list, please send me an email or a pull request (format see [below](#contributing)).
+
 ## Table of Content
 
 * [Papers](#papers)
@@ -18,8 +20,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing an
 * [Environments](#environments)
 * [MISC](#misc)
 
-## Contributing
-Put the new paper at the correct chronological position as the following format: <br>
+## <a name="contributing"></a> Contributing
+When sending PRs, please put the new paper at the correct chronological position as the following format: <br>
 
 ```
 * **Paper Title** <br>
