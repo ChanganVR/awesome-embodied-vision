@@ -54,7 +54,7 @@ ICLR, 2020. [[Paper]](https://arxiv.org/abs/1911.00357) [[Code]](https://github.
 
 * **Learning to Explore using Active Neural SLAM** <br>
 *Devendra Singh Chaplot, Dhiraj Gandhi, Saurabh Gupta, Abhinav Gupta, Ruslan Salakhutdinov* <br>
-ICLR, 2020. [[Paper]](https://openreview.net/pdf?id=HklXn1BKDH) [[Code]](https://github.com/devendrachaplot/Neural-SLAM) [[Website]](https://www.cs.cmu.edu/~dchaplot/projects/neural-slam.html)
+ICLR, 2020. [[Paper]](https://openreview.net/pdf?id=HklXn1BKDH) [[Code]](https://github.com/devendrachaplot/Neural-SLAM) [[Website]](https://devendrachaplot.github.io/projects/Neural-SLAM)
 
 
 ### <a name="audiogoal"></a> Audio-Visual Navigation
@@ -89,6 +89,11 @@ ICCV, 2019. [[Paper]](https://arxiv.org/abs/1909.04306) [[Code]](https://github.
 *William B. Shen, Danfei Xu, Yuke Zhu, Leonidas J. Guibas, Li Fei-Fei, Silvio Savarese* <br>
 ICCV, 2019. [[Paper]](https://arxiv.org/abs/1908.09073)
 
+* **Object Goal Navigation using Goal-Oriented Semantic Exploration** <br>
+*Devendra Singh Chaplot, Dhiraj Gandhi, Abhinav Gupta\*, Ruslan Salakhutdinov\** <br>
+arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2007.00643.pdf) [[Website]](https://devendrachaplot.github.io/projects/semantic-exploration)
+
+
 ### <a name="imagegoal"></a> ImageGoal Navigation
 
 * **Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning** <br>
@@ -101,11 +106,13 @@ ICLR, 2018. [[Paper]](https://arxiv.org/pdf/1803.00653.pdf) [[Code]](https://git
 
 * **Neural Topological SLAM for Visual Navigation** <br>
 *Devendra Singh Chaplot, Ruslan Salakhutdinov, Abhinav Gupta, Saurabh Gupta* <br>
-CVPR, 2020. [[Paper]](http://www.cs.cmu.edu/~dchaplot/papers/cvpr20_neural_topological_slam.pdf) [[Website]](https://www.cs.cmu.edu/~dchaplot/projects/neural-topological-slam.html)
+CVPR, 2020. [[Paper]](https://arxiv.org/pdf/2005.12256.pdf) [[Website]](https://devendrachaplot.github.io/projects/Neural-Topological-SLAM)
 
-* **Object Goal Navigation using Goal-Oriented Semantic Exploration** <br>
-*Devendra Singh Chaplot, Dhiraj Gandhi, Abhinav Gupta\*, Ruslan Salakhutdinov\** <br>
-arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2007.00643.pdf) [[Website]](https://www.cs.cmu.edu/~dchaplot/projects/semantic-exploration.html)
+* **Semantic Visual Navigation by Watching YouTube Videos** <br>
+*Matthew Chang, Arjun Gupta, Saurabh Gupta* <br>
+arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2006.10034.pdf) [[Website]](https://matthewchang.github.io/value-learning-from-videos/)
+
+
 
 ### <a name="vln"></a> Vision-Language Navigation
 
@@ -227,15 +234,19 @@ ICLR, 2019. [[Paper]](https://openreview.net/pdf?id=SkeK3s0qKQ) [[Code]](https:/
 
 * **Emergence of Exploratory Look-Around Behaviors through Active Observation Completion** <br>
 *Santhosh K. Ramakrishnan\*, Dinesh Jayaraman\*, Kristen Grauman* <br>
-CVPR, 2019. [[Paper]](https://arxiv.org/pdf/1903.03878.pdf) [[Code]](https://github.com/srama2512/visual-exploration) [[Website]](http://vision.cs.utexas.edu/projects/visual-exploration/)
+Science Robotics, 2019. [[Paper]](https://arxiv.org/pdf/1906.11407.pdf) [[Code]](https://github.com/srama2512/visual-exploration) [[Website]](http://vision.cs.utexas.edu/projects/visual-exploration/)
 
 * **Scene Memory Transformer for Embodied Agents in Long-Horizon Tasks** <br>
 *Kuan Fang, Alexander Toshev, Li Fei-Fei, Silvio Savarese* <br>
-Science Robotics, 2019. [[Paper]](https://arxiv.org/pdf/1906.11407.pdf) [[Website]](https://sites.google.com/view/scene-memory-transformer)
+CVPR, 2019. [[Paper]](https://arxiv.org/pdf/1903.03878.pdf) [[Website]](https://sites.google.com/view/scene-memory-transformer)
 
 * **Learning to Explore using Active Neural SLAM** <br>
 *Devendra Singh Chaplot, Dhiraj Gandhi, Saurabh Gupta, Abhinav Gupta, Ruslan Salakhutdinov* <br>
-ICLR, 2020. [[Paper]](https://openreview.net/pdf?id=HklXn1BKDH) [[Code]](https://github.com/devendrachaplot/Neural-SLAM) [[Website]](https://www.cs.cmu.edu/~dchaplot/projects/neural-slam.html)
+ICLR, 2020. [[Paper]](https://openreview.net/pdf?id=HklXn1BKDH) [[Code]](https://github.com/devendrachaplot/Neural-SLAM) [[Website]](https://devendrachaplot.github.io/projects/Neural-SLAM)
+
+* **Semantic Curiosity for Active Visual Learning** <br>
+*Devendra Singh Chaplot, Helen Jiang, Saurabh Gupta, Abhinav Gupta* <br>
+ECCV, 2020. [[Paper]](https://arxiv.org/pdf/2006.09367.pdf) [[Website]](https://devendrachaplot.github.io/projects/SemanticCuriosity)
 
 * **See, Hear, Explore: Curiosity via Audio-Visual Association** <br>
 *Victoria Dean, Shubham Tulsiani, Abhinav Gupta* <br>
