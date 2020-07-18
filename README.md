@@ -91,7 +91,7 @@ ICCV, 2019. [[Paper]](https://arxiv.org/abs/1908.09073)
 
 * **Object Goal Navigation using Goal-Oriented Semantic Exploration** <br>
 *Devendra Singh Chaplot, Dhiraj Gandhi, Abhinav Gupta\*, Ruslan Salakhutdinov\** <br>
-arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2007.00643.pdf) [[Website]](https://www.cs.cmu.edu/~dchaplot/projects/semantic-exploration.html)
+arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2007.00643.pdf) [[Website]](https://devendrachaplot.github.io/projects/semantic-exploration)
 
 
 ### <a name="imagegoal"></a> ImageGoal Navigation
