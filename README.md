@@ -10,7 +10,7 @@ By [Changan Chen](https://changan.io) (changan@cs.utexas.edu), Department of Com
 * [Papers](#papers)
 	* [PointGoal Navigation](#pointgoal)
 	* [Audio-Visual Navigation](#audiogoal)
-	* [Semantic Navigation](#semanticgoal)
+	* [Object Navigation](#objectgoal)
 	* [ImageGoal Navigation](#imagegoal)
 	* [Vision-Language Navigation](#vln)
 	* [Multiagent Navigation](#multiagent)
@@ -67,7 +67,7 @@ ECCV, 2020. [[Paper]](https://arxiv.org/pdf/1912.11474.pdf) [[Website]](http://v
 ICRA, 2020. [[Paper]](https://arxiv.org/pdf/1912.11474.pdf) [[Website]](http://vision.cs.utexas.edu/projects/audio_visual_navigation/)
 
 
-### <a name="semanticgoal"></a> Semantic Navigation
+### <a name="objectgoal"></a> ObjectGoal Navigation
 
 * **Cognitive Mapping and Planning for Visual Navigation** <br>
 *Saurabh Gupta, Varun Tolani, James Davidson, Sergey Levine, Rahul Sukthankar, Jitendra Malik* <br>
@@ -271,8 +271,12 @@ CVPR, 2019. [[Paper]](https://arxiv.org/abs/1812.00971) [[Code]](https://github.
 *Mohit Shridhar, Jesse Thomason, Daniel Gordon, Yonatan Bisk, Winson Han, Roozbeh Mottaghi, Luke Zettlemoyer, Dieter Fox* <br>
 CVPR, 2020. [[Paper]](https://arxiv.org/abs/1912.01734) [[Code]](https://github.com/askforalfred/alfred) [[Website]](https://askforalfred.com/)
 
+* **Learning About Objects by Learning to Interact with Them** <br>
+*Martin Lohmann, Jordi Salvador, Aniruddha Kembhavi, Roozbeh Mottaghi* <br>
+arXiv, 2020. [[Paper]](https://arxiv.org/abs/2006.09306)
 
-<!--### Mapping
+
+<!--### Active Vision
 * **SEMI-PARAMETRIC TOPOLOGICAL MEMORY FOR NAVIGATION** <br>
 *Nikolay Savinov\*, Alexey Dosovitskiy\*, Vladlen Koltun* <br>
 ICLR, 2018. [[Paper]](https://arxiv.org/pdf/1803.00653.pdf) [[Code]](https://github.com/nsavinov/SPTM) [[Website]](https://sites.google.com/view/SPTM)
