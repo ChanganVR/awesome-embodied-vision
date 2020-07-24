@@ -200,6 +200,14 @@ arXiv, 2020. [[Paper]](https://arxiv.org/abs/2003.14269)
 *Yicong Hong, Cristian Rodriguez-Opazo, Qi Wu, Stephen Gould* <br>
 arXiv, 2020. [[Paper]](https://arxiv.org/abs/2004.02707)
 
+* **Vision-based Navigation with Language-based Assistance via Imitation Learning with Indirect Intervention** <br>
+*Khanh Nguyen, Debadeepta Dey, Chris Brockett, Bill Dolan* <br>
+CVPR, 2019. [[Paper]](https://arxiv.org/abs/1909.01871) [[Code]](https://github.com/khanhptnk/hanna) [[Video]](https://youtu.be/18P94aaaLKg)   
+
+* **Help, Anna! Visual Navigation with Natural Multimodal Assistance via Retrospective Curiosity-Encouraging Imitation Learning** <br>
+*Khanh Nguyen, Hal Daumé III* <br>
+EMNLP, 2019. [[Paper]](https://arxiv.org/abs/1812.04155) [[Code]](https://github.com/debadeepta/vnla) [[Video]](https://youtu.be/Vp6C29qTKQ0) 
+
 
 ### <a name="multiagent"></a> Multiagent Navigation
 * **Two Body Problem: Collaborative Visual Task Completion** <br>
