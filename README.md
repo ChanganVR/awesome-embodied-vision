@@ -112,6 +112,10 @@ CVPR, 2020. [[Paper]](https://arxiv.org/pdf/2005.12256.pdf) [[Website]](https://
 *Matthew Chang, Arjun Gupta, Saurabh Gupta* <br>
 arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2006.10034.pdf) [[Website]](https://matthewchang.github.io/value-learning-from-videos/)
 
+* **Learning Object Relation Graph and Tentative Policy for Visual Navigation** <br>
+*Heming Du, Xin Yu, Liang Zheng* <br>
+ECCV, 2020. [[Paper]](https://arxiv.org/abs/2007.11018)
+
 
 
 ### <a name="vln"></a> Vision-Language Navigation
@@ -123,6 +127,10 @@ CVPR, 2018. [[Paper]](https://arxiv.org/abs/1711.07280) [[Code]](https://github.
 * **Look Before You Leap: Bridging Model-Free and Model-Based Reinforcement Learning for Planned-Ahead Vision-and-Language Navigation** <br>
 *Xin Wang, Wenhan Xiong, Hongmin Wang, William Yang Wang* <br>
 ECCV, 2018. [[Paper]](https://arxiv.org/abs/1803.07729)
+
+* **Mapping Instructions to Actions in 3D Environmentswith Visual Goal Prediction** <br>
+*Dipendra Misra, Andrew Bennett, Valts Blukis, Eyvind Niklasson, Max Shatkhin, Yoav Artzi* <br>
+EMNLP, 2018. [[Paper]](https://arxiv.org/abs/1809.00786)
 
 * **Speaker-Follower Models for Vision-and-Language Navigation** <br>
 *Daniel Fried, Ronghang Hu, Volkan Cirik, Anna Rohrbach, Jacob Andreas, Louis-Philippe Morency, Taylor Berg-Kirkpatrick, Kate Saenko, Dan Klein, Trevor Darrell* <br>
@@ -140,9 +148,21 @@ ICLR, 2019. [[Paper]](https://arxiv.org/abs/1901.03035) [[Code]](https://github.
 *Chih-Yao Ma, Zuxuan Wu, Ghassan AlRegib, Caiming Xiong, Zsolt Kira* <br>
 CVPR, 2019. [[Paper]](https://arxiv.org/abs/1903.01602) [[Code]](https://github.com/chihyaoma/regretful-agent) [[Website]](https://chihyaoma.github.io/project/2019/02/25/regretful.html)
 
+* **TOUCHDOWN: Natural Language Navigation and Spatial Reasoning in Visual Street Environments** <br>
+*Howard Chen, Alane Suhr, Dipendra Misra, Noah Snavely, Yoav Artzi* <br>
+CVPR, 2019. [[Paper]](https://arxiv.org/pdf/1811.12354.pdf) [[Code]](https://github.com/lil-lab/touchdown) 
+
 * **Tactical Rewind: Self-Correction via Backtracking in Vision-and-Language Navigation** <br>
 *Liyiming Ke, Xiujun Li, Yonatan Bisk, Ari Holtzman, Zhe Gan, Jingjing Liu, Jianfeng Gao, Yejin Choi, Siddhartha Srinivasa* <br>
 CVPR, 2019. [[Paper]](http://arxiv.org/abs/1903.02547) [[Code]](https://github.com/Kelym/FAST) [[Video]](https://www.youtube.com/watch?v=AD9TNohXoPA)
+
+* **Vision-based Navigation with Language-based Assistance via Imitation Learning with Indirect Intervention** <br>
+*Khanh Nguyen, Debadeepta Dey, Chris Brockett, Bill Dolan* <br>
+CVPR, 2019. [[Paper]](https://arxiv.org/abs/1909.01871) [[Code]](https://github.com/khanhptnk/hanna) [[Video]](https://youtu.be/18P94aaaLKg)   
+
+* **Help, Anna! Visual Navigation with Natural Multimodal Assistance via Retrospective Curiosity-Encouraging Imitation Learning** <br>
+*Khanh Nguyen, Hal Daumé III* <br>
+EMNLP, 2019. [[Paper]](https://arxiv.org/abs/1812.04155) [[Code]](https://github.com/debadeepta/vnla) [[Video]](https://youtu.be/Vp6C29qTKQ0) 
 
 * **Chasing Ghosts: Instruction Following as Bayesian State Tracking** <br>
 *Peter Anderson, Ayush Shrivastava, Devi Parikh, Dhruv Batra, Stefan Lee* <br>
@@ -200,13 +220,29 @@ arXiv, 2020. [[Paper]](https://arxiv.org/abs/2003.14269)
 *Yicong Hong, Cristian Rodriguez-Opazo, Qi Wu, Stephen Gould* <br>
 arXiv, 2020. [[Paper]](https://arxiv.org/abs/2004.02707)
 
-* **Vision-based Navigation with Language-based Assistance via Imitation Learning with Indirect Intervention** <br>
-*Khanh Nguyen, Debadeepta Dey, Chris Brockett, Bill Dolan* <br>
-CVPR, 2019. [[Paper]](https://arxiv.org/abs/1909.01871) [[Code]](https://github.com/khanhptnk/hanna) [[Video]](https://youtu.be/18P94aaaLKg)   
+* **Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments** <br>
+*Jacob Krantz, Erik Wijmans, Arjun Majumdar, Dhruv Batra, Stefan Lee* <br>
+ECCV, 2020. [[Paper]](https://arxiv.org/abs/2004.02857) [[Code]](https://github.com/jacobkrantz/VLN-CE) [[Website]](https://jacobkrantz.github.io/vlnce)
 
-* **Help, Anna! Visual Navigation with Natural Multimodal Assistance via Retrospective Curiosity-Encouraging Imitation Learning** <br>
-*Khanh Nguyen, Hal Daumé III* <br>
-EMNLP, 2019. [[Paper]](https://arxiv.org/abs/1812.04155) [[Code]](https://github.com/debadeepta/vnla) [[Video]](https://youtu.be/Vp6C29qTKQ0) 
+* **Counterfactual Vision-and-Language Navigation via Adversarial Path Sampling** <br>
+*Tsu-Jui Fu, Xin Eric Wang, Matthew Peterson, Scott Grafton, Miguel Eckstein, William Yang Wang* <br>
+ECCV, 2020. [[Paper]](https://arxiv.org/abs/1911.07308) [[Code]](https://github.com/jacobkrantz/VLN-CE) [[Website]](https://jacobkrantz.github.io/vlnce)
+
+* **Improving Vision-and-Language Navigation with Image-Text Pairs from the Web** <br>
+*Arjun Majumdar, Ayush Shrivastava, Stefan Lee, Peter Anderson, Devi Parikh, Dhruv Batra* <br>
+ECCV, 2020. [[Paper]](https://arxiv.org/abs/2004.14973)
+
+* **Soft Expert Reward Learning for Vision-and-Language Navigation** <br>
+*Hu Wang, Qi Wu, Chunhua Shen* <br>
+ECCV, 2020. [[Paper]](https://arxiv.org/abs/2007.10835)
+
+* **Active Visual Information Gathering for Vision-Language Navigation** <br>
+*Hanqing Wang, Wenguan Wang, Tianmin Shu, Wei Liang, Jianbing Shen* <br>
+ECCV, 2020. [[Paper]](https://arxiv.org/abs/2007.08037)  [[Code]](https://github.com/HanqingWangAI/Active_VLN)
+
+* **Environment-agnostic Multitask Learning for Natural Language Grounded Navigation** <br>
+*Xin Eric Wang, Vihan Jain, Eugene Ie, William Yang Wang, Zornitsa Kozareva, Sujith Ravi* <br>
+ECCV, 2020. [[Paper]](https://arxiv.org/abs/2003.00443) 
 
 
 ### <a name="multiagent"></a> Multiagent Navigation
@@ -323,13 +359,17 @@ arXiV, 2019. [[Paper]](https://arxiv.org/pdf/1906.05797.pdf) [[Code]](https://gi
 *Eric Kolve, Roozbeh Mottaghi, Winson Han, Eli VanderBilt, Luca Weihs, Alvaro Herrasti, Daniel Gordon, Yuke Zhu, Abhinav Gupta, Ali Farhadi* <br>
 arXiv, 2017. [[Paper]](https://arxiv.org/abs/1712.05474) [[Code]](https://github.com/allenai/ai2thor) [[Website]](https://ai2thor.allenai.org/)
 
-* **BUILDING GENERALIZABLE AGENTS WITH A REALISTIC AND RICH 3D ENVIRONMEN (House3D)** <br>
+* **Building Generalizable Agents with a Realistic and Rich 3D Environment (House3D)** <br>
 *Yi Wu, Yuxin Wu, Georgia Gkioxari, Yuandong Tian* <br>
 arXiv, 2018. [[Paper]](https://arxiv.org/pdf/1801.02209.pdf) [[Code]](https://github.com/facebookresearch/House3D) 
 
+* **CHALET: Cornell House Agent Learning Environment** <br>
+*Claudia Yan, Dipendra Misra, Andrew Bennett, Aaron Walsman, Yonatan Bisk and Yoav Artzi* <br>
+arXiv, 2018. [[Paper]](https://arxiv.org/pdf/1801.07357.pdf) [[Code]](https://github.com/facebookresearch/House3D) 
+
 * **RoboTHOR: An Open Simulation-to-Real Embodied AI Platform** <br>
 *Matt Deitke, Winson Han, Alvaro Herrasti, Aniruddha Kembhavi, Eric Kolve, Roozbeh Mottaghi, Jordi Salvador, Dustin Schwenk, Eli VanderBilt, Matthew Wallingford, Luca Weihs, Mark Yatskar, Ali Farhadi* <br>
-CVPR, 2020. [[Paper]](https://arxiv.org/abs/2004.06799) [[Code]](https://github.com/allenai/ai2thor) [[Website]](https://ai2thor.allenai.org/robothor/)
+CVPR, 2020. [[Paper]](https://arxiv.org/abs/2004.06799) [[Website]](https://github.com/lil-lab/chalet)
 
 * **Gibson Env: Real-World Perception for Embodied Agents** <br>
 *Fei Xia, Amir Zamir, Zhi-Yang He, Alexander Sax, Jitendra Malik, Silvio Savarese* <br>
@@ -340,6 +380,9 @@ CVPR, 2018. [[Paper]](https://arxiv.org/abs/1808.10654) [[Code]](https://github.
 ICCV, 2019. [[Paper]](https://arxiv.org/abs/1904.01201) [[Code]](https://github.com/facebookresearch/habitat-api) [[Website]](https://aihabitat.org/)
 
 ## <a name="misc"></a> MISC
+* **Visual Learning and Embodied Agents in Simulation Environments Workshop** <br>
+ECCV, 2018. [[website]](https://eccv18-vlease.github.io/)
+
 * **Embodied-AI Workshop** <br>
 CVPR, 2020. [[website]](https://embodied-ai.org/#overview)
 
