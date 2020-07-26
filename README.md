@@ -10,7 +10,7 @@ By [Changan Chen](https://changan.io) (changan@cs.utexas.edu), Department of Com
 * [Papers](#papers)
 	* [PointGoal Navigation](#pointgoal)
 	* [Audio-Visual Navigation](#audiogoal)
-	* [Object Navigation](#objectgoal)
+	* [ObjectGoal Navigation](#objectgoal)
 	* [ImageGoal Navigation](#imagegoal)
 	* [Vision-Language Navigation](#vln)
 	* [Multiagent Navigation](#multiagent)
@@ -81,6 +81,10 @@ ICLR, 2019. [[Paper]](https://arxiv.org/abs/1810.06543)
 *Arsalan Mousavian, Alexander Toshev, Marek Fiser, Jana Kosecka, Ayzaan Wahid, James Davidson* <br>
 ICRA, 2019. [[Paper]](https://arxiv.org/pdf/1805.06066.pdf) [[Code]](https://github.com/arsalan-mousavian/Navigation)
 
+* **Learning to Learn How to Learn: Self-Adaptive Visual Navigation Using Meta-Learning** <br>
+*Mitchell Wortsman, Kiana Ehsani, Mohammad Rastegari, Ali Farhadi, Roozbeh Mottaghi* <br>
+CVPR, 2019. [[Paper]](https://arxiv.org/abs/1812.00971) [[Code]](https://github.com/allenai/savn) [[Website]](https://prior.allenai.org/projects/savn)
+
 * **Bayesian Relational Memory for Semantic Visual Navigation** <br>
 *Yi Wu, Yuxin Wu, Aviv Tamar, Stuart Russell, Georgia Gkioxari, Yuandong Tian* <br>
 ICCV, 2019. [[Paper]](https://arxiv.org/abs/1909.04306) [[Code]](https://github.com/jxwuyi/HouseNavAgent)
@@ -92,6 +96,10 @@ ICCV, 2019. [[Paper]](https://arxiv.org/abs/1908.09073)
 * **Object Goal Navigation using Goal-Oriented Semantic Exploration** <br>
 *Devendra Singh Chaplot, Dhiraj Gandhi, Abhinav Gupta\*, Ruslan Salakhutdinov\** <br>
 arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2007.00643.pdf) [[Website]](https://devendrachaplot.github.io/projects/semantic-exploration)
+
+* **Learning Object Relation Graph and Tentative Policy for Visual Navigation** <br>
+*Heming Du, Xin Yu, Liang Zheng* <br>
+ECCV, 2020. [[Paper]](https://arxiv.org/abs/2007.11018)
 
 
 ### <a name="imagegoal"></a> ImageGoal Navigation
@@ -111,11 +119,6 @@ CVPR, 2020. [[Paper]](https://arxiv.org/pdf/2005.12256.pdf) [[Website]](https://
 * **Semantic Visual Navigation by Watching YouTube Videos** <br>
 *Matthew Chang, Arjun Gupta, Saurabh Gupta* <br>
 arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2006.10034.pdf) [[Website]](https://matthewchang.github.io/value-learning-from-videos/)
-
-* **Learning Object Relation Graph and Tentative Policy for Visual Navigation** <br>
-*Heming Du, Xin Yu, Liang Zheng* <br>
-ECCV, 2020. [[Paper]](https://arxiv.org/abs/2007.11018)
-
 
 
 ### <a name="vln"></a> Vision-Language Navigation
@@ -306,10 +309,6 @@ ICCV, 2017. [[Paper]](https://arxiv.org/abs/1705.08080) [[Code]](link) [[Website
 * **IQA: Visual Question Answering in Interactive Environments** <br>
 *Daniel Gordon, Aniruddha Kembhavi, Mohammad Rastegari, Joseph Redmon, Dieter Fox, and Ali Farhadi* <br>
 CVPR, 2018. [[Paper]](https://arxiv.org/abs/1712.03316) [[Code]](https://github.com/danielgordon10/thor-iqa-cvpr-2018) [[Website]](https://prior.allenai.org/projects/iqa)
-
-* **Learning to Learn How to Learn: Self-Adaptive Visual Navigation Using Meta-Learning** <br>
-*Mitchell Wortsman, Kiana Ehsani, Mohammad Rastegari, Ali Farhadi, Roozbeh Mottaghi* <br>
-CVPR, 2019. [[Paper]](https://arxiv.org/abs/1812.00971) [[Code]](https://github.com/allenai/savn) [[Website]](https://prior.allenai.org/projects/savn)
 
 * **ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks** <br>
 *Mohit Shridhar, Jesse Thomason, Daniel Gordon, Yonatan Bisk, Winson Han, Roozbeh Mottaghi, Luke Zettlemoyer, Dieter Fox* <br>
