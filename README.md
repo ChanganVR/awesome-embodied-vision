@@ -101,6 +101,10 @@ arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2007.00643.pdf) [[Website]](https:/
 *Heming Du, Xin Yu, Liang Zheng* <br>
 ECCV, 2020. [[Paper]](https://arxiv.org/abs/2007.11018)
 
+* **Semantic Visual Navigation by Watching YouTube Videos** <br>
+*Matthew Chang, Arjun Gupta, Saurabh Gupta* <br>
+arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2006.10034.pdf) [[Website]](https://matthewchang.github.io/value-learning-from-videos/)
+
 
 ### <a name="imagegoal"></a> ImageGoal Navigation
 
@@ -116,9 +120,6 @@ ICLR, 2018. [[Paper]](https://arxiv.org/pdf/1803.00653.pdf) [[Code]](https://git
 *Devendra Singh Chaplot, Ruslan Salakhutdinov, Abhinav Gupta, Saurabh Gupta* <br>
 CVPR, 2020. [[Paper]](https://arxiv.org/pdf/2005.12256.pdf) [[Website]](https://devendrachaplot.github.io/projects/Neural-Topological-SLAM)
 
-* **Semantic Visual Navigation by Watching YouTube Videos** <br>
-*Matthew Chang, Arjun Gupta, Saurabh Gupta* <br>
-arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2006.10034.pdf) [[Website]](https://matthewchang.github.io/value-learning-from-videos/)
 
 
 ### <a name="vln"></a> Vision-Language Navigation
