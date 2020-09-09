@@ -13,6 +13,7 @@ By [Changan Chen](https://changan.io) (changan@cs.utexas.edu), Department of Com
 	* [ObjectGoal Navigation](#objectgoal)
 	* [ImageGoal Navigation](#imagegoal)
 	* [Vision-Language Navigation](#vln)
+	* [Embodied Question Answering](#eqa)
 	* [Multiagent Navigation](#multiagent)
 	* [Visual Exploration](#visual_exploration)
 	* [Visual Interactions](#visual_interaction)
@@ -56,6 +57,10 @@ ICLR, 2020. [[Paper]](https://arxiv.org/abs/1911.00357) [[Code]](https://github.
 *Devendra Singh Chaplot, Dhiraj Gandhi, Saurabh Gupta, Abhinav Gupta, Ruslan Salakhutdinov* <br>
 ICLR, 2020. [[Paper]](https://openreview.net/pdf?id=HklXn1BKDH) [[Code]](https://github.com/devendrachaplot/Neural-SLAM) [[Website]](https://devendrachaplot.github.io/projects/Neural-SLAM)
 
+* **Auxiliary Tasks Speed Up Learning PointGoal Navigation** <br>
+*Devendra Singh Chaplot, Dhiraj Gandhi, Saurabh Gupta, Abhinav Gupta, Ruslan Salakhutdinov* <br>
+arXiv, 2020. [[Paper]](hhttps://arxiv.org/abs/2007.04561)
+
 
 ### <a name="audiogoal"></a> Audio-Visual Navigation
 * **Audio-Visual Embodied Navigation** <br>
@@ -65,6 +70,10 @@ ECCV, 2020. [[Paper]](https://arxiv.org/pdf/1912.11474.pdf) [[Website]](http://v
 * **Look, Listen, and Act: Towards Audio-Visual Embodied Navigation** <br>
 *Chuang Gan, Yiwei Zhang, Jiajun Wu, Boqing Gong, Joshua B. Tenenbaum* <br>
 ICRA, 2020. [[Paper]](https://arxiv.org/pdf/1912.11474.pdf) [[Website]](http://vision.cs.utexas.edu/projects/audio_visual_navigation/)
+
+* **Audio-Visual Waypoints for Navigation** <br>
+*Changan Chen, Sagnik Majumder, Ziad Al-Halah, Ruohan Gao, Santhosh K. Ramakrishnan, Kristen Grauman* <br>
+arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2008.09622.pdf) [[Website]](http://vision.cs.utexas.edu/projects/audio_visual_waypoints/)
 
 
 ### <a name="objectgoal"></a> ObjectGoal Navigation
@@ -104,6 +113,10 @@ ECCV, 2020. [[Paper]](https://arxiv.org/abs/2007.11018)
 * **Semantic Visual Navigation by Watching YouTube Videos** <br>
 *Matthew Chang, Arjun Gupta, Saurabh Gupta* <br>
 arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2006.10034.pdf) [[Website]](https://matthewchang.github.io/value-learning-from-videos/)
+
+* **ObjectNav Revisited: On Evaluation of Embodied Agents Navigating to Objects** <br>
+*Dhruv Batra, Aaron Gokaslan, Aniruddha Kembhavi, Oleksandr Maksymets, Roozbeh Mottaghi, Manolis Savva, Alexander Toshev, Erik Wijmans* <br>
+arXiv, 2020. [[Paper]](https://arxiv.org/abs/2006.13171)
 
 
 ### <a name="imagegoal"></a> ImageGoal Navigation
@@ -301,11 +314,25 @@ ECCV, 2020. [[Paper]](https://arxiv.org/pdf/2006.09367.pdf) [[Website]](https://
 arXiv, 2020. [[Paper]](https://vdean.github.io/resources/audio-curiosity2020.pdf) [[Website]](https://vdean.github.io/audio-curiosity.html)
 
 
+### <a name="eqa"></a> Embodied Question Answering
+* **Embodied Question Answering** <br>
+*Abhishek Das, Samyak Datta, Georgia Gkioxari, Stefan Lee, Devi Parikh, Dhruv Batra* <br>
+CVPR, 2018. [[Paper]](https://arxiv.org/abs/1711.11543) [[Code]](https://github.com/facebookresearch/EmbodiedQA) [[Website]](https://embodiedqa.org/)
+
+* **Multi-Target Embodied Question Answering** <br>
+*Licheng Yu, Xinlei Chen, Georgia Gkioxari, Mohit Bansal, Tamara L. Berg, Dhruv Batra* <br>
+CVPR, 2019. [[Paper]](https://arxiv.org/abs/1904.04686)
+
+* **Embodied Question Answering in Photorealistic Environments with Point Cloud Perception** <br>
+*Erik Wijmans\*, Samyak Datta\*, Oleksandr Maksymets\*, Abhishek Das, Georgia Gkioxari, Stefan Lee, Irfan Essa, Devi Parikh, Dhruv Batra* <br>
+CVPR, 2019. [[Paper]](https://arxiv.org/abs/1904.03461)
+
+
 
 ### <a name="visual_interaction"></a> Visual Interactions
 * **Visual Semantic Planning using Deep Successor Representations** <br>
 *Yuke Zhu, Daniel Gordon, Eric Kolve, Dieter Fox, Li Fei-Fei, Abhinav Gupta, Roozbeh Mottaghi, Ali Farhadi* <br>
-ICCV, 2017. [[Paper]](https://arxiv.org/abs/1705.08080) [[Code]](link) [[Website]](link)
+ICCV, 2017. [[Paper]](https://arxiv.org/abs/1705.08080)
 
 * **IQA: Visual Question Answering in Interactive Environments** <br>
 *Daniel Gordon, Aniruddha Kembhavi, Mohammad Rastegari, Joseph Redmon, Dieter Fox, and Ali Farhadi* <br>
@@ -388,6 +415,12 @@ CVPR, 2020. [[website]](https://embodied-ai.org/#overview)
 
 * **Gibson Sim2Real Challenge** <br>
 CVPR, 2020. [[website]](http://svl.stanford.edu/igibson/challenge.html)
+
+* **Embodied Vision, Actions & Language Workshop** <br>
+ECCV, 2020. [[website]](https://askforalfred.com/EVAL/)
+
+* **Closing the Reality Gap in Sim2Real Transfer for Robotics** <br>
+RSS, 2020. [[website]](https://sim2real.github.io/?fbclid=IwAR0fyyc_k8AmmYYRHbJJtjqGonAn1TUhUPWEdEpwpMbuwIkTgxmC13TJjG4)
 
 * **On Evaluation of Embodied Navigation Agents** <br>
 *Peter Anderson, Angel Chang, Devendra Singh Chaplot, Alexey Dosovitskiy, Saurabh Gupta, Vladlen Koltun, Jana Kosecka, Jitendra Malik, Roozbeh Mottaghi, Manolis Savva, Amir R. Zamir* <br>
