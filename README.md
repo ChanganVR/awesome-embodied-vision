@@ -360,7 +360,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)-->
 
 ## <a name="datasets"></a> Datasets
 
-* **Actionet: An Interactive End-to-End Platform for Task-Based Data Collection and Augmentation in 3D Environments. ** <br>
+* **Actionet: An Interactive End-to-End Platform for Task-Based Data Collection and Augmentation in 3D Environments** <br>
 *Jiafei Duan, Samson Yu, Hui Li Tan, Cheston Tan* <br>
 ICIP, 2020. [[Paper]](https://arxiv.org/pdf/2010.01357.pdf) [[Code]](https://github.com/SamsonYuBaiJian/actionet)
 
