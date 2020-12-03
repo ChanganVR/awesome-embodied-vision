@@ -359,7 +359,6 @@ ICLR, 2018. [[Paper]](https://arxiv.org/pdf/1803.00653.pdf) [[Code]](https://git
 Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)-->
 
 ## <a name="datasets"></a> Datasets
-
 * **A Dataset for Developing and Benchmarking Active Vision** <br>
 *Phil Ammirato, Patrick Poirson, Eunbyung Park, Jana Kosecka, Alexander C. Berg* <br>
 ICRA, 2017. [[Paper]](https://www.cs.unc.edu/~ammirato/active_vision_dataset_website/icra-rohit-paper.pdf) [[Code]](https://github.com/ammirato/active_vision_dataset_processing) [[Website]](https://www.cs.unc.edu/~ammirato/active_vision_dataset_website/)
@@ -379,6 +378,10 @@ CVPR, 2018. [[Paper]](https://arxiv.org/abs/1808.10654) [[Code]](https://github.
 * **The Replica Dataset: A Digital Replica of Indoor Spaces** <br>
 *Julian Straub, Thomas Whelan, Lingni Ma, Yufan Chen, Erik Wijmans, Simon Green, Jakob J. Engel, Raul Mur-Artal, Carl Ren, Shobhit Verma, Anton Clarkson, Mingfei Yan, Brian Budge, Yajie Yan, Xiaqing Pan, June Yon, Yuyang Zou, Kimberly Leon, Nigel Carter, Jesus Briales, Tyler Gillingham, Elias Mueggler, Luis Pesqueira, Manolis Savva, Dhruv Batra, Hauke M. Strasdat, Renzo De Nardi, Michael Goesele, Steven Lovegrove, Richard Newcombe* <br>
 arXiV, 2019. [[Paper]](https://arxiv.org/pdf/1906.05797.pdf) [[Code]](https://github.com/facebookresearch/Replica-Dataset)
+
+* **Actionet: An Interactive End-to-End Platform for Task-Based Data Collection and Augmentation in 3D Environments** <br>
+*Jiafei Duan, Samson Yu, Hui Li Tan, Cheston Tan* <br>
+ICIP, 2020. [[Paper]](https://arxiv.org/pdf/2010.01357.pdf) [[Code]](https://github.com/SamsonYuBaiJian/actionet)
 
 
 ## <a name="environments"></a> Environments
