@@ -58,8 +58,8 @@ ICLR, 2020. [[Paper]](https://arxiv.org/abs/1911.00357) [[Code]](https://github.
 ICLR, 2020. [[Paper]](https://openreview.net/pdf?id=HklXn1BKDH) [[Code]](https://github.com/devendrachaplot/Neural-SLAM) [[Website]](https://devendrachaplot.github.io/projects/Neural-SLAM)
 
 * **Auxiliary Tasks Speed Up Learning PointGoal Navigation** <br>
-*Devendra Singh Chaplot, Dhiraj Gandhi, Saurabh Gupta, Abhinav Gupta, Ruslan Salakhutdinov* <br>
-arXiv, 2020. [[Paper]](hhttps://arxiv.org/abs/2007.04561)
+*Joel Ye, Dhruv Batra, Erik Wijmans, Abhishek Das* <br>
+CoRL, 2020. [[Paper]](https://arxiv.org/abs/2007.04561) [[Code]](https://github.com/joel99/habitat-pointnav-aux)
 
 
 ### <a name="audiogoal"></a> Audio-Visual Navigation
@@ -167,7 +167,7 @@ CVPR, 2019. [[Paper]](https://arxiv.org/abs/1903.01602) [[Code]](https://github.
 
 * **TOUCHDOWN: Natural Language Navigation and Spatial Reasoning in Visual Street Environments** <br>
 *Howard Chen, Alane Suhr, Dipendra Misra, Noah Snavely, Yoav Artzi* <br>
-CVPR, 2019. [[Paper]](https://arxiv.org/pdf/1811.12354.pdf) [[Code]](https://github.com/lil-lab/touchdown) 
+CVPR, 2019. [[Paper]](https://arxiv.org/pdf/1811.12354.pdf) [[Code]](https://github.com/lil-lab/touchdown)
 
 * **Tactical Rewind: Self-Correction via Backtracking in Vision-and-Language Navigation** <br>
 *Liyiming Ke, Xiujun Li, Yonatan Bisk, Ari Holtzman, Zhe Gan, Jingjing Liu, Jianfeng Gao, Yejin Choi, Siddhartha Srinivasa* <br>
@@ -175,11 +175,11 @@ CVPR, 2019. [[Paper]](http://arxiv.org/abs/1903.02547) [[Code]](https://github.c
 
 * **Vision-based Navigation with Language-based Assistance via Imitation Learning with Indirect Intervention** <br>
 *Khanh Nguyen, Debadeepta Dey, Chris Brockett, Bill Dolan* <br>
-CVPR, 2019. [[Paper]](https://arxiv.org/abs/1909.01871) [[Code]](https://github.com/khanhptnk/hanna) [[Video]](https://youtu.be/18P94aaaLKg)   
+CVPR, 2019. [[Paper]](https://arxiv.org/abs/1909.01871) [[Code]](https://github.com/khanhptnk/hanna) [[Video]](https://youtu.be/18P94aaaLKg)
 
 * **Help, Anna! Visual Navigation with Natural Multimodal Assistance via Retrospective Curiosity-Encouraging Imitation Learning** <br>
 *Khanh Nguyen, Hal Daumé III* <br>
-EMNLP, 2019. [[Paper]](https://arxiv.org/abs/1812.04155) [[Code]](https://github.com/debadeepta/vnla) [[Video]](https://youtu.be/Vp6C29qTKQ0) 
+EMNLP, 2019. [[Paper]](https://arxiv.org/abs/1812.04155) [[Code]](https://github.com/debadeepta/vnla) [[Video]](https://youtu.be/Vp6C29qTKQ0)
 
 * **Chasing Ghosts: Instruction Following as Bayesian State Tracking** <br>
 *Peter Anderson, Ayush Shrivastava, Devi Parikh, Dhruv Batra, Stefan Lee* <br>
@@ -259,7 +259,7 @@ ECCV, 2020. [[Paper]](https://arxiv.org/abs/2007.08037)  [[Code]](https://github
 
 * **Environment-agnostic Multitask Learning for Natural Language Grounded Navigation** <br>
 *Xin Eric Wang, Vihan Jain, Eugene Ie, William Yang Wang, Zornitsa Kozareva, Sujith Ravi* <br>
-ECCV, 2020. [[Paper]](https://arxiv.org/abs/2003.00443) 
+ECCV, 2020. [[Paper]](https://arxiv.org/abs/2003.00443)
 
 
 ### <a name="multiagent"></a> Multiagent Navigation
@@ -391,11 +391,11 @@ arXiv, 2017. [[Paper]](https://arxiv.org/abs/1712.05474) [[Code]](https://github
 
 * **Building Generalizable Agents with a Realistic and Rich 3D Environment (House3D)** <br>
 *Yi Wu, Yuxin Wu, Georgia Gkioxari, Yuandong Tian* <br>
-arXiv, 2018. [[Paper]](https://arxiv.org/pdf/1801.02209.pdf) [[Code]](https://github.com/facebookresearch/House3D) 
+arXiv, 2018. [[Paper]](https://arxiv.org/pdf/1801.02209.pdf) [[Code]](https://github.com/facebookresearch/House3D)
 
 * **CHALET: Cornell House Agent Learning Environment** <br>
 *Claudia Yan, Dipendra Misra, Andrew Bennett, Aaron Walsman, Yonatan Bisk and Yoav Artzi* <br>
-arXiv, 2018. [[Paper]](https://arxiv.org/pdf/1801.07357.pdf) [[Code]](https://github.com/facebookresearch/House3D) 
+arXiv, 2018. [[Paper]](https://arxiv.org/pdf/1801.07357.pdf) [[Code]](https://github.com/facebookresearch/House3D)
 
 * **RoboTHOR: An Open Simulation-to-Real Embodied AI Platform** <br>
 *Matt Deitke, Winson Han, Alvaro Herrasti, Aniruddha Kembhavi, Eric Kolve, Roozbeh Mottaghi, Jordi Salvador, Dustin Schwenk, Eli VanderBilt, Matthew Wallingford, Luca Weihs, Mark Yatskar, Ali Farhadi* <br>
