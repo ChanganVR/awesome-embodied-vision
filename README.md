@@ -120,7 +120,7 @@ arXiv, 2020. [[Paper]](https://arxiv.org/abs/2006.13171)
 
 * **MultiON: Benchmarking Semantic Map Memory using Multi-Object Navigation** <br>
 *Saim Wani\*, Shivansh Patel\*, Unnat Jain\*, Angel X. Chang, Manolis Savva* <br>
-NeurIPS, 2020. [[Paper]](https://arxiv.org/abs/2012.03912) [[Code]](https://arxiv.org/abs/2012.03912) [[Website]](https://arxiv.org/abs/2012.03912)
+NeurIPS, 2020. [[Paper]](https://arxiv.org/abs/2012.03912) [[Code]](https://github.com/saimwani/multiON) [[Website]](https://shivanshpatel35.github.io/multi-ON/)
 
 
 ### <a name="imagegoal"></a> ImageGoal Navigation
