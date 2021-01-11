@@ -17,6 +17,7 @@ By [Changan Chen](https://changan.io) (changan@cs.utexas.edu), Department of Com
 	* [Multiagent Navigation](#multiagent)
 	* [Visual Exploration](#visual_exploration)
 	* [Visual Interactions](#visual_interaction)
+	* [Sim-to-real](#sim2real)
 * [Datasets](#datasets)
 * [Environments](#environments)
 * [MISC](#misc)
@@ -61,6 +62,10 @@ ICLR, 2020. [[Paper]](https://openreview.net/pdf?id=HklXn1BKDH) [[Code]](https:/
 *Joel Ye, Dhruv Batra, Erik Wijmans, Abhishek Das* <br>
 CoRL, 2020. [[Paper]](https://arxiv.org/abs/2007.04561) [[Code]](https://github.com/joel99/habitat-pointnav-aux)
 
+* **Occupancy Anticipation for Efficient Exploration and Navigation** <br>
+*Santhosh K. Ramakrishnan, Ziad Al-Halah, Kristen Grauman* <br>
+ECCV, 2020. [[Paper]](http://vision.cs.utexas.edu/projects/occupancy_anticipation/main.pdf) [[Code]](https://github.com/facebookresearch/OccupancyAnticipation) [[Website]](http://vision.cs.utexas.edu/projects/occupancy_anticipation/)
+
 
 ### <a name="audiogoal"></a> Audio-Visual Navigation
 * **Audio-Visual Embodied Navigation** <br>
@@ -69,10 +74,14 @@ ECCV, 2020. [[Paper]](https://arxiv.org/pdf/1912.11474.pdf) [[Website]](http://v
 
 * **Look, Listen, and Act: Towards Audio-Visual Embodied Navigation** <br>
 *Chuang Gan, Yiwei Zhang, Jiajun Wu, Boqing Gong, Joshua B. Tenenbaum* <br>
-ICRA, 2020. [[Paper]](https://arxiv.org/pdf/1912.11474.pdf) [[Website]](http://vision.cs.utexas.edu/projects/audio_visual_navigation/)
+ICRA, 2020. [[Paper]](https://arxiv.org/pdf/2012.11583.pdf) [[Website]](http://vision.cs.utexas.edu/projects/semantic_audio_visual_navigation)
 
-* **Audio-Visual Waypoints for Navigation** <br>
+* **Learning to Set Waypoints for Audio-Visual Navigation** <br>
 *Changan Chen, Sagnik Majumder, Ziad Al-Halah, Ruohan Gao, Santhosh K. Ramakrishnan, Kristen Grauman* <br>
+arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2008.09622.pdf) [[Website]](http://vision.cs.utexas.edu/projects/audio_visual_waypoints/)
+
+* **Semantic Audio-Visual Navigation** <br>
+*Changan Chen, Ziad Al-Halah, Kristen Grauman* <br>
 arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2008.09622.pdf) [[Website]](http://vision.cs.utexas.edu/projects/audio_visual_waypoints/)
 
 
@@ -104,7 +113,7 @@ ICCV, 2019. [[Paper]](https://arxiv.org/abs/1908.09073)
 
 * **Object Goal Navigation using Goal-Oriented Semantic Exploration** <br>
 *Devendra Singh Chaplot, Dhiraj Gandhi, Abhinav Gupta\*, Ruslan Salakhutdinov\** <br>
-arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2007.00643.pdf) [[Website]](https://devendrachaplot.github.io/projects/semantic-exploration)
+NeurIPS, 2020. [[Paper]](https://arxiv.org/pdf/2007.00643.pdf) [[Website]](https://devendrachaplot.github.io/projects/semantic-exploration)
 
 * **Learning Object Relation Graph and Tentative Policy for Visual Navigation** <br>
 *Heming Du, Xin Yu, Liang Zheng* <br>
@@ -121,6 +130,10 @@ arXiv, 2020. [[Paper]](https://arxiv.org/abs/2006.13171)
 * **MultiON: Benchmarking Semantic Map Memory using Multi-Object Navigation** <br>
 *Saim Wani\*, Shivansh Patel\*, Unnat Jain\*, Angel X. Chang, Manolis Savva* <br>
 NeurIPS, 2020. [[Paper]](https://arxiv.org/abs/2012.03912) [[Code]](https://github.com/saimwani/multiON) [[Website]](https://shivanshpatel35.github.io/multi-ON/)
+
+* **Learning hierarchical relationships for object-goal navigation** <br>
+*Yiding Qiu, Anwesan Pal, Henrik I. Christensen* <br>
+CoRL, 2020. [[Paper]](https://arxiv.org/abs/2003.06749)
 
 
 ### <a name="imagegoal"></a> ImageGoal Navigation
@@ -197,10 +210,6 @@ BMVC, 2019. [[Paper]](https://arxiv.org/abs/1907.02985) [[Code]](https://github.
 *Haoshuo Huang, Vihan Jain, Harsh Mehta, Alexander Ku, Gabriel Magalhaes, Jason Baldridge, Eugene Ie* <br>
 ICCV, 2019. [[Paper]](https://arxiv.org/abs/1908.03409)
 
-* **Counterfactual Vision-and-Language Navigation via Adversarial Path Sampling** <br>
-*Tsu-Jui Fu, Xin Wang, Matthew Peterson, Scott Grafton, Miguel Eckstein, William Yang Wang* <br>
-arXiv, 2019. [[Paper]](https://arxiv.org/abs/1911.07308)
-
 * **Unsupervised Reinforcement Learning of Transferable Meta-Skills for Embodied Navigation** <br>
 *Juncheng Li, Xin Wang, Siliang Tang, Haizhou Shi, Fei Wu, Yueting Zhuang, William Yang Wang* <br>
 CVPR, 2020. [[Paper]](https://arxiv.org/abs/1911.07450)
@@ -223,7 +232,11 @@ CVPR, 2020. [[Paper]](https://arxiv.org/abs/2002.10638) [[Code]](https://github.
 
 * **Environment-agnostic Multitask Learning for Natural Language Grounded Navigation** <br>
 *Xin Wang, Vihan Jain, Eugene Ie, William Yang Wang, Zornitsa Kozareva, Sujith Ravi* <br>
-arXiv, 2020. [[Paper]](https://arxiv.org/abs/2003.00443)
+ECCV, 2020. [[Paper]](https://arxiv.org/abs/2003.00443)
+
+* **Counterfactual Vision-and-Language Navigation via Adversarial Path Sampling** <br>
+*Tsu-Jui Fu, Xin Wang, Matthew Peterson, Scott Grafton, Miguel Eckstein, William Yang Wang* <br>
+ECCV, 2020. [[Paper]](https://arxiv.org/abs/1911.07308)
 
 * **Multi-View Learning for Vision-and-Language Navigation** <br>
 *Qiaolin Xia, Xiujun Li, Chunyuan Li, Yonatan Bisk, Zhifang Sui, Jianfeng Gao, Yejin Choi, Noah A. Smith* <br>
@@ -264,6 +277,19 @@ ECCV, 2020. [[Paper]](https://arxiv.org/abs/2007.08037)  [[Code]](https://github
 * **Environment-agnostic Multitask Learning for Natural Language Grounded Navigation** <br>
 *Xin Eric Wang, Vihan Jain, Eugene Ie, William Yang Wang, Zornitsa Kozareva, Sujith Ravi* <br>
 ECCV, 2020. [[Paper]](https://arxiv.org/abs/2003.00443)
+
+* **Language and Visual Entity Relationship Graph for Agent Navigation** <br>
+*Yicong Hong, Cristian Rodriguez, Yuankai Qi, Qi Wu, Stephen Gould* <br>
+NeurIPS, 2020. [[Paper]](https://arxiv.org/abs/2010.09304) [[Code]](https://github.com/YicongHong/Entity-Graph-VLN)
+
+* **Counterfactual Vision-and-Language Navigation: Unravelling the Unseen** <br>
+*Amin Parvaneh, Ehsan Abbasnejad, Damien Teney, Javen Qinfeng Shi, Anton van den Hengel* <br>
+NeurIPS, 2020. [[Paper]](https://proceedings.neurips.cc/paper/2020/file/39016cfe079db1bfb359ca72fcba3fd8-Paper.pdf)
+
+* **Evolving Graphical Planner: Contextual Global Planning for Vision-and-Language Navigation** <br>
+*Zhiwei Deng, Karthik Narasimhan, Olga Russakovsky* <br>
+NeurIPS, 2020. [[Paper]](https://proceedings.neurips.cc/paper/2020/file/eddb904a6db773755d2857aacadb1cb0-Paper.pdf)
+
 
 
 ### <a name="multiagent"></a> Multiagent Navigation
@@ -317,6 +343,10 @@ ECCV, 2020. [[Paper]](https://arxiv.org/pdf/2006.09367.pdf) [[Website]](https://
 *Victoria Dean, Shubham Tulsiani, Abhinav Gupta* <br>
 arXiv, 2020. [[Paper]](https://vdean.github.io/resources/audio-curiosity2020.pdf) [[Website]](https://vdean.github.io/audio-curiosity.html)
 
+* **Occupancy Anticipation for Efficient Exploration and Navigation** <br>
+*Santhosh K. Ramakrishnan, Ziad Al-Halah, Kristen Grauman* <br>
+ECCV, 2020. [[Paper]](http://vision.cs.utexas.edu/projects/occupancy_anticipation/main.pdf) [[Code]](https://github.com/facebookresearch/OccupancyAnticipation) [[Website]](http://vision.cs.utexas.edu/projects/occupancy_anticipation/)
+
 
 ### <a name="eqa"></a> Embodied Question Answering
 * **Embodied Question Answering** <br>
@@ -348,19 +378,22 @@ CVPR, 2020. [[Paper]](https://arxiv.org/abs/1912.01734) [[Code]](https://github.
 
 * **Learning About Objects by Learning to Interact with Them** <br>
 *Martin Lohmann, Jordi Salvador, Aniruddha Kembhavi, Roozbeh Mottaghi* <br>
-arXiv, 2020. [[Paper]](https://arxiv.org/abs/2006.09306)
+NeurIPS, 2020. [[Paper]](https://arxiv.org/abs/2006.09306)
+
+* **Learning Affordance Landscapes for
+Interaction Exploration in 3D Environments** <br>
+*Tushar Nagarajan, Kristen Grauman* <br>
+NeurIPS, 2020. [[Paper]](https://proceedings.neurips.cc/paper/2020/file/15825aee15eb335cc13f9b559f166ee8-Paper.pdf)
 
 
-<!--### Active Vision
-* **SEMI-PARAMETRIC TOPOLOGICAL MEMORY FOR NAVIGATION** <br>
-*Nikolay Savinov\*, Alexey Dosovitskiy\*, Vladlen Koltun* <br>
-ICLR, 2018. [[Paper]](https://arxiv.org/pdf/1803.00653.pdf) [[Code]](https://github.com/nsavinov/SPTM) [[Website]](https://sites.google.com/view/SPTM)
--->
+### <a name="sim2real"></a> Sim-to-real
+* **Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World** <br>
+*Josh Tobin, Rachel Fong, Alex Ray, Jonas Schneider, Wojciech Zaremba, Pieter Abbeel* <br>
+IROS, 2017. [[Paper]](https://arxiv.org/abs/1703.06907)
 
-<!--### Sim-to-Real
-* **Paper Title** <br>
-*Author(s)* <br>
-Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)-->
+* **Sim-to-Real Transfer for Vision-and-Language Navigation** <br>
+*Peter Anderson, Ayush Shrivastava, Joanne Truong, Arjun Majumdar, Devi Parikh, Dhruv Batra, Stefan Lee* <br>
+CoRL, 2020. [[Paper]](https://arxiv.org/abs/2011.03807)
 
 ## <a name="datasets"></a> Datasets
 * **A Dataset for Developing and Benchmarking Active Vision** <br>
