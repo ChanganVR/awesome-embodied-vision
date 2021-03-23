@@ -446,6 +446,10 @@ CVPR, 2018. [[Paper]](https://arxiv.org/abs/1808.10654) [[Code]](https://github.
 *Manolis Savva, Abhishek Kadian, Oleksandr Maksymets, Yili Zhao, Erik Wijmans, Bhavana Jain, Julian Straub, Jia Liu, Vladlen Koltun, Jitendra Malik, Devi Parikh, Dhruv Batra* <br>
 ICCV, 2019. [[Paper]](https://arxiv.org/abs/1904.01201) [[Code]](https://github.com/facebookresearch/habitat-api) [[Website]](https://aihabitat.org/)
 
+* **VirtualHome: Simulating Household Activities via Programs** <br>
+*Xavier Puig\*, Kevin Ra\*, Marko Boben\*, Jiaman Li, Tingwu Wang, Sanja Fidler, Antonio Torralba* <br>
+CVPR, 2018. [[Paper]](http://virtual-home.org/paper/virtualhome.pdf) [[Code]](https://github.com/xavierpuigf/virtualhome) [[Website]](http://virtual-home.org/)
+
 ## <a name="misc"></a> MISC
 * **Visual Learning and Embodied Agents in Simulation Environments Workshop** <br>
 ECCV, 2018. [[website]](https://eccv18-vlease.github.io/)
