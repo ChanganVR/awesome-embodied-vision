@@ -473,3 +473,11 @@ arXiv, 2018. [[Paper]](https://arxiv.org/abs/1807.06757)
 * **PyRobot: An Open-source Robotics Framework for Research and Benchmarking** <br>
 *Adithya Murali\*, Tao Chen\*, Kalyan Vasudev Alwala\*, Dhiraj Gandhi\*, Lerrel Pinto, Saurabh Gupta, Abhinav Gupta* <br>
 arXiv, 2019. [[Paper]](https://arxiv.org/abs/1906.08236) [[Code]](https://github.com/facebookresearch/pyrobot) [[Website]](https://www.pyrobot.org/)
+
+* **A Survey of Embodied AI: From Simulators to Research Tasks** <br>
+*Jiafei Duan, Samson Yu, Hui Li Tan, Hongyuan Zhu, Cheston Tan* <br>
+arXiv, 2021. [[Paper]](https://arxiv.org/abs/2103.04918)
+
+* **AllenAct: A Framework for Embodied AI Research** <br>
+*Luca Weihs, Jordi Salvador, Klemen Kotar, Unnat Jain, Kuo-Hao Zeng, Roozbeh Mottaghi, Aniruddha Kembhavi* <br>
+arXiv, 2020. [[Paper]](https://arxiv.org/abs/2008.12760) [[Website]](https://allenact.org/)
