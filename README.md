@@ -290,6 +290,10 @@ NeurIPS, 2020. [[Paper]](https://proceedings.neurips.cc/paper/2020/file/39016cfe
 *Zhiwei Deng, Karthik Narasimhan, Olga Russakovsky* <br>
 NeurIPS, 2020. [[Paper]](https://proceedings.neurips.cc/paper/2020/file/eddb904a6db773755d2857aacadb1cb0-Paper.pdf)
 
+* **Hierarchical Cross-Modal Agent for Robotics Vision-and-Language Navigation** <br>
+*Muhammad Zubair Irshad, Chih-Yao Ma, Zsolt Kira* <br>
+ICRA, 2021. [[Paper]](https://arxiv.org/abs/2104.10674) [[Code]](https://github.com/GT-RIPL/robo-vln) [[Website]](https://zubair-irshad.github.io/projects/robo-vln.html) [[Video]](https://www.youtube.com/watch?v=y16x9n_zP_4)
+
 
 
 ### <a name="multiagent"></a> Multiagent Navigation
