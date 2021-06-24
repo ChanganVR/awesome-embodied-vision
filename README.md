@@ -17,9 +17,10 @@ By [Changan Chen](https://changan.io) (changan@cs.utexas.edu), Department of Com
 	* [Multiagent Navigation](#multiagent)
 	* [Visual Exploration](#visual_exploration)
 	* [Visual Interactions](#visual_interaction)
+	* [Rearrangement](#rearrangement)
 	* [Sim-to-real](#sim2real)
 * [Datasets](#datasets)
-* [Environments](#environments)
+* [Simulators](#simulators)
 * [MISC](#misc)
 
 ## <a name="contributing"></a> Contributing
@@ -66,6 +67,14 @@ CoRL, 2020. [[Paper]](https://arxiv.org/abs/2007.04561) [[Code]](https://github.
 *Santhosh K. Ramakrishnan, Ziad Al-Halah, Kristen Grauman* <br>
 ECCV, 2020. [[Paper]](http://vision.cs.utexas.edu/projects/occupancy_anticipation/main.pdf) [[Code]](https://github.com/facebookresearch/OccupancyAnticipation) [[Website]](http://vision.cs.utexas.edu/projects/occupancy_anticipation/)
 
+* **Embodied Visual Navigation with Automatic Curriculum Learning in Real Environments** <br>
+*Steven D. Morad, Roberto Mecca, Rudra P.K. Poudel, Stephan Liwicki, Roberto Cipolla* <br>
+ICRA, 2021. [[Paper]](https://arxiv.org/pdf/2009.05429.pdf)
+
+* **Differentiable SLAM-Net: Learning Particle SLAM for Visual Navigation** <br>
+*Peter Karkus, Shaojun Cai, David Hsu* <br>
+CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2105.07593.pdf) 
+
 
 ### <a name="audiogoal"></a> Audio-Visual Navigation
 * **Audio-Visual Embodied Navigation** <br>
@@ -78,11 +87,11 @@ ICRA, 2020. [[Paper]](https://arxiv.org/pdf/2012.11583.pdf) [[Website]](http://v
 
 * **Learning to Set Waypoints for Audio-Visual Navigation** <br>
 *Changan Chen, Sagnik Majumder, Ziad Al-Halah, Ruohan Gao, Santhosh K. Ramakrishnan, Kristen Grauman* <br>
-arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2008.09622.pdf) [[Website]](http://vision.cs.utexas.edu/projects/audio_visual_waypoints/)
+ICLR, 2021. [[Paper]](https://arxiv.org/pdf/2008.09622.pdf) [[Website]](http://vision.cs.utexas.edu/projects/audio_visual_waypoints/)
 
 * **Semantic Audio-Visual Navigation** <br>
 *Changan Chen, Ziad Al-Halah, Kristen Grauman* <br>
-arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2008.09622.pdf) [[Website]](http://vision.cs.utexas.edu/projects/audio_visual_waypoints/)
+CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2008.09622.pdf) [[Website]](http://vision.cs.utexas.edu/projects/audio_visual_waypoints/)
 
 
 ### <a name="objectgoal"></a> ObjectGoal Navigation
@@ -134,6 +143,14 @@ NeurIPS, 2020. [[Paper]](https://arxiv.org/abs/2012.03912) [[Code]](https://gith
 * **Learning hierarchical relationships for object-goal navigation** <br>
 *Yiding Qiu, Anwesan Pal, Henrik I. Christensen* <br>
 CoRL, 2020. [[Paper]](https://arxiv.org/abs/2003.06749)
+
+* **VTNet: Visual Transformer Network for Object Goal Navigation** <br>
+*Heming Du, Xin Yu, Liang Zheng* <br>
+ICLR, 2021. [[Paper]](https://arxiv.org/pdf/2009.07783.pdf)
+
+* **Visual Navigation With Spatial Attention** <br>
+*Yiding Qiu, Anwesan Pal, Henrik I. Christensen* <br>
+CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2104.09807.pdf)
 
 
 ### <a name="imagegoal"></a> ImageGoal Navigation
@@ -290,11 +307,37 @@ NeurIPS, 2020. [[Paper]](https://proceedings.neurips.cc/paper/2020/file/39016cfe
 *Zhiwei Deng, Karthik Narasimhan, Olga Russakovsky* <br>
 NeurIPS, 2020. [[Paper]](https://proceedings.neurips.cc/paper/2020/file/eddb904a6db773755d2857aacadb1cb0-Paper.pdf)
 
+* **Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes' Rule** <br>
+*Shuhei Kurita, Kyunghyun Cho* <br>
+ICLR, 2021. [[Paper]](https://arxiv.org/pdf/2009.07783.pdf)
+
 * **Hierarchical Cross-Modal Agent for Robotics Vision-and-Language Navigation** <br>
 *Muhammad Zubair Irshad, Chih-Yao Ma, Zsolt Kira* <br>
 ICRA, 2021. [[Paper]](https://arxiv.org/abs/2104.10674) [[Code]](https://github.com/GT-RIPL/robo-vln) [[Website]](https://zubair-irshad.github.io/projects/robo-vln.html) [[Video]](https://www.youtube.com/watch?v=y16x9n_zP_4)
 
+* **VLN BERT: A Recurrent Vision-and-Language BERT for Navigation** <br>
+*Yicong Hong, Qi Wu, Yuankai Qi, Cristian Rodriguez-Opazo, Stephen Gould* <br>
+CVPR, 2021. [[Paper]](https://arxiv.org/abs/2011.13922) [[Code]](https://github.com/YicongHong/Recurrent-VLN-BERT)
 
+* **Structured Scene Memory for Vision-Language Navigation** <br>
+*Yicong Hong, Qi Wu, Yuankai Qi, Cristian Rodriguez-Opazo, Stephen Gould* <br>
+CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2103.03454.pdf) [[Code]](https://github.com/HanqingWangAI/SSM-VLN)
+
+* **Topological Planning With Transformers for Vision-and-Language Navigation** <br>
+*Kevin Chen, Junshen K. Chen, Jo Chuang, Marynel Vázquez, Silvio Savarese* <br>
+CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2012.05292.pdf)
+
+* **SOON: Scenario Oriented Object Navigation With Graph-Based Exploration** <br>
+*Fengda Zhu, Xiwen Liang, Yi Zhu, Qizhi Yu, Xiaojun Chang, Xiaodan Liang* <br>
+CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2103.17138.pdf)
+
+* **Room-and-Object Aware Knowledge Reasoning for Remote Embodied Referring Expression** <br>
+*Chen Gao, Jinyu Chen, Si Liu, Luting Wang, Qiong Zhang, Qi Wu* <br>
+CVPR, 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Gao_Room-and-Object_Aware_Knowledge_Reasoning_for_Remote_Embodied_Referring_Expression_CVPR_2021_paper.pdf)
+
+* **Scene-Intuitive Agent for Remote Embodied Visual Grounding** <br>
+*Xiangru Lin, Guanbin Li, Yizhou Yu* <br>
+CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2103.12944.pdf)
 
 ### <a name="multiagent"></a> Multiagent Navigation
 * **Two Body Problem: Collaborative Visual Task Completion** <br>
@@ -384,10 +427,30 @@ CVPR, 2020. [[Paper]](https://arxiv.org/abs/1912.01734) [[Code]](https://github.
 *Martin Lohmann, Jordi Salvador, Aniruddha Kembhavi, Roozbeh Mottaghi* <br>
 NeurIPS, 2020. [[Paper]](https://arxiv.org/abs/2006.09306)
 
-* **Learning Affordance Landscapes for
-Interaction Exploration in 3D Environments** <br>
+* **Learning Affordance Landscapes for Interaction Exploration in 3D Environments** <br>
 *Tushar Nagarajan, Kristen Grauman* <br>
 NeurIPS, 2020. [[Paper]](https://proceedings.neurips.cc/paper/2020/file/15825aee15eb335cc13f9b559f166ee8-Paper.pdf)
+
+* **ALFWorld: Aligning Text and Embodied Environments for Interactive Learning** <br>
+*Mohit Shridhar, Xingdi Yuan, Marc-Alexandre Côté, Yonatan Bisk, Adam Trischler, Matthew Hausknecht* <br>
+ICLR, 2021. [[Paper]](https://arxiv.org/pdf/2010.03768.pdf) [[Code]](https://github.com/alfworld/alfworld) [[Website]](https://alfworld.github.io/)
+
+* **Learning Generalizable Visual Representations via Interactive Gameplay** <br>
+*Luca Weihs, Aniruddha Kembhavi, Kiana Ehsani, Sarah M Pratt, Winson Han, Alvaro Herrasti, Eric Kolve, Dustin Schwenk, Roozbeh Mottaghi, Ali Farhadi* <br>
+ICLR, 2021. [[Paper]](https://arxiv.org/pdf/1912.08195.pdf)
+
+* **Pushing It Out of the Way: Interactive Visual Navigation** <br>
+*Kuo-Hao Zeng, Luca Weihs, Ali Farhadi, Roozbeh Mottaghi* <br>
+CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2104.14040.pdf) [[Code]](https://github.com/KuoHaoZeng/Interactive_Visual_Navigation) [[Website]](https://prior.allenai.org/projects/interactive-visual-navigation)
+
+### <a name="rearrangement"></a> Rearrangement
+* **Visual Room Rearrangement** <br>
+*Luca Weihs, Matt Deitke, Aniruddha Kembhavi, and Roozbeh Mottaghi* <br>
+CVPR, 2021. [[Paper]](https://arxiv.org/abs/1705.08080) [[Code]](https://github.com/allenai/ai2thor-rearrangement) [[Website]](https://ai2thor.allenai.org/rearrangement)
+
+* **Rearrangement: A Challenge for Embodied AI** <br>
+*Dhruv Batra, Angel X. Chang, Sonia Chernova, Andrew J. Davison, Jia Deng, Vladlen Koltun, Sergey Levine, Jitendra Malik, Igor Mordatch, Roozbeh Mottaghi, Manolis Savva, Hao Su* <br>
+arXiv, 2020. [[Paper]](https://arxiv.org/abs/2011.01975)
 
 
 ### <a name="sim2real"></a> Sim-to-real
@@ -425,7 +488,7 @@ arXiV, 2019. [[Paper]](https://arxiv.org/pdf/1906.05797.pdf) [[Code]](https://gi
 ICIP, 2020. [[Paper]](https://arxiv.org/pdf/2010.01357.pdf) [[Code]](https://github.com/SamsonYuBaiJian/actionet)
 
 
-## <a name="environments"></a> Environments
+## <a name="simulators"></a> Simulators
 * **AI2-THOR: An Interactive 3D Environment for Visual AI** <br>
 *Eric Kolve, Roozbeh Mottaghi, Winson Han, Eli VanderBilt, Luca Weihs, Alvaro Herrasti, Daniel Gordon, Yuke Zhu, Abhinav Gupta, Ali Farhadi* <br>
 arXiv, 2017. [[Paper]](https://arxiv.org/abs/1712.05474) [[Code]](https://github.com/allenai/ai2thor) [[Website]](https://ai2thor.allenai.org/)
@@ -454,12 +517,20 @@ ICCV, 2019. [[Paper]](https://arxiv.org/abs/1904.01201) [[Code]](https://github.
 *Xavier Puig\*, Kevin Ra\*, Marko Boben\*, Jiaman Li, Tingwu Wang, Sanja Fidler, Antonio Torralba* <br>
 CVPR, 2018. [[Paper]](http://virtual-home.org/paper/virtualhome.pdf) [[Code]](https://github.com/xavierpuigf/virtualhome) [[Website]](http://virtual-home.org/)
 
+* **ThreeDWorld: A Platform for Interactive Multi-Modal Physical Simulation** <br>
+*Chuang Gan, Jeremy Schwartz, Seth Alter, Martin Schrimpf, James Traer, Julian De Freitas, Jonas Kubilius, Abhishek Bhandwaldar, Nick Haber, Megumi Sano, Kuno Kim, Elias Wang, Damian Mrowca, Michael Lingelbach, Aidan Curtis, Kevin Feigelis, Daniel M. Bear, Dan Gutfreund, David Cox, James J. DiCarlo, Josh McDermott, Joshua B. Tenenbaum, Daniel L.K. Yamins*<br>
+arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2007.04954.pdf) [[Code]](https://github.com/threedworld-mit/tdw) [[Website]](http://www.threedworld.org/)
+
+* **ALFWorld: Aligning Text and Embodied Environments for Interactive Learning** <br>
+*Mohit Shridhar, Xingdi Yuan, Marc-Alexandre Côté, Yonatan Bisk, Adam Trischler, Matthew Hausknecht*<br>
+ICLR, 2021. [[Paper]](https://arxiv.org/abs/2010.03768) [[Code]](https://github.com/alfworld/alfworld) [[Website]](https://alfworld.github.io/)
+
 ## <a name="misc"></a> MISC
 * **Visual Learning and Embodied Agents in Simulation Environments Workshop** <br>
 ECCV, 2018. [[website]](https://eccv18-vlease.github.io/)
 
 * **Embodied-AI Workshop** <br>
-CVPR, 2020. [[website]](https://embodied-ai.org/#overview)
+CVPR, 2020/2021. [[website]](https://embodied-ai.org/#overview)
 
 * **Gibson Sim2Real Challenge** <br>
 CVPR, 2020. [[website]](http://svl.stanford.edu/igibson/challenge.html)
@@ -485,3 +556,6 @@ arXiv, 2021. [[Paper]](https://arxiv.org/abs/2103.04918)
 * **AllenAct: A Framework for Embodied AI Research** <br>
 *Luca Weihs, Jordi Salvador, Klemen Kotar, Unnat Jain, Kuo-Hao Zeng, Roozbeh Mottaghi, Aniruddha Kembhavi* <br>
 arXiv, 2020. [[Paper]](https://arxiv.org/abs/2008.12760) [[Website]](https://allenact.org/)
+
+* **CSAIL Embodied Intelligence Seminar** <br>
+[[website]](https://ei.csail.mit.edu/seminars.html)
