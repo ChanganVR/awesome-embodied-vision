@@ -320,7 +320,7 @@ ICRA, 2021. [[Paper]](https://arxiv.org/abs/2104.10674) [[Code]](https://github.
 CVPR, 2021. [[Paper]](https://arxiv.org/abs/2011.13922) [[Code]](https://github.com/YicongHong/Recurrent-VLN-BERT)
 
 * **Structured Scene Memory for Vision-Language Navigation** <br>
-*Yicong Hong, Qi Wu, Yuankai Qi, Cristian Rodriguez-Opazo, Stephen Gould* <br>
+*Hanqing Wang, Wenguan Wang, Wei Liang, Caiming Xiong, Jianbing Shen* <br>
 CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2103.03454.pdf) [[Code]](https://github.com/HanqingWangAI/SSM-VLN)
 
 * **Topological Planning With Transformers for Vision-and-Language Navigation** <br>
@@ -338,6 +338,10 @@ CVPR, 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Gao_
 * **Scene-Intuitive Agent for Remote Embodied Visual Grounding** <br>
 *Xiangru Lin, Guanbin Li, Yizhou Yu* <br>
 CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2103.12944.pdf)
+
+* **Neighbor-view Enhanced Model for Vision and Language Navigation** <br>
+*Dong An, Yuankai Qi, Yan Huang, Qi Wu, Liang Wang, Tieniu Tan* <br>
+ACM MM, 2021. [[Paper]](https://arxiv.org/pdf/2107.07201.pdf) [[Code]](https://github.com/MarSaKi/NvEM)
 
 ### <a name="multiagent"></a> Multiagent Navigation
 * **Two Body Problem: Collaborative Visual Task Completion** <br>
