@@ -136,6 +136,10 @@ arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2006.10034.pdf) [[Website]](https:/
 *Dhruv Batra, Aaron Gokaslan, Aniruddha Kembhavi, Oleksandr Maksymets, Roozbeh Mottaghi, Manolis Savva, Alexander Toshev, Erik Wijmans* <br>
 arXiv, 2020. [[Paper]](https://arxiv.org/abs/2006.13171)
 
+* **Language-guided Navigation via Cross-Modal Grounding and Alternate Adversarial Learning** <br>
+*Weixia Zhang, Chao Ma, Qi Wu, Xiaokang Yang* <br>
+TCSVT, 2020. [[Paper]](https://arxiv.org/pdf/2011.10972.pdf)
+
 * **MultiON: Benchmarking Semantic Map Memory using Multi-Object Navigation** <br>
 *Saim Wani\*, Shivansh Patel\*, Unnat Jain\*, Angel X. Chang, Manolis Savva* <br>
 NeurIPS, 2020. [[Paper]](https://arxiv.org/abs/2012.03912) [[Code]](https://github.com/saimwani/multiON) [[Website]](https://shivanshpatel35.github.io/multi-ON/)
