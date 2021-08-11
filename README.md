@@ -356,6 +356,30 @@ CVPR, 2019. [[Paper]](https://arxiv.org/pdf/1904.05879.pdf) [[Website]](https://
 *Unnat Jain\*, Luca Weihs\*, Eric Kolve, Ali Farhadi, Svetlana Lazebnik, Aniruddha Kembhavi, Alexander Schwing* <br>
 ECCV, 2020. [[Paper]](https://arxiv.org/abs/2007.04979) [[Code]](https://github.com/allenai/cordial-sync) [[Website]](https://unnat.github.io/cordial-sync/)
 
+### <a name="tracking"></a> Active Visual Tracking
+* **End-to-end Active Object Tracking via Reinforcement Learning** <br>
+*Wenhan Luo\*, Peng Sun\*, Fangwei Zhong, Wei Liu, Tong Zhang, Yizhou Wang* <br>
+ICML, 2018. [[Paper]](http://proceedings.mlr.press/v80/luo18a/luo18a.pdf) [[Website]](https://sites.google.com/site/whluoimperial/active_tracking_icml2018)
+
+* **End-to-end Active Object Tracking and Its Real-world Deployment via Reinforcement Learning** <br>
+*Wenhan Luo\*, Peng Sun\*, Fangwei Zhong\*, Wei Liu, Tong Zhang, Yizhou Wang* <br>
+IEEE TPAMI, 2019. [[Paper]](https://arxiv.org/pdf/1808.03405.pdf) [[Website]](https://sites.google.com/site/whluoimperial/active_tracking_icml2018)
+
+* **AD-VAT: An Asymmetric Dueling mechanism for learning Visual Active Tracking** <br>
+*Fangwei Zhong, Wenhan Luo, Peng Sun, Tingyun Yan, Yizhou Wang* <br>
+ICLR, 2019. [[Paper]](https://openreview.net/pdf?id=HkgYmhR9KX) [[Code]](https://github.com/zfw1226/active_tracking_rl)
+
+* **AD-VAT+: An Asymmetric Dueling Mechanism for Learning and Understanding Visual Active Tracking** <br>
+*Fangwei Zhong, Wenhan Luo, Peng Sun, Tingyun Yan, Yizhou Wang* <br>
+IEEE TPAMI, 2019. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8896000) [[Code]](https://github.com/zfw1226/active_tracking_rl)
+
+* **Pose-Assisted Multi-Camera Collaboration for Active Object Tracking** <br>
+*Jing Li\*, Jing Xu\*, Fangwei Zhong\*, Xiangyu Kong, Yu Qiao, Yizhou Wang* <br>
+AAAI, 2020. [[Paper]](https://arxiv.org/pdf/2001.05161.pdf) [[Code]](https://github.com/LilJing/pose-assisted-collaboration)
+
+* **Towards Distraction-Robust Active Visual Tracking** <br>
+*Fangwei Zhong, Wenhan Luo, Peng Sun, Tingyun Yan, Yizhou Wang* <br>
+ICML, 2021. [[Paper]](https://arxiv.org/abs/2106.10110) [[Code]](https://github.com/zfw1226/active_tracking_rl/tree/distractor) [[Website]](https://sites.google.com/view/distraction-robust-avt)
 
 ### <a name="visual_exploration"></a> Visual Exploration
 * **Curiosity-driven Exploration by Self-supervised Prediction** <br>
@@ -504,6 +528,10 @@ ICIP, 2020. [[Paper]](https://arxiv.org/pdf/2010.01357.pdf) [[Code]](https://git
 * **AI2-THOR: An Interactive 3D Environment for Visual AI** <br>
 *Eric Kolve, Roozbeh Mottaghi, Winson Han, Eli VanderBilt, Luca Weihs, Alvaro Herrasti, Daniel Gordon, Yuke Zhu, Abhinav Gupta, Ali Farhadi* <br>
 arXiv, 2017. [[Paper]](https://arxiv.org/abs/1712.05474) [[Code]](https://github.com/allenai/ai2thor) [[Website]](https://ai2thor.allenai.org/)
+
+* **UnrealCV: Virtual Worlds for Computer Vision** <br>
+*Weichao Qiu, Fangwei Zhong, Yi Zhang, Siyuan Qiao, Zihao Xiao, Tae Soo Kim, Yizhou Wang, Alan Yuille* <br>
+ACM MM Open Source Software Competition, 2017. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3123266.3129396) [[Code]](https://github.com/unrealcv/unrealcv) [[Website]](https://unrealcv.org/)
 
 * **Building Generalizable Agents with a Realistic and Rich 3D Environment (House3D)** <br>
 *Yi Wu, Yuxin Wu, Georgia Gkioxari, Yuandong Tian* <br>
