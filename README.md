@@ -307,6 +307,10 @@ NeurIPS, 2020. [[Paper]](https://proceedings.neurips.cc/paper/2020/file/39016cfe
 *Zhiwei Deng, Karthik Narasimhan, Olga Russakovsky* <br>
 NeurIPS, 2020. [[Paper]](https://proceedings.neurips.cc/paper/2020/file/eddb904a6db773755d2857aacadb1cb0-Paper.pdf)
 
+* **Language-guided Navigation via Cross-Modal Grounding and Alternate Adversarial Learning** <br>
+*Weixia Zhang, Chao Ma, Qi Wu, Xiaokang Yang* <br>
+TCSVT, 2020. [[Paper]](https://arxiv.org/pdf/2011.10972.pdf)
+
 * **Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes' Rule** <br>
 *Shuhei Kurita, Kyunghyun Cho* <br>
 ICLR, 2021. [[Paper]](https://arxiv.org/pdf/2009.07783.pdf)
