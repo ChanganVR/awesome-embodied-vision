@@ -18,6 +18,7 @@ By [Changan Chen](https://changan.io) (changan@cs.utexas.edu), Department of Com
 	* [Visual Exploration](#visual_exploration)
 	* [Visual Interactions](#visual_interaction)
 	* [Rearrangement](#rearrangement)
+	* [Active Audio-Visual Source Separation](#aaviss)
 	* [Sim-to-real](#sim2real)
 * [Datasets](#datasets)
 * [Simulators](#simulators)
@@ -488,6 +489,10 @@ CVPR, 2021. [[Paper]](https://arxiv.org/abs/1705.08080) [[Code]](https://github.
 *Dhruv Batra, Angel X. Chang, Sonia Chernova, Andrew J. Davison, Jia Deng, Vladlen Koltun, Sergey Levine, Jitendra Malik, Igor Mordatch, Roozbeh Mottaghi, Manolis Savva, Hao Su* <br>
 arXiv, 2020. [[Paper]](https://arxiv.org/abs/2011.01975)
 
+### <a name="aaviss"></a> Active Audio-Visual Source Separation
+* **Move2Hear: Active Audio-Visual Source Separation** <br>
+*Sagnik Majumder, Ziad Al-Halah, and Kristen Grauman* <br>
+ICCV, 2021. [[Paper]](https://arxiv.org/abs/2105.07142) [[Website]](http://vision.cs.utexas.edu/projects/move2hear/)
 
 ### <a name="sim2real"></a> Sim-to-real
 * **Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World** <br>
