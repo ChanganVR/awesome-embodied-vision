@@ -92,7 +92,7 @@ ICLR, 2021. [[Paper]](https://arxiv.org/pdf/2008.09622.pdf) [[Website]](http://v
 
 * **Semantic Audio-Visual Navigation** <br>
 *Changan Chen, Ziad Al-Halah, Kristen Grauman* <br>
-CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2008.09622.pdf) [[Website]](http://vision.cs.utexas.edu/projects/audio_visual_waypoints/)
+CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2012.11583.pdf) [[Code]](https://github.com/facebookresearch/sound-spaces/tree/main/ss_baselines/savi) [[Website]](http://vision.cs.utexas.edu/projects/semantic_audio_visual_navigation/)
 
 
 ### <a name="objectgoal"></a> ObjectGoal Navigation
