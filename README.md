@@ -153,6 +153,10 @@ ICLR, 2021. [[Paper]](https://arxiv.org/pdf/2009.07783.pdf)
 *Yiding Qiu, Anwesan Pal, Henrik I. Christensen* <br>
 CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2104.09807.pdf)
 
+* **Hierarchical Object-to-Zone Graph for Object Navigation** <br>
+*Sixian Zhang, Xinhang Song, Yubing Bai, Weijie Li, Yakui Chu, Shuqiang Jiang* <br>
+ICCV, 2021. [[Paper]](https://arxiv.org/abs/2109.02066) [[Code]](https://github.com/sx-zhang/HOZ.git) [[Video]](https://drive.google.com/file/d/1UtTcFRhFZLkqgalKom6_9GpQmsJfXAZC/view) 
+
 
 ### <a name="imagegoal"></a> ImageGoal Navigation
 
