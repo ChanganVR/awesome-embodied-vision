@@ -15,6 +15,7 @@ By [Changan Chen](https://changan.io) (changan@cs.utexas.edu), Department of Com
 	* [Vision-Language Navigation](#vln)
 	* [Embodied Question Answering](#eqa)
 	* [Multiagent Navigation](#multiagent)
+	* [Active Visual Tracking](#av-tracking)
 	* [Visual Exploration](#visual_exploration)
 	* [Visual Interactions](#visual_interaction)
 	* [Rearrangement](#rearrangement)
@@ -98,7 +99,11 @@ ICLR, 2021. [[Paper]](https://arxiv.org/pdf/2008.09622.pdf) [[Website]](http://v
 
 * **Semantic Audio-Visual Navigation** <br>
 *Changan Chen, Ziad Al-Halah, Kristen Grauman* <br>
-CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2008.09622.pdf) [[Website]](http://vision.cs.utexas.edu/projects/audio_visual_waypoints/)
+CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2012.11583.pdf) [[Code]](https://github.com/facebookresearch/sound-spaces/tree/main/ss_baselines/savi) [[Website]](http://vision.cs.utexas.edu/projects/semantic_audio_visual_navigation/)
+
+* **Move2Hear: Active Audio-Visual Source Separation** <br>
+*Sagnik Majumder, Ziad Al-Halah, and Kristen Grauman* <br>
+ICCV, 2021. [[Paper]](https://arxiv.org/abs/2105.07142) [[Website]](http://vision.cs.utexas.edu/projects/move2hear/)
 
 
 ### <a name="objectgoal"></a> ObjectGoal Navigation
@@ -165,12 +170,11 @@ ICCV, 2021. [[Paper]](https://arxiv.org/pdf/2108.11550.pdf) [[Code]](https://git
 
 * **Hierarchical Object-to-Zone Graph for Object Navigation** <br>
 *Sixian Zhang, Xinhang Song, Yubing Bai, Weijie Li, Yakui Chu, Shuqiang Jiang* <br>
-ICCV, 2021. [[Paper]](https://arxiv.org/pdf/2109.02066.pdf)
+ICCV, 2021. [[Paper]](https://arxiv.org/abs/2109.02066) [[Code]](https://github.com/sx-zhang/HOZ.git) [[Video]](https://drive.google.com/file/d/1UtTcFRhFZLkqgalKom6_9GpQmsJfXAZC/view) 
 
 * **THDA: Treasure Hunt Data Augmentation for Semantic Navigation** <br>
 *Oleksandr Maksymets, Vincent Cartillier, Aaron Gokaslan, Erik Wijmans, Wojciech Galuba, Stefan Lee, Dhruv Batra* <br>
 ICCV, 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Maksymets_THDA_Treasure_Hunt_Data_Augmentation_for_Semantic_Navigation_ICCV_2021_paper.pdf)
-
 
 ### <a name="imagegoal"></a> ImageGoal Navigation
 
@@ -333,6 +337,10 @@ NeurIPS, 2020. [[Paper]](https://proceedings.neurips.cc/paper/2020/file/39016cfe
 *Zhiwei Deng, Karthik Narasimhan, Olga Russakovsky* <br>
 NeurIPS, 2020. [[Paper]](https://proceedings.neurips.cc/paper/2020/file/eddb904a6db773755d2857aacadb1cb0-Paper.pdf)
 
+* **Language-guided Navigation via Cross-Modal Grounding and Alternate Adversarial Learning** <br>
+*Weixia Zhang, Chao Ma, Qi Wu, Xiaokang Yang* <br>
+TCSVT, 2020. [[Paper]](https://arxiv.org/pdf/2011.10972.pdf)
+
 * **Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes' Rule** <br>
 *Shuhei Kurita, Kyunghyun Cho* <br>
 ICLR, 2021. [[Paper]](https://arxiv.org/pdf/2009.07783.pdf)
@@ -346,7 +354,7 @@ ICRA, 2021. [[Paper]](https://arxiv.org/abs/2104.10674) [[Code]](https://github.
 CVPR, 2021. [[Paper]](https://arxiv.org/abs/2011.13922) [[Code]](https://github.com/YicongHong/Recurrent-VLN-BERT)
 
 * **Structured Scene Memory for Vision-Language Navigation** <br>
-*Yicong Hong, Qi Wu, Yuankai Qi, Cristian Rodriguez-Opazo, Stephen Gould* <br>
+*Hanqing Wang, Wenguan Wang, Wei Liang, Caiming Xiong, Jianbing Shen* <br>
 CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2103.03454.pdf) [[Code]](https://github.com/HanqingWangAI/SSM-VLN)
 
 * **Topological Planning With Transformers for Vision-and-Language Navigation** <br>
@@ -364,6 +372,10 @@ CVPR, 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Gao_
 * **Scene-Intuitive Agent for Remote Embodied Visual Grounding** <br>
 *Xiangru Lin, Guanbin Li, Yizhou Yu* <br>
 CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2103.12944.pdf)
+
+* **Neighbor-view Enhanced Model for Vision and Language Navigation** <br>
+*Dong An, Yuankai Qi, Yan Huang, Qi Wu, Liang Wang, Tieniu Tan* <br>
+ACM MM, 2021. [[Paper]](https://arxiv.org/pdf/2107.07201.pdf) [[Code]](https://github.com/MarSaKi/NvEM)
 
 * **The Road To Know-Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation** <br>
 *Yuankai Qi, Zizheng Pan, Yicong Hong, Ming-Hsuan Yang, Anton van den Hengel, Qi Wu* <br>
@@ -405,6 +417,7 @@ NeurIPS, 2021. [[Paper]](https://arxiv.org/pdf/2110.14143.pdf)
 *Shizhe Chen, Pierre-Louis Guhur, Cordelia Schmid, Ivan Laptev* <br>
 NeurIPS, 2021. [[Paper]](https://arxiv.org/pdf/2110.13309.pdf) [[Website]](https://cshizhe.github.io/projects/vln_hamt.html) [[Code]](https://github.com/cshizhe/VLN-HAMT)
 
+
 ### <a name="multiagent"></a> Multiagent Navigation
 * **Two Body Problem: Collaborative Visual Task Completion** <br>
 *Unnat Jain\*, Luca Weihs\*, Eric Kolve, Mohammad Rastegari, Svetlana Lazebnik, Ali Farhadi, Alexander Schwing, Aniruddha Kembhavi* <br>
@@ -421,6 +434,31 @@ ICCV, 2021. [[Paper]](https://arxiv.org/pdf/2110.05769.pdf)
 * **GRIDTOPIX: Training Embodied Agents with Minimal Supervision** <br>
 *Shivansh Patel\*, Saim Wani\*, Unnat Jain\*, Alexander G. Schwing, Svetlana Lazebnik, Manolis Savva, Angel X. Chang* <br>
 ICCV, 2021. [[Paper]](https://arxiv.org/pdf/2105.00931.pdf) [[Website]](https://unnat.github.io/gridtopix/)
+
+### <a name="av-tracking"></a> Active Visual Tracking
+* **End-to-end Active Object Tracking via Reinforcement Learning** <br>
+*Wenhan Luo\*, Peng Sun\*, Fangwei Zhong, Wei Liu, Tong Zhang, Yizhou Wang* <br>
+ICML, 2018. [[Paper]](http://proceedings.mlr.press/v80/luo18a/luo18a.pdf) [[Website]](https://sites.google.com/site/whluoimperial/active_tracking_icml2018)
+
+* **End-to-end Active Object Tracking and Its Real-world Deployment via Reinforcement Learning** <br>
+*Wenhan Luo\*, Peng Sun\*, Fangwei Zhong\*, Wei Liu, Tong Zhang, Yizhou Wang* <br>
+IEEE TPAMI, 2019. [[Paper]](https://arxiv.org/pdf/1808.03405.pdf) [[Website]](https://sites.google.com/site/whluoimperial/active_tracking_icml2018)
+
+* **AD-VAT: An Asymmetric Dueling mechanism for learning Visual Active Tracking** <br>
+*Fangwei Zhong, Wenhan Luo, Peng Sun, Tingyun Yan, Yizhou Wang* <br>
+ICLR, 2019. [[Paper]](https://openreview.net/pdf?id=HkgYmhR9KX) [[Code]](https://github.com/zfw1226/active_tracking_rl)
+
+* **AD-VAT+: An Asymmetric Dueling Mechanism for Learning and Understanding Visual Active Tracking** <br>
+*Fangwei Zhong, Wenhan Luo, Peng Sun, Tingyun Yan, Yizhou Wang* <br>
+IEEE TPAMI, 2019. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8896000) [[Code]](https://github.com/zfw1226/active_tracking_rl)
+
+* **Pose-Assisted Multi-Camera Collaboration for Active Object Tracking** <br>
+*Jing Li\*, Jing Xu\*, Fangwei Zhong\*, Xiangyu Kong, Yu Qiao, Yizhou Wang* <br>
+AAAI, 2020. [[Paper]](https://arxiv.org/pdf/2001.05161.pdf) [[Code]](https://github.com/LilJing/pose-assisted-collaboration)
+
+* **Towards Distraction-Robust Active Visual Tracking** <br>
+*Fangwei Zhong, Wenhan Luo, Peng Sun, Tingyun Yan, Yizhou Wang* <br>
+ICML, 2021. [[Paper]](https://arxiv.org/abs/2106.10110) [[Code]](https://github.com/zfw1226/active_tracking_rl/tree/distractor) [[Website]](https://sites.google.com/view/distraction-robust-avt)
 
 
 ### <a name="visual_exploration"></a> Visual Exploration
@@ -483,7 +521,6 @@ CVPR, 2019. [[Paper]](https://arxiv.org/abs/1904.04686)
 CVPR, 2019. [[Paper]](https://arxiv.org/abs/1904.03461)
 
 
-
 ### <a name="visual_interaction"></a> Visual Interactions
 * **Visual Semantic Planning using Deep Successor Representations** <br>
 *Yuke Zhu, Daniel Gordon, Eric Kolve, Dieter Fox, Li Fei-Fei, Abhinav Gupta, Roozbeh Mottaghi, Ali Farhadi* <br>
@@ -517,6 +554,10 @@ ICLR, 2021. [[Paper]](https://arxiv.org/pdf/1912.08195.pdf)
 *Kuo-Hao Zeng, Luca Weihs, Ali Farhadi, Roozbeh Mottaghi* <br>
 CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2104.14040.pdf) [[Code]](https://github.com/KuoHaoZeng/Interactive_Visual_Navigation) [[Website]](https://prior.allenai.org/projects/interactive-visual-navigation)
 
+* **ManipulaTHOR: A Framework for Visual Object Manipulation** <br>
+*Kiana Ehsani, Winson Han, Alvaro Herrasti, Eli VanderBilt, Luca Weihs, Eric Kolve, Aniruddha Kembhavi, Roozbeh Mottaghi* <br>
+CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2104.11213.pdf) [[Code]](https://github.com/allenai/manipulathor) [[Website]](https://ai2thor.allenai.org/manipulathor/)
+
 ### <a name="rearrangement"></a> Rearrangement
 * **Visual Room Rearrangement** <br>
 *Luca Weihs, Matt Deitke, Aniruddha Kembhavi, and Roozbeh Mottaghi* <br>
@@ -525,7 +566,6 @@ CVPR, 2021. [[Paper]](https://arxiv.org/abs/1705.08080) [[Code]](https://github.
 * **Rearrangement: A Challenge for Embodied AI** <br>
 *Dhruv Batra, Angel X. Chang, Sonia Chernova, Andrew J. Davison, Jia Deng, Vladlen Koltun, Sergey Levine, Jitendra Malik, Igor Mordatch, Roozbeh Mottaghi, Manolis Savva, Hao Su* <br>
 arXiv, 2020. [[Paper]](https://arxiv.org/abs/2011.01975)
-
 
 ### <a name="sim2real"></a> Sim-to-real
 * **Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World** <br>
@@ -578,6 +618,10 @@ NeurIPS, 2021. [[Paper]](https://arxiv.org/pdf/2109.08238.pdf) [[Website]](https
 *Eric Kolve, Roozbeh Mottaghi, Winson Han, Eli VanderBilt, Luca Weihs, Alvaro Herrasti, Daniel Gordon, Yuke Zhu, Abhinav Gupta, Ali Farhadi* <br>
 arXiv, 2017. [[Paper]](https://arxiv.org/abs/1712.05474) [[Code]](https://github.com/allenai/ai2thor) [[Website]](https://ai2thor.allenai.org/)
 
+* **UnrealCV: Virtual Worlds for Computer Vision** <br>
+*Weichao Qiu, Fangwei Zhong, Yi Zhang, Siyuan Qiao, Zihao Xiao, Tae Soo Kim, Yizhou Wang, Alan Yuille* <br>
+ACM MM Open Source Software Competition, 2017. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3123266.3129396) [[Code]](https://github.com/unrealcv/unrealcv) [[Website]](https://unrealcv.org/)
+
 * **Building Generalizable Agents with a Realistic and Rich 3D Environment (House3D)** <br>
 *Yi Wu, Yuxin Wu, Georgia Gkioxari, Yuandong Tian* <br>
 arXiv, 2018. [[Paper]](https://arxiv.org/pdf/1801.02209.pdf) [[Code]](https://github.com/facebookresearch/House3D)
@@ -609,6 +653,10 @@ arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2007.04954.pdf) [[Code]](https://gi
 * **ALFWorld: Aligning Text and Embodied Environments for Interactive Learning** <br>
 *Mohit Shridhar, Xingdi Yuan, Marc-Alexandre Côté, Yonatan Bisk, Adam Trischler, Matthew Hausknecht*<br>
 ICLR, 2021. [[Paper]](https://arxiv.org/abs/2010.03768) [[Code]](https://github.com/alfworld/alfworld) [[Website]](https://alfworld.github.io/)
+
+* **ManipulaTHOR: A Framework for Visual Object Manipulation** <br>
+*Kiana Ehsani, Winson Han, Alvaro Herrasti, Eli VanderBilt, Luca Weihs, Eric Kolve, Aniruddha Kembhavi, Roozbeh Mottaghi* <br>
+CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2104.11213.pdf) [[Code]](https://github.com/allenai/manipulathor) [[Website]](https://ai2thor.allenai.org/manipulathor/)
 
 ## <a name="misc"></a> MISC
 * **Visual Learning and Embodied Agents in Simulation Environments Workshop** <br>
