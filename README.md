@@ -75,6 +75,13 @@ ICRA, 2021. [[Paper]](https://arxiv.org/pdf/2009.05429.pdf)
 *Peter Karkus, Shaojun Cai, David Hsu* <br>
 CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2105.07593.pdf) 
 
+* **The Surprising Effectiveness of Visual Odometry Techniques for Embodied PointGoal Navigation** <br>
+*Peter Karkus, Shaojun Cai, David Hsu* <br>
+ICCV, 2021. [[Paper]](https://arxiv.org/pdf/2106.04531.pdf) [[Code]](https://github.com/joel99/objectnav) [[Website]](https://xiaoming-zhao.github.io/projects/pointnav-vo)
+
+* **RobustNav: Towards Benchmarking Robustness in Embodied Navigation** <br>
+*Prithvijit Chattopadhyay, Judy Hoffman, Roozbeh Mottaghi, Aniruddha Kembhavi* <br>
+ICCV, 2021. [[Paper]](https://arxiv.org/pdf/2104.04112.pdf) [[Code]](https://github.com/allenai/robustnav) [[Website]](https://prior.allenai.org/projects/robustnav)
 
 ### <a name="audiogoal"></a> Audio-Visual Navigation
 * **Audio-Visual Embodied Navigation** <br>
@@ -152,6 +159,18 @@ ICLR, 2021. [[Paper]](https://arxiv.org/pdf/2009.07783.pdf)
 *Yiding Qiu, Anwesan Pal, Henrik I. Christensen* <br>
 CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2104.09807.pdf)
 
+* **Auxiliary Tasks and Exploration Enable ObjectGoal Navigation** <br>
+*Peter Karkus, Shaojun Cai, David Hsu* <br>
+ICCV, 2021. [[Paper]](https://arxiv.org/pdf/2108.11550.pdf) [[Code]](https://github.com/Xiaoming-Zhao/PointNav-VO) [[Website]](https://joel99.github.io/objectnav/)
+
+* **Hierarchical Object-to-Zone Graph for Object Navigation** <br>
+*Sixian Zhang, Xinhang Song, Yubing Bai, Weijie Li, Yakui Chu, Shuqiang Jiang* <br>
+ICCV, 2021. [[Paper]](https://arxiv.org/pdf/2109.02066.pdf)
+
+* **THDA: Treasure Hunt Data Augmentation for Semantic Navigation** <br>
+*Oleksandr Maksymets, Vincent Cartillier, Aaron Gokaslan, Erik Wijmans, Wojciech Galuba, Stefan Lee, Dhruv Batra* <br>
+ICCV, 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Maksymets_THDA_Treasure_Hunt_Data_Augmentation_for_Semantic_Navigation_ICCV_2021_paper.pdf)
+
 
 ### <a name="imagegoal"></a> ImageGoal Navigation
 
@@ -167,6 +186,13 @@ ICLR, 2018. [[Paper]](https://arxiv.org/pdf/1803.00653.pdf) [[Code]](https://git
 *Devendra Singh Chaplot, Ruslan Salakhutdinov, Abhinav Gupta, Saurabh Gupta* <br>
 CVPR, 2020. [[Paper]](https://arxiv.org/pdf/2005.12256.pdf) [[Website]](https://devendrachaplot.github.io/projects/Neural-Topological-SLAM)
 
+* **Visual Graph Memory with Unsupervised Representation for Visual Navigation** <br>
+*Obin Kwon, Nuri Kim, Yunho Choi, Hwiyeon Yoo, Jeongho Park, Songhwai Oh* <br>
+ICCV, 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Kwon_Visual_Graph_Memory_With_Unsupervised_Representation_for_Visual_Navigation_ICCV_2021_paper.pdf) [[Code]](https://github.com/rllab-snu/Visual-Graph-Memory) [[Website]](https://rllab-snu.github.io/projects/vgm/doc.html)
+
+* **No RL, No Simulation: Learning to Navigate without Navigating** <br>
+*Meera Hahn, Devendra Chaplot, Shubham Tulsiani, Mustafa Mukadam, James M. Rehg, Abhinav Gupta* <br>
+NeurIPS, 2021. [[Paper]](https://arxiv.org/pdf/2110.09470.pdf)
 
 
 ### <a name="vln"></a> Vision-Language Navigation
@@ -339,6 +365,46 @@ CVPR, 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Gao_
 *Xiangru Lin, Guanbin Li, Yizhou Yu* <br>
 CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2103.12944.pdf)
 
+* **The Road To Know-Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation** <br>
+*Yuankai Qi, Zizheng Pan, Yicong Hong, Ming-Hsuan Yang, Anton van den Hengel, Qi Wu* <br>
+ICCV, 2021. [[Paper]](https://arxiv.org/pdf/2104.04167.pdf) [[Code]](https://github.com/YuankaiQi/ORIST)
+
+* **Pathdreamer: A World Model for Indoor Navigation** <br>
+*Jing Yu Koh, Honglak Lee, Yinfei Yang, Jason Baldridge, Peter Anderson* <br>
+ICCV, 2021. [[Paper]](https://arxiv.org/pdf/2105.08756.pdf) [[Code]](https://github.com/google-research/pathdreamer) [[Website]](https://google-research.github.io/pathdreamer/)
+
+* **Episodic Transformer for Vision-and-Language Navigation** <br>
+*Alexander Pashevich, Cordelia Schmid, Chen Sun* <br>
+ICCV, 2021. [[Paper]](https://arxiv.org/pdf/2105.06453.pdf) [[Code]](https://github.com/alexpashevich/E.T.) [[Website]](https://sites.google.com/view/episodictransformer)
+
+* **Self-Motivated Communication Agent for Real-World Vision-Dialog Navigation** <br>
+*Yi Zhu\*, Yue Weng\*, Fengda Zhu, Xiaodan Liang, , Qixiang Ye, Yutong Lu, Jianbin Jiao* <br>
+ICCV, 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_Self-Motivated_Communication_Agent_for_Real-World_Vision-Dialog_Navigation_ICCV_2021_paper.pdf)
+
+* **Vision-Language Navigation with Random Environmental Mixup** <br>
+*Chong Liu\*, Fengda Zhu\*, Xiaojun Chang, Xiaodan Liang, Zongyuan Ge, Yi-Dong Shen* <br>
+ICCV, 2021. [[Paper]](https://arxiv.org/pdf/2106.07876.pdf) [[Code]](https://github.com/LCFractal/VLNREM)
+
+* **Waypoint Models for Instruction-guided Navigation in Continuous Environments** <br>
+*Jacob Krantz, Aaron Gokaslan, Dhruv Batra, Stefan Lee, Oleksandr Maksymets* <br>
+ICCV, 2021. [[Paper]](https://arxiv.org/pdf/2106.07876.pdf) [[Code]](https://github.com/jacobkrantz/VLN-CE) [[Website]](https://jacobkrantz.github.io/waypoint-vlnce/)
+
+* **Airbert: In-domain Pretraining for Vision-and-Language Navigation** <br>
+*Pierre-Louis Guhur, Makarand Tapaswi, Shizhe Chen, Ivan Laptev, Cordelia Schmid* <br>
+ICCV, 2021. [[Paper]](https://arxiv.org/pdf/2108.09105.pdf) [[Code]](https://github.com/airbert-vln/airbert) [[Website]](https://airbert-vln.github.io/)
+
+* **Curriculum Learning for Vision-and-Language Navigation** <br>
+*Jiwen Zhang, Zhongyu Wei, Jianqing Fan, Jiajie Peng* <br>
+NeurIPS, 2021. [[Paper]](https://arxiv.org/pdf/2111.07228.pdf) [[Code]](https://github.com/IMNearth/Curriculum-Learning-For-VLN)
+
+* **SOAT: A Scene- and Object-Aware Transformer for Vision-and-Language Navigation** <br>
+*Abhinav Moudgil, Arjun Majumdar, Harsh Agrawal, Stefan Lee, Dhruv Batra* <br>
+NeurIPS, 2021. [[Paper]](https://arxiv.org/pdf/2110.14143.pdf) 
+
+* **History Aware Multimodal Transformer for Vision-and-Language Navigation** <br>
+*Shizhe Chen, Pierre-Louis Guhur, Cordelia Schmid, Ivan Laptev* <br>
+NeurIPS, 2021. [[Paper]](https://arxiv.org/pdf/2110.13309.pdf) [[Website]](https://cshizhe.github.io/projects/vln_hamt.html) [[Code]](https://github.com/cshizhe/VLN-HAMT)
+
 ### <a name="multiagent"></a> Multiagent Navigation
 * **Two Body Problem: Collaborative Visual Task Completion** <br>
 *Unnat Jain\*, Luca Weihs\*, Eric Kolve, Mohammad Rastegari, Svetlana Lazebnik, Ali Farhadi, Alexander Schwing, Aniruddha Kembhavi* <br>
@@ -347,6 +413,14 @@ CVPR, 2019. [[Paper]](https://arxiv.org/pdf/1904.05879.pdf) [[Website]](https://
 * **A Cordial Sync: Going Beyond Marginal Policies For Multi-Agent Embodied Tasks** <br>
 *Unnat Jain\*, Luca Weihs\*, Eric Kolve, Ali Farhadi, Svetlana Lazebnik, Aniruddha Kembhavi, Alexander Schwing* <br>
 ECCV, 2020. [[Paper]](https://arxiv.org/abs/2007.04979) [[Code]](https://github.com/allenai/cordial-sync) [[Website]](https://unnat.github.io/cordial-sync/)
+
+* **Interpretation of Emergent Communication in Heterogeneous Collaborative Embodied Agents** <br>
+*Shivansh Patel\*, Saim Wani\*, Unnat Jain\*, Alexander G. Schwing, Svetlana Lazebnik, Manolis Savva, Angel X. Chang* <br>
+ICCV, 2021. [[Paper]](https://arxiv.org/pdf/2110.05769.pdf)
+
+* **GRIDTOPIX: Training Embodied Agents with Minimal Supervision** <br>
+*Shivansh Patel\*, Saim Wani\*, Unnat Jain\*, Alexander G. Schwing, Svetlana Lazebnik, Manolis Savva, Angel X. Chang* <br>
+ICCV, 2021. [[Paper]](https://arxiv.org/pdf/2105.00931.pdf) [[Website]](https://unnat.github.io/gridtopix/)
 
 
 ### <a name="visual_exploration"></a> Visual Exploration
@@ -462,6 +536,14 @@ IROS, 2017. [[Paper]](https://arxiv.org/abs/1703.06907)
 *Peter Anderson, Ayush Shrivastava, Joanne Truong, Arjun Majumdar, Devi Parikh, Dhruv Batra, Stefan Lee* <br>
 CoRL, 2020. [[Paper]](https://arxiv.org/abs/2011.03807)
 
+* **RL-CycleGAN: Reinforcement Learning Aware Simulation-To-Real** <br>
+*Kanishka Rao, Chris Harris, Alex Irpan, Sergey Levine, Julian Ibarz, Mohi Khansari* <br>
+CVPR, 2020. [[Paper]](https://arxiv.org/pdf/2006.09001.pdf)
+
+* **Bi-directional Domain Adaptation for Sim2Real Transfer of Embodied Navigation Agents** <br>
+*Joanne Truong, Sonia Chernova, Dhruv Batra* <br>
+RA-L, 2021. [[Paper]](https://arxiv.org/pdf/2011.12421.pdf)
+
 ## <a name="datasets"></a> Datasets
 * **A Dataset for Developing and Benchmarking Active Vision** <br>
 *Phil Ammirato, Patrick Poirson, Eunbyung Park, Jana Kosecka, Alexander C. Berg* <br>
@@ -487,6 +569,9 @@ arXiV, 2019. [[Paper]](https://arxiv.org/pdf/1906.05797.pdf) [[Code]](https://gi
 *Jiafei Duan, Samson Yu, Hui Li Tan, Cheston Tan* <br>
 ICIP, 2020. [[Paper]](https://arxiv.org/pdf/2010.01357.pdf) [[Code]](https://github.com/SamsonYuBaiJian/actionet)
 
+* **Habitat-Matterport 3D Dataset (HM3D): 1000 Large-scale 3D Environments for Embodied AI** <br>
+*Santhosh K. Ramakrishnan, Aaron Gokaslan, Erik Wijmans, Oleksandr Maksymets, Alex Clegg, John Turner, Eric Undersander, Wojciech Galuba, Andrew Westbury, Angel X. Chang, Manolis Savva, Yili Zhao, Dhruv Batra* <br>
+NeurIPS, 2021. [[Paper]](https://arxiv.org/pdf/2109.08238.pdf) [[Website]](https://matterport.com/habitat-matterport-3d-research-dataset?fbclid=IwAR0LM7ZsUMOjUtDuDHOWEfY7UuOZ-cl8T5IvuzflDdmy_SCkkordP8yNpd0)
 
 ## <a name="simulators"></a> Simulators
 * **AI2-THOR: An Interactive 3D Environment for Visual AI** <br>
