@@ -417,6 +417,10 @@ NeurIPS, 2021. [[Paper]](https://arxiv.org/pdf/2110.14143.pdf)
 *Shizhe Chen, Pierre-Louis Guhur, Cordelia Schmid, Ivan Laptev* <br>
 NeurIPS, 2021. [[Paper]](https://arxiv.org/pdf/2110.13309.pdf) [[Website]](https://cshizhe.github.io/projects/vln_hamt.html) [[Code]](https://github.com/cshizhe/VLN-HAMT)
 
+* **SASRA: Semantically-aware Spatio-temporal Reasoning Agent for Vision-and-Language Navigation in Continuous Environments** <br>
+*Muhammad Zubair Irshad, Niluthpol Chowdhury Mithun, Zachary Seymour, Han-Pang Chiu, Supun Samarasekera, Rakesh Kumar* <br>
+ICPR, 2022. [[Paper]](https://arxiv.org/abs/2108.11945) [[Website]](https://zubair-irshad.github.io/projects/SASRA.html) [[Video]](https://www.youtube.com/watch?v=DsziGtgaJC0)
+
 
 ### <a name="multiagent"></a> Multiagent Navigation
 * **Two Body Problem: Collaborative Visual Task Completion** <br>
