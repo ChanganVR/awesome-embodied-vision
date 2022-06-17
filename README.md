@@ -176,6 +176,10 @@ ICCV, 2021. [[Paper]](https://arxiv.org/abs/2109.02066) [[Code]](https://github.
 *Oleksandr Maksymets, Vincent Cartillier, Aaron Gokaslan, Erik Wijmans, Wojciech Galuba, Stefan Lee, Dhruv Batra* <br>
 ICCV, 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Maksymets_THDA_Treasure_Hunt_Data_Augmentation_for_Semantic_Navigation_ICCV_2021_paper.pdf)
 
+* **🏘️ ProcTHOR: Large-Scale Embodied AI Using Procedural Generation** <br>
+*Matt Deitke, Eli VanderBilt, Alvaro Herrasti, Luca Weihs, Jordi Salvador, Kiana Ehsani, Winson Han, Eric Kolve, Ali Farhadi, Aniruddha Kembhavi, Roozbeh Mottaghi* <br>
+arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.06994.pdf) [[Website]](https://procthor.allenai.org/)
+
 ### <a name="imagegoal"></a> ImageGoal Navigation
 
 * **Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning** <br>
@@ -562,6 +566,10 @@ CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2104.14040.pdf) [[Code]](https://git
 *Kiana Ehsani, Winson Han, Alvaro Herrasti, Eli VanderBilt, Luca Weihs, Eric Kolve, Aniruddha Kembhavi, Roozbeh Mottaghi* <br>
 CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2104.11213.pdf) [[Code]](https://github.com/allenai/manipulathor) [[Website]](https://ai2thor.allenai.org/manipulathor/)
 
+* **🏘️ ProcTHOR: Large-Scale Embodied AI Using Procedural Generation** <br>
+*Matt Deitke, Eli VanderBilt, Alvaro Herrasti, Luca Weihs, Jordi Salvador, Kiana Ehsani, Winson Han, Eric Kolve, Ali Farhadi, Aniruddha Kembhavi, Roozbeh Mottaghi* <br>
+arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.06994.pdf) [[Website]](https://procthor.allenai.org/)
+
 ### <a name="rearrangement"></a> Rearrangement
 * **Visual Room Rearrangement** <br>
 *Luca Weihs, Matt Deitke, Aniruddha Kembhavi, and Roozbeh Mottaghi* <br>
@@ -570,6 +578,10 @@ CVPR, 2021. [[Paper]](https://arxiv.org/abs/1705.08080) [[Code]](https://github.
 * **Rearrangement: A Challenge for Embodied AI** <br>
 *Dhruv Batra, Angel X. Chang, Sonia Chernova, Andrew J. Davison, Jia Deng, Vladlen Koltun, Sergey Levine, Jitendra Malik, Igor Mordatch, Roozbeh Mottaghi, Manolis Savva, Hao Su* <br>
 arXiv, 2020. [[Paper]](https://arxiv.org/abs/2011.01975)
+
+* **🏘️ ProcTHOR: Large-Scale Embodied AI Using Procedural Generation** <br>
+*Matt Deitke, Eli VanderBilt, Alvaro Herrasti, Luca Weihs, Jordi Salvador, Kiana Ehsani, Winson Han, Eric Kolve, Ali Farhadi, Aniruddha Kembhavi, Roozbeh Mottaghi* <br>
+arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.06994.pdf) [[Website]](https://procthor.allenai.org/)
 
 ### <a name="sim2real"></a> Sim-to-real
 * **Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World** <br>
@@ -617,6 +629,11 @@ ICIP, 2020. [[Paper]](https://arxiv.org/pdf/2010.01357.pdf) [[Code]](https://git
 *Santhosh K. Ramakrishnan, Aaron Gokaslan, Erik Wijmans, Oleksandr Maksymets, Alex Clegg, John Turner, Eric Undersander, Wojciech Galuba, Andrew Westbury, Angel X. Chang, Manolis Savva, Yili Zhao, Dhruv Batra* <br>
 NeurIPS, 2021. [[Paper]](https://arxiv.org/pdf/2109.08238.pdf) [[Website]](https://matterport.com/habitat-matterport-3d-research-dataset?fbclid=IwAR0LM7ZsUMOjUtDuDHOWEfY7UuOZ-cl8T5IvuzflDdmy_SCkkordP8yNpd0)
 
+* **🏘️ ProcTHOR-10K: 10K Interactive Household Environments for Embodied AI** <br>
+*Matt Deitke, Eli VanderBilt, Alvaro Herrasti, Luca Weihs, Jordi Salvador, Kiana Ehsani, Winson Han, Eric Kolve, Ali Farhadi, Aniruddha Kembhavi, Roozbeh Mottaghi* <br>
+arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.06994.pdf) [[Website]](https://procthor.allenai.org/)
+
+
 ## <a name="simulators"></a> Simulators
 * **AI2-THOR: An Interactive 3D Environment for Visual AI** <br>
 *Eric Kolve, Roozbeh Mottaghi, Winson Han, Eli VanderBilt, Luca Weihs, Alvaro Herrasti, Daniel Gordon, Yuke Zhu, Abhinav Gupta, Ali Farhadi* <br>
@@ -661,6 +678,10 @@ ICLR, 2021. [[Paper]](https://arxiv.org/abs/2010.03768) [[Code]](https://github.
 * **ManipulaTHOR: A Framework for Visual Object Manipulation** <br>
 *Kiana Ehsani, Winson Han, Alvaro Herrasti, Eli VanderBilt, Luca Weihs, Eric Kolve, Aniruddha Kembhavi, Roozbeh Mottaghi* <br>
 CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2104.11213.pdf) [[Code]](https://github.com/allenai/manipulathor) [[Website]](https://ai2thor.allenai.org/manipulathor/)
+
+* **🏘️ ProcTHOR: Large-Scale Embodied AI Using Procedural Generation** <br>
+*Matt Deitke, Eli VanderBilt, Alvaro Herrasti, Luca Weihs, Jordi Salvador, Kiana Ehsani, Winson Han, Eric Kolve, Ali Farhadi, Aniruddha Kembhavi, Roozbeh Mottaghi* <br>
+arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.06994.pdf) [[Website]](https://procthor.allenai.org/)
 
 ## <a name="misc"></a> MISC
 * **Visual Learning and Embodied Agents in Simulation Environments Workshop** <br>
