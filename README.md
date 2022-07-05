@@ -105,6 +105,10 @@ CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2012.11583.pdf) [[Code]](https://git
 *Sagnik Majumder, Ziad Al-Halah, and Kristen Grauman* <br>
 ICCV, 2021. [[Paper]](https://arxiv.org/abs/2105.07142) [[Website]](http://vision.cs.utexas.edu/projects/move2hear/)
 
+* **Active Audio-Visual Separation of Dynamic Sound Sources** <br>
+*Sagnik Majumder, Ziad Al-Halah, and Kristen Grauman* <br>
+ECCV, 2022. [[Paper]](https://arxiv.org/abs/2202.00850) [[Website]](http://vision.cs.utexas.edu/projects/active-av-dynamic-separation/)
+
 
 ### <a name="objectgoal"></a> ObjectGoal Navigation
 
