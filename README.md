@@ -518,6 +518,9 @@ arXiv, 2020. [[Paper]](https://vdean.github.io/resources/audio-curiosity2020.pdf
 *Santhosh K. Ramakrishnan, Ziad Al-Halah, Kristen Grauman* <br>
 ECCV, 2020. [[Paper]](http://vision.cs.utexas.edu/projects/occupancy_anticipation/main.pdf) [[Code]](https://github.com/facebookresearch/OccupancyAnticipation) [[Website]](http://vision.cs.utexas.edu/projects/occupancy_anticipation/)
 
+* **Symmetry-aware Neural Architecture for. Embodied Visual Exploration** <br>
+*Shuang Liu, Takayuki Okatani* <br>
+CVPR, 2022. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Symmetry-Aware_Neural_Architecture_for_Embodied_Visual_Exploration_CVPR_2022_paper.pdf) [[Code]](https://github.com/vincent341/S-ANS) [[Website]](https://github.com/vincent341/S-ANS)
 
 ### <a name="eqa"></a> Embodied Question Answering
 * **Embodied Question Answering** <br>
