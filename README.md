@@ -19,6 +19,7 @@ By [Changan Chen](https://changan.io) (changan@cs.utexas.edu), Department of Com
 	* [Visual Exploration](#visual_exploration)
 	* [Visual Interactions](#visual_interaction)
 	* [Rearrangement](#rearrangement)
+	* [Visual-Acoustic Learning](#Visual_Acoustic_Learning)
 	* [Sim-to-real](#sim2real)
 * [Datasets](#datasets)
 * [Simulators](#simulators)
@@ -596,6 +597,31 @@ arXiv, 2020. [[Paper]](https://arxiv.org/abs/2011.01975)
 * **🏘️ ProcTHOR: Large-Scale Embodied AI Using Procedural Generation** <br>
 *Matt Deitke, Eli VanderBilt, Alvaro Herrasti, Luca Weihs, Jordi Salvador, Kiana Ehsani, Winson Han, Eric Kolve, Ali Farhadi, Aniruddha Kembhavi, Roozbeh Mottaghi* <br>
 arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.06994.pdf) [[Website]](https://procthor.allenai.org/)
+
+### <a name="Visual_Acoustic_Learning"></a> Visual Acoustic Learning for RIR
+* **Learning Audio-Visual Dereverberation** <br>
+*Changan Chen, Wei Sun, David Harwath, Kristen Grauman* <br>
+arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2106.07732.pdf) [[Code]](https://github.com/facebookresearch/learning-audio-visual-dereverberation) [[Website]](https://vision.cs.utexas.edu/projects/learning-audio-visual-dereverberation)
+
+* **Learning Neural Acoustic Fields** <br>
+*Andrew Luo, Yilun Du, Michael J. Tarr, Joshua B. Tenenbaum, Antonio Torralba, Chuang Gan* <br>
+arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2204.00628.pdf) [[Code]](https://github.com/aluo-x/Learning_Neural_Acoustic_Fields) [[Website]](https://www.andrew.cmu.edu/user/afluo/Neural_Acoustic_Fields)
+
+* **Visual Acoustic Matching** <br>
+*Changan Chen, Ruohan Gao, Paul Calamia, Kristen Grauman* <br>
+CVPR, 2022. [[Paper]](https://arxiv.org/pdf/2202.06875.pdf) [[Code]](https://github.com/facebookresearch/visual-acoustic-matching) [[Website]](https://vision.cs.utexas.edu/projects/visual-acoustic-matching)
+
+* **Few-Shot Audio-Visual Learning of Environment Acoustics** <br>
+*Sagnik Majumder, Changan Chen*, Ziad Al-Halah*, Kristen Grauman* <br>
+arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.04006.pdf) [[Website]](https://vision.cs.utexas.edu/projects/fs_rir/)
+
+* **MESH2IR: Neural Acoustic Impulse Response Generator for Complex 3D Scenes** <br>
+*Anton Ratnarajah, Zhenyu Tang, Rohith Chandrashekar Aralikatti, Dinesh Manocha* <br>
+arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2205.09248.pdf) [[Code]](https://github.com/anton-jeran/MESH2IR)
+
+* **SoundSpaces 2.0: A Simulation Platform for Visual-Acoustic Learning** <br>
+*Changan Chen*, Carl Schissler*, Sanchit Garg*, Philip Kobernik, Alexander Clegg, Paul Calamia, Dhruv Batra, Philip W Robinson, Kristen Grauman* <br>
+arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.08312.pdf) [[Code]](https://github.com/facebookresearch/sound-spaces) [[Website]](https://vision.cs.utexas.edu/projects/soundspaces2)
 
 ### <a name="sim2real"></a> Sim-to-real
 * **Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World** <br>
