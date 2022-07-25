@@ -114,6 +114,10 @@ ECCV, 2022. [[Paper]](https://arxiv.org/abs/2202.00850) [[Website]](http://visio
 *Yinfeng Yu, Wenbing Huang, Fuchun Sun, Changan Chen, Yikai Wang, Xiaohong Liu* <br>
 ICLR, 2022. [[Paper]](https://openreview.net/pdf?id=NkZq4OEYN-) [[Code]](https://github.com/yyf17/SAAVN/tree/main) [[Website]](https://yyf17.github.io/SAAVN)
 
+* **SoundSpaces 2.0: A Simulation Platform for Visual-Acoustic Learning** <br>
+*Changan Chen*, Carl Schissler*, Sanchit Garg*, Philip Kobernik, Alexander Clegg, Paul Calamia, Dhruv Batra, Philip W Robinson, Kristen Grauman* <br>
+arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.08312.pdf) [[Code]](https://github.com/facebookresearch/sound-spaces) [[Website]](https://vision.cs.utexas.edu/projects/soundspaces2)
+
 ### <a name="objectgoal"></a> ObjectGoal Navigation
 
 * **Cognitive Mapping and Planning for Visual Navigation** <br>
@@ -617,7 +621,7 @@ arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.04006.pdf) [[Website]](https:/
 
 * **MESH2IR: Neural Acoustic Impulse Response Generator for Complex 3D Scenes** <br>
 *Anton Ratnarajah, Zhenyu Tang, Rohith Chandrashekar Aralikatti, Dinesh Manocha* <br>
-arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2205.09248.pdf) [[Code]](https://github.com/anton-jeran/MESH2IR)
+arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2205.09248.pdf) [[Code]](https://github.com/anton-jeran/MESH2IR) [[Website]](https://anton-jeran.github.io/M2IR/)
 
 * **SoundSpaces 2.0: A Simulation Platform for Visual-Acoustic Learning** <br>
 *Changan Chen*, Carl Schissler*, Sanchit Garg*, Philip Kobernik, Alexander Clegg, Paul Calamia, Dhruv Batra, Philip W Robinson, Kristen Grauman* <br>
