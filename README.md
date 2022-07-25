@@ -109,6 +109,9 @@ ICCV, 2021. [[Paper]](https://arxiv.org/abs/2105.07142) [[Website]](http://visio
 *Sagnik Majumder, Ziad Al-Halah, and Kristen Grauman* <br>
 ECCV, 2022. [[Paper]](https://arxiv.org/abs/2202.00850) [[Website]](http://vision.cs.utexas.edu/projects/active-av-dynamic-separation/)
 
+* **Sound Adversarial Audio-Visual Navigation** <br>
+*Yinfeng Yu, Wenbing Huang, Fuchun Sun, Changan Chen, Yikai Wang, Xiaohong Liu* <br>
+ICLR, 2022. [[Paper]](https://openreview.net/pdf?id=NkZq4OEYN-) [[Code]](https://github.com/yyf17/SAAVN/tree/main) [[Website]](https://yyf17.github.io/SAAVN)
 
 ### <a name="objectgoal"></a> ObjectGoal Navigation
 
@@ -446,6 +449,10 @@ ICCV, 2021. [[Paper]](https://arxiv.org/pdf/2110.05769.pdf)
 * **GRIDTOPIX: Training Embodied Agents with Minimal Supervision** <br>
 *Shivansh Patel\*, Saim Wani\*, Unnat Jain\*, Alexander G. Schwing, Svetlana Lazebnik, Manolis Savva, Angel X. Chang* <br>
 ICCV, 2021. [[Paper]](https://arxiv.org/pdf/2105.00931.pdf) [[Website]](https://unnat.github.io/gridtopix/)
+
+* **Sound Adversarial Audio-Visual Navigation** <br>
+*Yinfeng Yu, Wenbing Huang, Fuchun Sun, Changan Chen, Yikai Wang, Xiaohong Liu* <br>
+ICLR, 2022. [[Paper]](https://openreview.net/pdf?id=NkZq4OEYN-) [[Code]](https://github.com/yyf17/SAAVN/tree/main) [[Website]](https://yyf17.github.io/SAAVN)
 
 ### <a name="av-tracking"></a> Active Visual Tracking
 * **End-to-end Active Object Tracking via Reinforcement Learning** <br>
