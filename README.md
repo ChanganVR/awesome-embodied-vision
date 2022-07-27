@@ -603,6 +603,42 @@ arXiv, 2020. [[Paper]](https://arxiv.org/abs/2011.01975)
 arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.06994.pdf) [[Website]](https://procthor.allenai.org/)
 
 ### <a name="Visual_Acoustic_Learning"></a> Visual Acoustic Learning for RIR
+
+**Building and Evaluation of a Real Room Impulse Response Dataset**
+
+  _Szöke I, Skácel M, Mošner L, et al._
+
+  IEEE Journal of Selected Topics in Signal Processing, 2019. [[Paper]](https://arxiv.org/pdf/1811.06795) [Code] [Website]
+
+**StoRIR: Stochastic Room Impulse Response Generation For Audio Data Augmentation**
+
+  _Masztalski P, Matuszewski M, Piaskowski K, et al._
+
+  arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2008.07231) [[Code]](https://github.com/SRPOL-AUI/storir) [Website]
+
+**IR-GAN: Room Impulse Response Generator for Far-field Speech Recognition**
+
+  _Ratnarajah A, Tang Z, Manocha D._
+
+  arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2010.13219) [[Code]](https://github.com/GAMMA-UMD/IR-GAN) [[Website]](https://www.youtube.com/watch?v=_v5rDmDXvD0)
+
+  **gpuRIR: A Python Library for Room Impulse Response Simulation with GPU Acceleration**
+
+  _Diaz-Guerra D, Miguel A, Beltran J R.._
+
+  Multimedia Tools and Applications, 2021. [[Paper]](https://arxiv.org/pdf/1810.11359) [[Code]](https://github.com/DavidDiazGuerra/gpuRIR) [Website]
+
+  **TS-RIR: Translated synthetic room impulse responses for speech augmentation**
+
+  _Ratnarajah A, Tang Z, Manocha D._
+
+  IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2021. [[Paper]](https://arxiv.org/pdf/2103.16804) [[Code]](https://github.com/GAMMA-UMD/TS-RIR) [[Website]](https://www.youtube.com/watch?v=gghzIMT8FCw)
+
+**Geometry-Aware Multi-Task Learning for Binaural Audio Generation from Video**
+
+  _Garg R, Gao R, Grauman K._
+
+  arXiv, 2021. [[Paper]](https://arxiv.org/pdf/2111.10882) [Code] [[Website]](https://www.youtube.com/watch?v=rTLMcH4QUKI)
 * **Learning Audio-Visual Dereverberation** <br>
 *Changan Chen, Wei Sun, David Harwath, Kristen Grauman* <br>
 arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2106.07732.pdf) [[Code]](https://github.com/facebookresearch/learning-audio-visual-dereverberation) [[Website]](https://vision.cs.utexas.edu/projects/learning-audio-visual-dereverberation)
@@ -623,6 +659,12 @@ arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.04006.pdf) [[Website]](https:/
 *Anton Ratnarajah, Zhenyu Tang, Rohith Chandrashekar Aralikatti, Dinesh Manocha* <br>
 arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2205.09248.pdf) [[Code]](https://github.com/anton-jeran/MESH2IR) [[Website]](https://anton-jeran.github.io/M2IR/)
 
+**FAST-RIR: Fast neural diffuse room impulse response generator**
+
+  _Ratnarajah A, Zhang S X, Yu M, et al._
+
+  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022. [[Paper]](https://arxiv.org/pdf/2110.04057) [[Code]](https://github.com/anton-jeran/FAST-RIR) [[Website]](https://anton-jeran.github.io/FRIR/)
+  
 * **SoundSpaces 2.0: A Simulation Platform for Visual-Acoustic Learning** <br>
 *Changan Chen*, Carl Schissler*, Sanchit Garg*, Philip Kobernik, Alexander Clegg, Paul Calamia, Dhruv Batra, Philip W Robinson, Kristen Grauman* <br>
 arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.08312.pdf) [[Code]](https://github.com/facebookresearch/sound-spaces) [[Website]](https://vision.cs.utexas.edu/projects/soundspaces2)
