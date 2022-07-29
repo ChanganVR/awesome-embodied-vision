@@ -674,6 +674,21 @@ CVPR, 2022. [[Paper]](https://arxiv.org/pdf/2202.06875.pdf) [[Code]](https://git
 *Changan Chen*, Carl Schissler*, Sanchit Garg*, Philip Kobernik, Alexander Clegg, Paul Calamia, Dhruv Batra, Philip W Robinson, Kristen Grauman* <br>
 arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.08312.pdf) [[Code]](https://github.com/facebookresearch/sound-spaces) [[Website]](https://vision.cs.utexas.edu/projects/soundspaces2)
 
+* **ObjectFolder: A Dataset of Objects with Implicit Visual, Auditory, and Tactile Representations** <br>
+*R. Gao, Y. Chang, S. Mall, L. Fei-Fei, J. Wu* <br>
+CoRL, 2021. [[Paper]](https://arxiv.org/pdf/2109.07991.pdf) [[Code]](https://github.com/rhgao/ObjectFolder) [[Website]](https://ai.stanford.edu/~rhgao/objectfolder/)
+
+
+* **ObjectFolder 2.0: A Multisensory Object Dataset for Sim2Real Transfer** <br>
+*R. Gao, Z. Si, Y. Chang, S. Clarke, J. Bohg, L. Fei-Fei, W. Yuan, J. Wu* <br>
+CVPR, 2022. [[Paper]](https://arxiv.org/pdf/2204.02389.pdf) [[Code]](https://github.com/rhgao/ObjectFolder) [[Website]](https://ai.stanford.edu/~rhgao/objectfolder2.0/)
+
+
+* **DiffImpact: Differentiable Rendering and Identification of Impact
+               Sounds** <br>
+*Samuel Clarke, Negin Heravi, Mark Rau, Ruohan Gao, Jiajun Wu, Doug James, Jeannette Bohg* <br>
+CoRL, 2021. [[Paper]](https://openreview.net/pdf?id=wVIqlSqKu2D) [[Code]](link) [[Website]](https://sites.google.com/view/diffimpact)
+
 ### <a name="sim2real"></a> Sim-to-real
 * **Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World** <br>
 *Josh Tobin, Rachel Fong, Alex Ray, Jonas Schneider, Wojciech Zaremba, Pieter Abbeel* <br>
