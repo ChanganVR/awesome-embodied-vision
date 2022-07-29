@@ -639,17 +639,10 @@ arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.06994.pdf) [[Website]](https:/
   _Garg R, Gao R, Grauman K._
 
   arXiv, 2021. [[Paper]](https://arxiv.org/pdf/2111.10882) [Code] [[Website]](https://www.youtube.com/watch?v=rTLMcH4QUKI)
-* **Learning Audio-Visual Dereverberation** <br>
-*Changan Chen, Wei Sun, David Harwath, Kristen Grauman* <br>
-arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2106.07732.pdf) [[Code]](https://github.com/facebookresearch/learning-audio-visual-dereverberation) [[Website]](https://vision.cs.utexas.edu/projects/learning-audio-visual-dereverberation)
-
+  
 * **Learning Neural Acoustic Fields** <br>
 *Andrew Luo, Yilun Du, Michael J. Tarr, Joshua B. Tenenbaum, Antonio Torralba, Chuang Gan* <br>
 arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2204.00628.pdf) [[Code]](https://github.com/aluo-x/Learning_Neural_Acoustic_Fields) [[Website]](https://www.andrew.cmu.edu/user/afluo/Neural_Acoustic_Fields)
-
-* **Visual Acoustic Matching** <br>
-*Changan Chen, Ruohan Gao, Paul Calamia, Kristen Grauman* <br>
-CVPR, 2022. [[Paper]](https://arxiv.org/pdf/2202.06875.pdf) [[Code]](https://github.com/facebookresearch/visual-acoustic-matching) [[Website]](https://vision.cs.utexas.edu/projects/visual-acoustic-matching)
 
 * **Few-Shot Audio-Visual Learning of Environment Acoustics** <br>
 *Sagnik Majumder, Changan Chen*, Ziad Al-Halah*, Kristen Grauman* <br>
@@ -664,7 +657,19 @@ arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2205.09248.pdf) [[Code]](https://gi
   _Ratnarajah A, Zhang S X, Yu M, et al._
 
   IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022. [[Paper]](https://arxiv.org/pdf/2110.04057) [[Code]](https://github.com/anton-jeran/FAST-RIR) [[Website]](https://anton-jeran.github.io/FRIR/)
-  
+ 
+* **Image2Reverb: Cross-Modal Reverb Impulse Response Synthesis** <br>
+*Nikhil Singh, Jeff Mentch, Jerry Ng, Matthew Beveridge, Iddo Drori* <br>
+ICCV, 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Singh_Image2Reverb_Cross-Modal_Reverb_Impulse_Response_Synthesis_ICCV_2021_paper.pdf) [[Code]](https://github.com/nikhilsinghmus/image2reverb) [[Website]](https://web.media.mit.edu/~nsingh1/image2reverb/)
+
+* **Learning Audio-Visual Dereverberation** <br>
+*Changan Chen, Wei Sun, David Harwath, Kristen Grauman* <br>
+arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2106.07732.pdf) [[Code]](https://github.com/facebookresearch/learning-audio-visual-dereverberation) [[Website]](https://vision.cs.utexas.edu/projects/learning-audio-visual-dereverberation)
+
+* **Visual Acoustic Matching** <br>
+*Changan Chen, Ruohan Gao, Paul Calamia, Kristen Grauman* <br>
+CVPR, 2022. [[Paper]](https://arxiv.org/pdf/2202.06875.pdf) [[Code]](https://github.com/facebookresearch/visual-acoustic-matching) [[Website]](https://vision.cs.utexas.edu/projects/visual-acoustic-matching)
+
 * **SoundSpaces 2.0: A Simulation Platform for Visual-Acoustic Learning** <br>
 *Changan Chen*, Carl Schissler*, Sanchit Garg*, Philip Kobernik, Alexander Clegg, Paul Calamia, Dhruv Batra, Philip W Robinson, Kristen Grauman* <br>
 arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.08312.pdf) [[Code]](https://github.com/facebookresearch/sound-spaces) [[Website]](https://vision.cs.utexas.edu/projects/soundspaces2)
