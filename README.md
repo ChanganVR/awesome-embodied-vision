@@ -3,7 +3,7 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln).
 
-By [Changan Chen](https://changan.io) (changan@cs.utexas.edu), Department of Computer Science at the University of Texas at Austin, with help from [Tushar Nagarajan](https://tushar-n.github.io/) and [Santhosh Kumar Ramakrishnan](https://srama2512.github.io/). If you see papers missing from the list, please send me an email or a pull request (format see [below](#contributing)).
+By [Changan Chen](https://changan.io) (changan@cs.utexas.edu), Department of Computer Science at the University of Texas at Austin, with help from [Tushar Nagarajan](https://tushar-n.github.io/), [Santhosh Kumar Ramakrishnan](https://srama2512.github.io/) and [Yinfeng Yu](https://yyf17.github.io/). If you see papers missing from the list, please send me an email or a pull request (format see [below](#contributing)).
 
 ## Table of Content
 
@@ -19,8 +19,7 @@ By [Changan Chen](https://changan.io) (changan@cs.utexas.edu), Department of Com
 	* [Visual Exploration](#visual_exploration)
 	* [Visual Interactions](#visual_interaction)
 	* [Rearrangement](#rearrangement)
-	* [Visual-Acoustic Learning](#Visual_Acoustic_Learning)
-	* [Sim-to-real](#sim2real)
+	* [Sim2real Transfer](#sim2real_transfer)
 * [Datasets](#datasets)
 * [Simulators](#simulators)
 * [MISC](#misc)
@@ -115,7 +114,7 @@ ECCV, 2022. [[Paper]](https://arxiv.org/abs/2202.00850) [[Website]](http://visio
 ICLR, 2022. [[Paper]](https://openreview.net/pdf?id=NkZq4OEYN-) [[Code]](https://github.com/yyf17/SAAVN/tree/main) [[Website]](https://yyf17.github.io/SAAVN)
 
 * **SoundSpaces 2.0: A Simulation Platform for Visual-Acoustic Learning** <br>
-*Changan Chen*, Carl Schissler*, Sanchit Garg*, Philip Kobernik, Alexander Clegg, Paul Calamia, Dhruv Batra, Philip W Robinson, Kristen Grauman* <br>
+*Changan Chen\*, Carl Schissler\*, Sanchit Garg\*, Philip Kobernik, Alexander Clegg, Paul Calamia, Dhruv Batra, Philip W Robinson, Kristen Grauman* <br>
 arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.08312.pdf) [[Code]](https://github.com/facebookresearch/sound-spaces) [[Website]](https://vision.cs.utexas.edu/projects/soundspaces2)
 
 ### <a name="objectgoal"></a> ObjectGoal Navigation
@@ -524,7 +523,7 @@ ECCV, 2020. [[Paper]](https://arxiv.org/pdf/2006.09367.pdf) [[Website]](https://
 
 * **See, Hear, Explore: Curiosity via Audio-Visual Association** <br>
 *Victoria Dean, Shubham Tulsiani, Abhinav Gupta* <br>
-arXiv, 2020. [[Paper]](https://vdean.github.io/resources/audio-curiosity2020.pdf) [[Website]](https://vdean.github.io/audio-curiosity.html)
+NeurIPS, 2020. [[Paper]](https://vdean.github.io/resources/audio-curiosity2020.pdf) [[Website]](https://vdean.github.io/audio-curiosity.html)
 
 * **Occupancy Anticipation for Efficient Exploration and Navigation** <br>
 *Santhosh K. Ramakrishnan, Ziad Al-Halah, Kristen Grauman* <br>
@@ -602,94 +601,7 @@ arXiv, 2020. [[Paper]](https://arxiv.org/abs/2011.01975)
 *Matt Deitke, Eli VanderBilt, Alvaro Herrasti, Luca Weihs, Jordi Salvador, Kiana Ehsani, Winson Han, Eric Kolve, Ali Farhadi, Aniruddha Kembhavi, Roozbeh Mottaghi* <br>
 arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.06994.pdf) [[Website]](https://procthor.allenai.org/)
 
-### <a name="Visual_Acoustic_Learning"></a> Visual Acoustic Learning for RIR
-
-* **Building and Evaluation of a Real Room Impulse Response Dataset**
-
-  _Szöke I, Skácel M, Mošner L, et al._
-
-  IEEE Journal of Selected Topics in Signal Processing, 2019. [[Paper]](https://arxiv.org/pdf/1811.06795) [Code] [Website]
-
-* **StoRIR: Stochastic Room Impulse Response Generation For Audio Data Augmentation**
-
-  _Masztalski P, Matuszewski M, Piaskowski K, et al._
-
-  arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2008.07231) [[Code]](https://github.com/SRPOL-AUI/storir) [Website]
-
-* **IR-GAN: Room Impulse Response Generator for Far-field Speech Recognition**
-
-  _Ratnarajah A, Tang Z, Manocha D._
-
-  arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2010.13219) [[Code]](https://github.com/GAMMA-UMD/IR-GAN) [[Website]](https://www.youtube.com/watch?v=_v5rDmDXvD0)
-
-* **gpuRIR: A Python Library for Room Impulse Response Simulation with GPU Acceleration**
-
-  _Diaz-Guerra D, Miguel A, Beltran J R.._
-
-  Multimedia Tools and Applications, 2021. [[Paper]](https://arxiv.org/pdf/1810.11359) [[Code]](https://github.com/DavidDiazGuerra/gpuRIR) [Website]
-
-* **TS-RIR: Translated synthetic room impulse responses for speech augmentation**
-
-  _Ratnarajah A, Tang Z, Manocha D._
-
-  IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2021. [[Paper]](https://arxiv.org/pdf/2103.16804) [[Code]](https://github.com/GAMMA-UMD/TS-RIR) [[Website]](https://www.youtube.com/watch?v=gghzIMT8FCw)
-
-* **Geometry-Aware Multi-Task Learning for Binaural Audio Generation from Video**
-
-  _Garg R, Gao R, Grauman K._
-
-  arXiv, 2021. [[Paper]](https://arxiv.org/pdf/2111.10882) [Code] [[Website]](https://www.youtube.com/watch?v=rTLMcH4QUKI)
-  
-* **Learning Neural Acoustic Fields** <br>
-*Andrew Luo, Yilun Du, Michael J. Tarr, Joshua B. Tenenbaum, Antonio Torralba, Chuang Gan* <br>
-arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2204.00628.pdf) [[Code]](https://github.com/aluo-x/Learning_Neural_Acoustic_Fields) [[Website]](https://www.andrew.cmu.edu/user/afluo/Neural_Acoustic_Fields)
-
-* **Few-Shot Audio-Visual Learning of Environment Acoustics** <br>
-*Sagnik Majumder, Changan Chen*, Ziad Al-Halah*, Kristen Grauman* <br>
-arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.04006.pdf) [[Website]](https://vision.cs.utexas.edu/projects/fs_rir/)
-
-* **MESH2IR: Neural Acoustic Impulse Response Generator for Complex 3D Scenes** <br>
-*Anton Ratnarajah, Zhenyu Tang, Rohith Chandrashekar Aralikatti, Dinesh Manocha* <br>
-arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2205.09248.pdf) [[Code]](https://github.com/anton-jeran/MESH2IR) [[Website]](https://anton-jeran.github.io/M2IR/)
-
-* **FAST-RIR: Fast neural diffuse room impulse response generator**
-
-  _Ratnarajah A, Zhang S X, Yu M, et al._
-
-  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022. [[Paper]](https://arxiv.org/pdf/2110.04057) [[Code]](https://github.com/anton-jeran/FAST-RIR) [[Website]](https://anton-jeran.github.io/FRIR/)
- 
-* **Image2Reverb: Cross-Modal Reverb Impulse Response Synthesis** <br>
-*Nikhil Singh, Jeff Mentch, Jerry Ng, Matthew Beveridge, Iddo Drori* <br>
-ICCV, 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Singh_Image2Reverb_Cross-Modal_Reverb_Impulse_Response_Synthesis_ICCV_2021_paper.pdf) [[Code]](https://github.com/nikhilsinghmus/image2reverb) [[Website]](https://web.media.mit.edu/~nsingh1/image2reverb/)
-
-* **Learning Audio-Visual Dereverberation** <br>
-*Changan Chen, Wei Sun, David Harwath, Kristen Grauman* <br>
-arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2106.07732.pdf) [[Code]](https://github.com/facebookresearch/learning-audio-visual-dereverberation) [[Website]](https://vision.cs.utexas.edu/projects/learning-audio-visual-dereverberation)
-
-* **Visual Acoustic Matching** <br>
-*Changan Chen, Ruohan Gao, Paul Calamia, Kristen Grauman* <br>
-CVPR, 2022. [[Paper]](https://arxiv.org/pdf/2202.06875.pdf) [[Code]](https://github.com/facebookresearch/visual-acoustic-matching) [[Website]](https://vision.cs.utexas.edu/projects/visual-acoustic-matching)
-
-* **SoundSpaces 2.0: A Simulation Platform for Visual-Acoustic Learning** <br>
-*Changan Chen*, Carl Schissler*, Sanchit Garg*, Philip Kobernik, Alexander Clegg, Paul Calamia, Dhruv Batra, Philip W Robinson, Kristen Grauman* <br>
-arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.08312.pdf) [[Code]](https://github.com/facebookresearch/sound-spaces) [[Website]](https://vision.cs.utexas.edu/projects/soundspaces2)
-
-* **ObjectFolder: A Dataset of Objects with Implicit Visual, Auditory, and Tactile Representations** <br>
-*R. Gao, Y. Chang, S. Mall, L. Fei-Fei, J. Wu* <br>
-CoRL, 2021. [[Paper]](https://arxiv.org/pdf/2109.07991.pdf) [[Code]](https://github.com/rhgao/ObjectFolder) [[Website]](https://ai.stanford.edu/~rhgao/objectfolder/)
-
-
-* **ObjectFolder 2.0: A Multisensory Object Dataset for Sim2Real Transfer** <br>
-*R. Gao, Z. Si, Y. Chang, S. Clarke, J. Bohg, L. Fei-Fei, W. Yuan, J. Wu* <br>
-CVPR, 2022. [[Paper]](https://arxiv.org/pdf/2204.02389.pdf) [[Code]](https://github.com/rhgao/ObjectFolder) [[Website]](https://ai.stanford.edu/~rhgao/objectfolder2.0/)
-
-
-* **DiffImpact: Differentiable Rendering and Identification of Impact
-               Sounds** <br>
-*Samuel Clarke, Negin Heravi, Mark Rau, Ruohan Gao, Jiajun Wu, Doug James, Jeannette Bohg* <br>
-CoRL, 2021. [[Paper]](https://openreview.net/pdf?id=wVIqlSqKu2D) [[Code]](link) [[Website]](https://sites.google.com/view/diffimpact)
-
-### <a name="sim2real"></a> Sim-to-real
+### <a name="sim2real_transfer"></a> Sim-to-real Transfer
 * **Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World** <br>
 *Josh Tobin, Rachel Fong, Alex Ray, Jonas Schneider, Wojciech Zaremba, Pieter Abbeel* <br>
 IROS, 2017. [[Paper]](https://arxiv.org/abs/1703.06907)
