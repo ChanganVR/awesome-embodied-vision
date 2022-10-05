@@ -546,6 +546,10 @@ CVPR, 2019. [[Paper]](https://arxiv.org/abs/1904.04686)
 *Erik Wijmans\*, Samyak Datta\*, Oleksandr Maksymets\*, Abhishek Das, Georgia Gkioxari, Stefan Lee, Irfan Essa, Devi Parikh, Dhruv Batra* <br>
 CVPR, 2019. [[Paper]](https://arxiv.org/abs/1904.03461)
 
+* **Episodic Memory Question Answering** <br>
+*Samyak Datta, Sameer Dharur, Vincent Cartillier, Ruta Desai, Mukul Khanna, Dhruv Batra, and Devi Parikh* <br>
+CVPR, 2022. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Datta_Episodic_Memory_Question_Answering_CVPR_2022_paper.html) [[Website]](https://samyak-268.github.io/emqa/)
+
 
 ### <a name="visual_interaction"></a> Visual Interactions
 * **Visual Semantic Planning using Deep Successor Representations** <br>
