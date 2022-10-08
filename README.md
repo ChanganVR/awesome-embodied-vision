@@ -595,7 +595,7 @@ arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.06994.pdf) [[Website]](https:/
 ### <a name="rearrangement"></a> Rearrangement
 * **Visual Room Rearrangement** <br>
 *Luca Weihs, Matt Deitke, Aniruddha Kembhavi, and Roozbeh Mottaghi* <br>
-CVPR, 2021. [[Paper]](https://arxiv.org/abs/1705.08080) [[Code]](https://github.com/allenai/ai2thor-rearrangement) [[Website]](https://ai2thor.allenai.org/rearrangement)
+CVPR, 2021. [[Paper]](https://arxiv.org/abs/2103.16544) [[Code]](https://github.com/allenai/ai2thor-rearrangement) [[Website]](https://ai2thor.allenai.org/rearrangement)
 
 * **Rearrangement: A Challenge for Embodied AI** <br>
 *Dhruv Batra, Angel X. Chang, Sonia Chernova, Andrew J. Davison, Jia Deng, Vladlen Koltun, Sergey Levine, Jitendra Malik, Igor Mordatch, Roozbeh Mottaghi, Manolis Savva, Hao Su* <br>
