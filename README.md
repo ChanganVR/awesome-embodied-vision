@@ -117,6 +117,10 @@ ICLR, 2022. [[Paper]](https://openreview.net/pdf?id=NkZq4OEYN-) [[Code]](https:/
 *Changan Chen\*, Carl Schissler\*, Sanchit Garg\*, Philip Kobernik, Alexander Clegg, Paul Calamia, Dhruv Batra, Philip W Robinson, Kristen Grauman* <br>
 arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.08312.pdf) [[Code]](https://github.com/facebookresearch/sound-spaces) [[Website]](https://vision.cs.utexas.edu/projects/soundspaces2)
 
+* **Pay Self-Attention to Audio-Visual Navigation** <br>
+*Yinfeng Yu, Lele Cao, Fuchun Sun, Xiaohong Liu, Liejun Wang* <br>
+BMVC 2022. [[Paper]](https://arxiv.org/pdf/2210.01353.pdf) [[Code]](https://github.com/yyf17/FSAAVN/tree/main) [[Website]](https://yyf17.github.io/FSAAVN/index.html)
+
 ### <a name="objectgoal"></a> ObjectGoal Navigation
 
 * **Cognitive Mapping and Planning for Visual Navigation** <br>
