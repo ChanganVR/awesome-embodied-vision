@@ -118,8 +118,8 @@ ICLR, 2022. [[Paper]](https://openreview.net/pdf?id=NkZq4OEYN-) [[Code]](https:/
 arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.08312.pdf) [[Code]](https://github.com/facebookresearch/sound-spaces) [[Website]](https://vision.cs.utexas.edu/projects/soundspaces2)
 
 * **Pay Self-Attention to Audio-Visual Navigation** <br>
-*Yinfeng Yu, Lele Cao, Fuchun Sun, Xiaohong Liu, Liejun Wang* <br>
-BMVC 2022. [[Paper]](https://arxiv.org/pdf/2210.01353.pdf) [[Code]](https://github.com/yyf17/FSAAVN/tree/main) [[Website]](https://yyf17.github.io/FSAAVN/index.html)
+*Yinfeng Yu\*, Lele Cao\*, Fuchun Sun, Xiaohong Liu, Liejun Wang* <br>
+BMVC 2022. [[Paper]](https://arxiv.org/pdf/2210.01353.pdf) [[Website]](https://yyf17.github.io/FSAAVN/index.html)
 
 ### <a name="objectgoal"></a> ObjectGoal Navigation
 
