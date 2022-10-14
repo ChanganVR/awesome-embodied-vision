@@ -519,7 +519,7 @@ CVPR, 2019. [[Paper]](https://arxiv.org/pdf/1903.03878.pdf) [[Website]](https://
 
 * **Explore and Explain: Self-supervised Navigation and Recounting** <br>
 *Roberto Bigazzi, Federico Landi, Marcella Cornia, Silvia Cascianelli, Lorenzo Baraldi, Rita Cucchiara* <br>
-ICPR, 2020. [[Paper]]([https://ieeexplore.ieee.org/document/9691914](https://ieeexplore.ieee.org/document/9412628))
+ICPR, 2020. [[Paper]](https://ieeexplore.ieee.org/document/9412628)
 
 * **Learning to Explore using Active Neural SLAM** <br>
 *Devendra Singh Chaplot, Dhiraj Gandhi, Saurabh Gupta, Abhinav Gupta, Ruslan Salakhutdinov* <br>
