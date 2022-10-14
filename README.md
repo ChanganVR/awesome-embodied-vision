@@ -533,6 +533,10 @@ NeurIPS, 2020. [[Paper]](https://vdean.github.io/resources/audio-curiosity2020.p
 *Santhosh K. Ramakrishnan, Ziad Al-Halah, Kristen Grauman* <br>
 ECCV, 2020. [[Paper]](http://vision.cs.utexas.edu/projects/occupancy_anticipation/main.pdf) [[Code]](https://github.com/facebookresearch/OccupancyAnticipation) [[Website]](http://vision.cs.utexas.edu/projects/occupancy_anticipation/)
 
+* **Focus on Impact: Indoor Exploration With Intrinsic Motivation** <br>
+*Roberto Bigazzi, Federico Landi, Silvia Cascianelli, Lorenzo Baraldi, Marcella Cornia, Rita Cucchiara* <br>
+IEEE RA-L + ICRA, 2022. [[Paper]](https://ieeexplore.ieee.org/document/9691914) [[Code]](https://github.com/aimagelab/focus-on-impact)
+
 * **Symmetry-aware Neural Architecture for. Embodied Visual Exploration** <br>
 *Shuang Liu, Takayuki Okatani* <br>
 CVPR, 2022. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Symmetry-Aware_Neural_Architecture_for_Embodied_Visual_Exploration_CVPR_2022_paper.pdf) [[Code]](https://github.com/vincent341/S-ANS) [[Website]](https://github.com/vincent341/S-ANS)
@@ -717,6 +721,10 @@ arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.06994.pdf) [[Website]](https:/
 ## <a name="misc"></a> MISC
 * **Visual Learning and Embodied Agents in Simulation Environments Workshop** <br>
 ECCV, 2018. [[website]](https://eccv18-vlease.github.io/)
+
+* **Focus on Impact: Indoor Exploration With Intrinsic Motivation** <br>
+*Roberto Bigazzi, Federico Landi, Marcella Cornia, Silvia Cascianelli, Lorenzo Baraldi, Rita Cucchiara* <br>
+ICPR, 2020. [[Paper]]([https://ieeexplore.ieee.org/document/9691914](https://ieeexplore.ieee.org/document/9412628))
 
 * **Embodied-AI Workshop** <br>
 CVPR, 2020/2021. [[website]](https://embodied-ai.org/#overview)
