@@ -517,6 +517,10 @@ Science Robotics, 2019. [[Paper]](https://arxiv.org/pdf/1906.11407.pdf) [[Code]]
 *Kuan Fang, Alexander Toshev, Li Fei-Fei, Silvio Savarese* <br>
 CVPR, 2019. [[Paper]](https://arxiv.org/pdf/1903.03878.pdf) [[Website]](https://sites.google.com/view/scene-memory-transformer)
 
+* **Explore and Explain: Self-supervised Navigation and Recounting** <br>
+*Roberto Bigazzi, Federico Landi, Marcella Cornia, Silvia Cascianelli, Lorenzo Baraldi, Rita Cucchiara* <br>
+ICPR, 2020. [[Paper]](https://ieeexplore.ieee.org/document/9412628)
+
 * **Learning to Explore using Active Neural SLAM** <br>
 *Devendra Singh Chaplot, Dhiraj Gandhi, Saurabh Gupta, Abhinav Gupta, Ruslan Salakhutdinov* <br>
 ICLR, 2020. [[Paper]](https://openreview.net/pdf?id=HklXn1BKDH) [[Code]](https://github.com/devendrachaplot/Neural-SLAM) [[Website]](https://devendrachaplot.github.io/projects/Neural-SLAM)
@@ -532,6 +536,10 @@ NeurIPS, 2020. [[Paper]](https://vdean.github.io/resources/audio-curiosity2020.p
 * **Occupancy Anticipation for Efficient Exploration and Navigation** <br>
 *Santhosh K. Ramakrishnan, Ziad Al-Halah, Kristen Grauman* <br>
 ECCV, 2020. [[Paper]](http://vision.cs.utexas.edu/projects/occupancy_anticipation/main.pdf) [[Code]](https://github.com/facebookresearch/OccupancyAnticipation) [[Website]](http://vision.cs.utexas.edu/projects/occupancy_anticipation/)
+
+* **Focus on Impact: Indoor Exploration With Intrinsic Motivation** <br>
+*Roberto Bigazzi, Federico Landi, Silvia Cascianelli, Lorenzo Baraldi, Marcella Cornia, Rita Cucchiara* <br>
+IEEE RA-L + ICRA, 2022. [[Paper]](https://ieeexplore.ieee.org/document/9691914) [[Code]](https://github.com/aimagelab/focus-on-impact)
 
 * **Symmetry-aware Neural Architecture for. Embodied Visual Exploration** <br>
 *Shuang Liu, Takayuki Okatani* <br>
