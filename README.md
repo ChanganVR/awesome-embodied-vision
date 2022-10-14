@@ -517,6 +517,10 @@ Science Robotics, 2019. [[Paper]](https://arxiv.org/pdf/1906.11407.pdf) [[Code]]
 *Kuan Fang, Alexander Toshev, Li Fei-Fei, Silvio Savarese* <br>
 CVPR, 2019. [[Paper]](https://arxiv.org/pdf/1903.03878.pdf) [[Website]](https://sites.google.com/view/scene-memory-transformer)
 
+* **Explore and Explain: Self-supervised Navigation and Recounting** <br>
+*Roberto Bigazzi, Federico Landi, Marcella Cornia, Silvia Cascianelli, Lorenzo Baraldi, Rita Cucchiara* <br>
+ICPR, 2020. [[Paper]]([https://ieeexplore.ieee.org/document/9691914](https://ieeexplore.ieee.org/document/9412628))
+
 * **Learning to Explore using Active Neural SLAM** <br>
 *Devendra Singh Chaplot, Dhiraj Gandhi, Saurabh Gupta, Abhinav Gupta, Ruslan Salakhutdinov* <br>
 ICLR, 2020. [[Paper]](https://openreview.net/pdf?id=HklXn1BKDH) [[Code]](https://github.com/devendrachaplot/Neural-SLAM) [[Website]](https://devendrachaplot.github.io/projects/Neural-SLAM)
@@ -721,10 +725,6 @@ arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.06994.pdf) [[Website]](https:/
 ## <a name="misc"></a> MISC
 * **Visual Learning and Embodied Agents in Simulation Environments Workshop** <br>
 ECCV, 2018. [[website]](https://eccv18-vlease.github.io/)
-
-* **Focus on Impact: Indoor Exploration With Intrinsic Motivation** <br>
-*Roberto Bigazzi, Federico Landi, Marcella Cornia, Silvia Cascianelli, Lorenzo Baraldi, Rita Cucchiara* <br>
-ICPR, 2020. [[Paper]]([https://ieeexplore.ieee.org/document/9691914](https://ieeexplore.ieee.org/document/9412628))
 
 * **Embodied-AI Workshop** <br>
 CVPR, 2020/2021. [[website]](https://embodied-ai.org/#overview)
