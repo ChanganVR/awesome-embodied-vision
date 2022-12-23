@@ -217,6 +217,10 @@ ICCV, 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Kwon
 *Meera Hahn, Devendra Chaplot, Shubham Tulsiani, Mustafa Mukadam, James M. Rehg, Abhinav Gupta* <br>
 NeurIPS, 2021. [[Paper]](https://arxiv.org/pdf/2110.09470.pdf)
 
+* **Topological Semantic Graph Memory for Image-Goal Navigation** <br>
+*Nuri Kim, Obin Kwon, Hwiyeon Yoo, Yunho Choi, Jeongho Park, Songhwai Oh* <br>
+CoRL, 2022. [[Paper]](https://openreview.net/pdf?id=xjTUxBfIzE) [[Code]](https://github.com/rllab-snu/TopologicalSemanticGraphMemory) [[Website]](https://github.com/bareblackfoot/Topological-Semantic-Graph-Memory)
+
 
 ### <a name="vln"></a> Vision-Language Navigation
 
