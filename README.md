@@ -553,6 +553,11 @@ IEEE RA-L + ICRA, 2022. [[Paper]](https://ieeexplore.ieee.org/document/9691914) 
 *Shuang Liu, Takayuki Okatani* <br>
 CVPR, 2022. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Symmetry-Aware_Neural_Architecture_for_Embodied_Visual_Exploration_CVPR_2022_paper.pdf) [[Code]](https://github.com/vincent341/S-ANS) [[Website]](https://github.com/vincent341/S-ANS)
 
+* **Embodied Agents for Efficient Exploration and Smart Scene Description** <br>
+*Roberto Bigazzi, Marcella Cornia, Silvia Cascianelli, Lorenzo Baraldi, Rita Cucchiara* <br>
+ICRA, 2023. [[Paper]](https://arxiv.org/abs/2301.07150)
+
+
 ### <a name="eqa"></a> Embodied Question Answering
 * **Embodied Question Answering** <br>
 *Abhishek Das, Samyak Datta, Georgia Gkioxari, Stefan Lee, Devi Parikh, Dhruv Batra* <br>
