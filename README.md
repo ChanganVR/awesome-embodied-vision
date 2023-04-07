@@ -639,6 +639,9 @@ NeurIPS 2021. [[Paper]](https://arxiv.org/abs/2106.14405) [[Code]](https://githu
 *Matt Deitke, Eli VanderBilt, Alvaro Herrasti, Luca Weihs, Jordi Salvador, Kiana Ehsani, Winson Han, Eric Kolve, Ali Farhadi, Aniruddha Kembhavi, Roozbeh Mottaghi* <br>
 arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.06994.pdf) [[Website]](https://procthor.allenai.org/)
 
+* **TarGF: Learning Target Gradient Field to Rearrange Objects without Explicit Goal Specification** <br>
+*Mingdong Wu, Fangwei Zhong, Yulong Xia, Hao Dong* <br>
+NeurIPS, 2022. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/cf5a019ae9c11b4be88213ce3f85d85c-Paper-Conference.pdf) [[Website]](https://sites.google.com/view/targf)
 ### <a name="sim2real_transfer"></a> Sim-to-real Transfer
 * **Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World** <br>
 *Josh Tobin, Rachel Fong, Alex Ray, Jonas Schneider, Wojciech Zaremba, Pieter Abbeel* <br>
