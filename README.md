@@ -195,6 +195,10 @@ ICCV, 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Maks
 *Matt Deitke, Eli VanderBilt, Alvaro Herrasti, Luca Weihs, Jordi Salvador, Kiana Ehsani, Winson Han, Eric Kolve, Ali Farhadi, Aniruddha Kembhavi, Roozbeh Mottaghi* <br>
 arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.06994.pdf) [[Website]](https://procthor.allenai.org/)
 
+* **Good Time to Ask: A Learning Framework for Asking for Help in Embodied Visual Navigation** <br>
+*Jenny Zhang, Samson Yu, Jiafei Duan, Cheston Tan* <br>
+arXiv, 2022. [[Paper]](https://arxiv.org/abs/2206.10606) [[Code]](https://github.com/jennyzzt/good_time_to_ask)
+
 ### <a name="imagegoal"></a> ImageGoal Navigation
 
 * **Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning** <br>
