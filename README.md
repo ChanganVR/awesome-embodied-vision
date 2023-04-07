@@ -14,7 +14,7 @@ By [Changan Chen](https://changan.io) (changan@cs.utexas.edu), Department of Com
 	* [ImageGoal Navigation](#imagegoal)
 	* [Vision-Language Navigation](#vln)
 	* [Embodied Question Answering](#eqa)
-	* [Multiagent Navigation](#multiagent)
+	* [Multi-Agent Tasks](#multiagent)
 	* [Active Visual Tracking](#av-tracking)
 	* [Visual Exploration](#visual_exploration)
 	* [Visual Interactions](#visual_interaction)
