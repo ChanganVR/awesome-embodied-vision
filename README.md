@@ -449,7 +449,7 @@ NeurIPS, 2021. [[Paper]](https://arxiv.org/pdf/2110.13309.pdf) [[Website]](https
 ICPR, 2022. [[Paper]](https://arxiv.org/abs/2108.11945) [[Website]](https://zubair-irshad.github.io/projects/SASRA.html) [[Video]](https://www.youtube.com/watch?v=DsziGtgaJC0)
 
 
-### <a name="multiagent"></a> Multiagent Navigation
+### <a name="multiagent"></a> Multi-Agent Tasks
 * **Two Body Problem: Collaborative Visual Task Completion** <br>
 *Unnat Jain\*, Luca Weihs\*, Eric Kolve, Mohammad Rastegari, Svetlana Lazebnik, Ali Farhadi, Alexander Schwing, Aniruddha Kembhavi* <br>
 CVPR, 2019. [[Paper]](https://arxiv.org/pdf/1904.05879.pdf) [[Website]](https://prior.allenai.org/projects/two-body-problem)
@@ -469,6 +469,10 @@ ICCV, 2021. [[Paper]](https://arxiv.org/pdf/2105.00931.pdf) [[Website]](https://
 * **Sound Adversarial Audio-Visual Navigation** <br>
 *Yinfeng Yu, Wenbing Huang, Fuchun Sun, Changan Chen, Yikai Wang, Xiaohong Liu* <br>
 ICLR, 2022. [[Paper]](https://openreview.net/pdf?id=NkZq4OEYN-) [[Code]](https://github.com/yyf17/SAAVN/tree/main) [[Website]](https://yyf17.github.io/SAAVN)
+
+* **Proactive Multi-Camera Collaboration for 3D Human Pose Estimation** <br>
+*Hai Ci, Mickel Liu, Xuehai Pan, Fangwei Zhong, Yizhou Wang* <br>
+ICLR, 2023. [[Paper]](https://openreview.net/pdf?id=CPIy9TWFYBG) [[Website]](https://sites.google.com/view/active3dpose)
 
 ### <a name="av-tracking"></a> Active Visual Tracking
 * **End-to-end Active Object Tracking via Reinforcement Learning** <br>
