@@ -14,7 +14,7 @@ By [Changan Chen](https://changan.io) (changan@cs.utexas.edu), Department of Com
 	* [ImageGoal Navigation](#imagegoal)
 	* [Vision-Language Navigation](#vln)
 	* [Embodied Question Answering](#eqa)
-	* [Multiagent Navigation](#multiagent)
+	* [Multi-Agent Tasks](#multiagent)
 	* [Active Visual Tracking](#av-tracking)
 	* [Visual Exploration](#visual_exploration)
 	* [Visual Interactions](#visual_interaction)
@@ -449,7 +449,7 @@ NeurIPS, 2021. [[Paper]](https://arxiv.org/pdf/2110.13309.pdf) [[Website]](https
 ICPR, 2022. [[Paper]](https://arxiv.org/abs/2108.11945) [[Website]](https://zubair-irshad.github.io/projects/SASRA.html) [[Video]](https://www.youtube.com/watch?v=DsziGtgaJC0)
 
 
-### <a name="multiagent"></a> Multiagent Navigation
+### <a name="multiagent"></a> Multi-Agent Tasks
 * **Two Body Problem: Collaborative Visual Task Completion** <br>
 *Unnat Jain\*, Luca Weihs\*, Eric Kolve, Mohammad Rastegari, Svetlana Lazebnik, Ali Farhadi, Alexander Schwing, Aniruddha Kembhavi* <br>
 CVPR, 2019. [[Paper]](https://arxiv.org/pdf/1904.05879.pdf) [[Website]](https://prior.allenai.org/projects/two-body-problem)
@@ -469,6 +469,10 @@ ICCV, 2021. [[Paper]](https://arxiv.org/pdf/2105.00931.pdf) [[Website]](https://
 * **Sound Adversarial Audio-Visual Navigation** <br>
 *Yinfeng Yu, Wenbing Huang, Fuchun Sun, Changan Chen, Yikai Wang, Xiaohong Liu* <br>
 ICLR, 2022. [[Paper]](https://openreview.net/pdf?id=NkZq4OEYN-) [[Code]](https://github.com/yyf17/SAAVN/tree/main) [[Website]](https://yyf17.github.io/SAAVN)
+
+* **Proactive Multi-Camera Collaboration for 3D Human Pose Estimation** <br>
+*Hai Ci, Mickel Liu, Xuehai Pan, Fangwei Zhong, Yizhou Wang* <br>
+ICLR, 2023. [[Paper]](https://openreview.net/pdf?id=CPIy9TWFYBG) [[Website]](https://sites.google.com/view/active3dpose)
 
 ### <a name="av-tracking"></a> Active Visual Tracking
 * **End-to-end Active Object Tracking via Reinforcement Learning** <br>
@@ -635,6 +639,9 @@ NeurIPS 2021. [[Paper]](https://arxiv.org/abs/2106.14405) [[Code]](https://githu
 *Matt Deitke, Eli VanderBilt, Alvaro Herrasti, Luca Weihs, Jordi Salvador, Kiana Ehsani, Winson Han, Eric Kolve, Ali Farhadi, Aniruddha Kembhavi, Roozbeh Mottaghi* <br>
 arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.06994.pdf) [[Website]](https://procthor.allenai.org/)
 
+* **TarGF: Learning Target Gradient Field to Rearrange Objects without Explicit Goal Specification** <br>
+*Mingdong Wu, Fangwei Zhong, Yulong Xia, Hao Dong* <br>
+NeurIPS, 2022. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/cf5a019ae9c11b4be88213ce3f85d85c-Paper-Conference.pdf) [[Website]](https://sites.google.com/view/targf)
 ### <a name="sim2real_transfer"></a> Sim-to-real Transfer
 * **Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World** <br>
 *Josh Tobin, Rachel Fong, Alex Ray, Jonas Schneider, Wojciech Zaremba, Pieter Abbeel* <br>
