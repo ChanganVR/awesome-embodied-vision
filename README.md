@@ -503,6 +503,22 @@ AAAI, 2020. [[Paper]](https://arxiv.org/pdf/2001.05161.pdf) [[Code]](https://git
 *Fangwei Zhong, Wenhan Luo, Peng Sun, Tingyun Yan, Yizhou Wang* <br>
 ICML, 2021. [[Paper]](https://arxiv.org/abs/2106.10110) [[Code]](https://github.com/zfw1226/active_tracking_rl/tree/distractor) [[Website]](https://sites.google.com/view/distraction-robust-avt)
 
+* **Anti-Distractor Active Object Tracking in 3D Environments** <br>
+*Mao Xi, Yun Zhou, Zheng Chen, Wengang Zhou, Houqiang Li* <br>
+IEEE TCSVT, 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9521193)
+
+* **Enhancing continuous control of mobile robots for end-to-end visual active tracking** <br>
+* A Devo, A Dionigi, G Costante* <br>
+RAS, 2021. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0921889021000841)
+
+* **E-VAT: An Asymmetric End-to-End Approach to Visual Active Exploration and Tracking** <br>
+*Alberto Dionigi, Alessandro Devo, Leonardo Guiducci, Gabriele Costante* <br>
+IEEE RA-L, 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9712363)
+
+* **RSPT: Reconstruct Surroundings and Predict Trajectories for Generalizable Active Object Tracking** <br>
+*Fangwei Zhong\*, Xiao Bi\*, Yudi Zhang, Wei Zhang, Yizhou Wang* <br>
+AAAI, 2023. [[Paper]](https://arxiv.org/pdf/2304.03623v1.pdf) [[Website]](https://sites.google.com/view/aot-rspt)
+
 
 ### <a name="visual_exploration"></a> Visual Exploration
 * **Curiosity-driven Exploration by Self-supervised Prediction** <br>
@@ -583,6 +599,10 @@ CVPR, 2019. [[Paper]](https://arxiv.org/abs/1904.03461)
 *Samyak Datta, Sameer Dharur, Vincent Cartillier, Ruta Desai, Mukul Khanna, Dhruv Batra, and Devi Parikh* <br>
 CVPR, 2022. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Datta_Episodic_Memory_Question_Answering_CVPR_2022_paper.html) [[Website]](https://samyak-268.github.io/emqa/)
 
+* **SQA3D: Situated Question Answering in 3D Scenes** <br>
+*Xiaojian Ma, Silong Yong, Zilong Zheng, Qing Li , Yitao Liang, Song-Chun Zhu, Siyuan Huang* <br>
+ICLR, 2023. [[Paper]](https://arxiv.org/pdf/2210.07474.pdf) [[Website]](https://sqa3d.github.io/)
+
 
 ### <a name="visual_interaction"></a> Visual Interactions
 * **Visual Semantic Planning using Deep Successor Representations** <br>
@@ -644,8 +664,13 @@ NeurIPS 2021. [[Paper]](https://arxiv.org/abs/2106.14405) [[Code]](https://githu
 arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.06994.pdf) [[Website]](https://procthor.allenai.org/)
 
 * **TarGF: Learning Target Gradient Field to Rearrange Objects without Explicit Goal Specification** <br>
-*Mingdong Wu, Fangwei Zhong, Yulong Xia, Hao Dong* <br>
+*Mingdong Wu/*, Fangwei Zhong/*, Yulong Xia, Hao Dong* <br>
 NeurIPS, 2022. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/cf5a019ae9c11b4be88213ce3f85d85c-Paper-Conference.pdf) [[Website]](https://sites.google.com/view/targf)
+
+* **Rearrange Indoor Scenes for Human-Robot Co-Activity** <br>
+*Weiqi Wang/*, Zihang Zhao/*, Ziyuan Jiao/*, Yixin Zhu, Song-Chun Zhu, Hangxin Liu* <br>
+ICRA, 2023. [[Paper]](https://arxiv.org/pdf/2303.05676.pdf) [[Website]](https://sites.google.com/view/coactivity)
+
 ### <a name="sim2real_transfer"></a> Sim-to-real Transfer
 * **Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World** <br>
 *Josh Tobin, Rachel Fong, Alex Ray, Jonas Schneider, Wojciech Zaremba, Pieter Abbeel* <br>
