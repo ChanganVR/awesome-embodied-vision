@@ -121,6 +121,10 @@ arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.08312.pdf) [[Code]](https://gi
 *Yinfeng Yu, Lele Cao, Fuchun Sun, Xiaohong Liu, Liejun Wang* <br>
 BMVC 2022. [[Paper]](https://arxiv.org/pdf/2210.01353.pdf) [[Website]](https://yyf17.github.io/FSAAVN/index.html)
 
+* **Learning Semantic-Agnostic and Spatial-Aware Representation for Generalizable Visual-Audio Navigation** <br>
+* Hongcheng Wang*, Yuxuan Wang*, Fangwei Zhong, Mingdong Wu, Jianwei Zhang, Yizhou Wang, Hao Dong* <br>
+IEEE RA-L, 2023. [[Paper]](https://arxiv.org/pdf/2304.10773.pdf)
+
 ### <a name="objectgoal"></a> ObjectGoal Navigation
 
 * **Cognitive Mapping and Planning for Visual Navigation** <br>
@@ -508,7 +512,7 @@ ICML, 2021. [[Paper]](https://arxiv.org/abs/2106.10110) [[Code]](https://github.
 IEEE TCSVT, 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9521193)
 
 * **Enhancing continuous control of mobile robots for end-to-end visual active tracking** <br>
-* A Devo, A Dionigi, G Costante* <br>
+*A Devo, A Dionigi, G Costante* <br>
 RAS, 2021. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0921889021000841)
 
 * **E-VAT: An Asymmetric End-to-End Approach to Visual Active Exploration and Tracking** <br>
