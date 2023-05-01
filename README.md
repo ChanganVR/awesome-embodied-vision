@@ -84,6 +84,10 @@ ICCV, 2021. [[Paper]](https://arxiv.org/pdf/2106.04531.pdf) [[Code]](https://git
 *Prithvijit Chattopadhyay, Judy Hoffman, Roozbeh Mottaghi, Aniruddha Kembhavi* <br>
 ICCV, 2021. [[Paper]](https://arxiv.org/pdf/2104.04112.pdf) [[Code]](https://github.com/allenai/robustnav) [[Website]](https://prior.allenai.org/projects/robustnav)
 
+* **Comparison of Model-Free and Model-Based Learning-Informed Planning for PointGoal Navigation** <br>
+*Yimeng Li, Arnab Debnath, Gregory J. Stein, Jana Kosecka* <br>
+CoRL, 2022. [[Paper]](https://openreview.net/pdf?id=2s92OhjT4L) [[Code]](https://github.com/yimengli46/bellman_point_goal) [[Website]](https://yimengli46.github.io/Projects/CoRL2022LHPWorkshop/index.html)
+
 ### <a name="audiogoal"></a> Audio-Visual Navigation
 * **Audio-Visual Embodied Navigation** <br>
 *Changan Chen\*, Unnat Jain\*, Carl Schissler, Sebastia Vicenc Amengual Gari, Ziad Al-Halah, Vamsi Krishna Ithapu, Philip Robinson, Kristen Grauman* <br>
@@ -151,6 +155,10 @@ ICCV, 2019. [[Paper]](https://arxiv.org/abs/1909.04306) [[Code]](https://github.
 *William B. Shen, Danfei Xu, Yuke Zhu, Leonidas J. Guibas, Li Fei-Fei, Silvio Savarese* <br>
 ICCV, 2019. [[Paper]](https://arxiv.org/abs/1908.09073)
 
+* **Simultaneous Mapping and Target Driven Navigation** <br>
+*Georgios Georgakis, Yimeng Li, Jana Kosecka* <br>
+arXiv, 2019. [[Paper]](https://arxiv.org/abs/1911.07980)
+
 * **Object Goal Navigation using Goal-Oriented Semantic Exploration** <br>
 *Devendra Singh Chaplot, Dhiraj Gandhi, Abhinav Gupta\*, Ruslan Salakhutdinov\** <br>
 NeurIPS, 2020. [[Paper]](https://arxiv.org/pdf/2007.00643.pdf) [[Website]](https://devendrachaplot.github.io/projects/semantic-exploration)
@@ -216,6 +224,10 @@ ICLR, 2018. [[Paper]](https://arxiv.org/pdf/1803.00653.pdf) [[Code]](https://git
 * **Neural Topological SLAM for Visual Navigation** <br>
 *Devendra Singh Chaplot, Ruslan Salakhutdinov, Abhinav Gupta, Saurabh Gupta* <br>
 CVPR, 2020. [[Paper]](https://arxiv.org/pdf/2005.12256.pdf) [[Website]](https://devendrachaplot.github.io/projects/Neural-Topological-SLAM)
+
+* **Learning View and Target Invariant Visual Servoing for Navigation** <br>
+*Yimeng Li, Jana Kosecka* <br>
+ICRA, 2020. [[Paper]](https://arxiv.org/pdf/2003.02327.pdf) [[Code]](https://github.com/GMU-vision-robotics/View-Invariant-Visual-Servoing-for-Navigation) [[Website]](https://yimengli46.github.io/Projects/ICRA2020/index.html)
 
 * **Visual Graph Memory with Unsupervised Representation for Visual Navigation** <br>
 *Obin Kwon, Nuri Kim, Yunho Choi, Hwiyeon Yoo, Jeongho Park, Songhwai Oh* <br>
