@@ -661,6 +661,11 @@ CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2104.11213.pdf) [[Code]](https://git
 *Matt Deitke, Eli VanderBilt, Alvaro Herrasti, Luca Weihs, Jordi Salvador, Kiana Ehsani, Winson Han, Eric Kolve, Ali Farhadi, Aniruddha Kembhavi, Roozbeh Mottaghi* <br>
 arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.06994.pdf) [[Website]](https://procthor.allenai.org/)
 
+* **Transformer Memory for Interactive Visual Navigation in Cluttered Environments** <br>
+*Weiyuan Li, Ruoxin Hong, Jiwei Shen, Liang Yuan, Yue Lu * <br>
+IEEE RA-L, 2023. [[Paper]](https://www.hrl.uni-bonn.de/teaching/ss23/master-seminar/transformer-memory-for-interactive-visual-navigation-in-cluttered-environments.pdf)
+
+
 ### <a name="rearrangement"></a> Rearrangement
 
 * **Rearrangement: A Challenge for Embodied AI** <br>
