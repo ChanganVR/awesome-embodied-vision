@@ -662,7 +662,7 @@ CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2104.11213.pdf) [[Code]](https://git
 arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.06994.pdf) [[Website]](https://procthor.allenai.org/)
 
 * **Transformer Memory for Interactive Visual Navigation in Cluttered Environments** <br>
-*Weiyuan Li, Ruoxin Hong, Jiwei Shen, Liang Yuan, Yue Lu * <br>
+*Weiyuan Li, Ruoxin Hong, Jiwei Shen, Liang Yuan, Yue Lu* <br>
 IEEE RA-L, 2023. [[Paper]](https://www.hrl.uni-bonn.de/teaching/ss23/master-seminar/transformer-memory-for-interactive-visual-navigation-in-cluttered-environments.pdf)
 
 
