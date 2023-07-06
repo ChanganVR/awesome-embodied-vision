@@ -211,6 +211,10 @@ arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.06994.pdf) [[Website]](https:/
 *Jenny Zhang, Samson Yu, Jiafei Duan, Cheston Tan* <br>
 arXiv, 2022. [[Paper]](https://arxiv.org/abs/2206.10606) [[Code]](https://github.com/jennyzzt/good_time_to_ask)
 
+* **Self-Supervised Object Goal Navigation with In-Situ Finetuning** <br>
+*So Yeon Min, Yao-Hung Hubert Tsai, Wei Ding, Ali Farhadi, Ruslan Salakhutdinov, Yonatan Bisk, Jian Zhang* <br>
+IROS, 2023. [[Paper]](https://arxiv.org/abs/2212.05923) [[Video]](https://www.youtube.com/watch?v=LXsZst5ZUpU)
+
 ### <a name="imagegoal"></a> ImageGoal Navigation
 
 * **Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning** <br>
