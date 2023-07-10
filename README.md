@@ -249,6 +249,9 @@ CoRL, 2022. [[Paper]](https://openreview.net/pdf?id=xjTUxBfIzE) [[Code]](https:/
 *Justin Wasserman, Karmesh Yadav, Girish Chowdhary, Abhinav Gupta, Unnat Jain* <br>
 CoRL, 2022. [[Paper]](https://arxiv.org/abs/2211.11746) [[Code]](https://github.com/Jbwasse2/SLING) [[Website]](https://jbwasse2.github.io/portfolio/SLING/)
 
+* **Renderable Neural Radiance Map for Visual Navigation** <br>
+*Obin Kwon, Jeongho Park, Songhwai Oh* <br>
+CVPR, 2023. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Kwon_Renderable_Neural_Radiance_Map_for_Visual_Navigation_CVPR_2023_paper.html) [[Website]](https://rllab-snu.github.io/projects/RNR-Map/)
 
 ### <a name="vln"></a> Vision-Language Navigation
 
