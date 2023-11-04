@@ -211,6 +211,10 @@ arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.06994.pdf) [[Website]](https:/
 *Jenny Zhang, Samson Yu, Jiafei Duan, Cheston Tan* <br>
 arXiv, 2022. [[Paper]](https://arxiv.org/abs/2206.10606) [[Code]](https://github.com/jennyzzt/good_time_to_ask)
 
+* **Self-Supervised Object Goal Navigation with In-Situ Finetuning** <br>
+*So Yeon Min, Yao-Hung Hubert Tsai, Wei Ding, Ali Farhadi, Ruslan Salakhutdinov, Yonatan Bisk, Jian Zhang* <br>
+IROS, 2023. [[Paper]](https://arxiv.org/abs/2212.05923) [[Video]](https://www.youtube.com/watch?v=LXsZst5ZUpU)
+
 ### <a name="imagegoal"></a> ImageGoal Navigation
 
 * **Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning** <br>
@@ -245,6 +249,9 @@ CoRL, 2022. [[Paper]](https://openreview.net/pdf?id=xjTUxBfIzE) [[Code]](https:/
 *Justin Wasserman, Karmesh Yadav, Girish Chowdhary, Abhinav Gupta, Unnat Jain* <br>
 CoRL, 2022. [[Paper]](https://arxiv.org/abs/2211.11746) [[Code]](https://github.com/Jbwasse2/SLING) [[Website]](https://jbwasse2.github.io/portfolio/SLING/)
 
+* **Renderable Neural Radiance Map for Visual Navigation** <br>
+*Obin Kwon, Jeongho Park, Songhwai Oh* <br>
+CVPR, 2023. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Kwon_Renderable_Neural_Radiance_Map_for_Visual_Navigation_CVPR_2023_paper.html) [[Website]](https://rllab-snu.github.io/projects/RNR-Map/)
 
 ### <a name="vln"></a> Vision-Language Navigation
 
@@ -663,6 +670,11 @@ CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2104.11213.pdf) [[Code]](https://git
 * **🏘️ ProcTHOR: Large-Scale Embodied AI Using Procedural Generation** <br>
 *Matt Deitke, Eli VanderBilt, Alvaro Herrasti, Luca Weihs, Jordi Salvador, Kiana Ehsani, Winson Han, Eric Kolve, Ali Farhadi, Aniruddha Kembhavi, Roozbeh Mottaghi* <br>
 arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.06994.pdf) [[Website]](https://procthor.allenai.org/)
+
+* **Transformer Memory for Interactive Visual Navigation in Cluttered Environments** <br>
+*Weiyuan Li, Ruoxin Hong, Jiwei Shen, Liang Yuan, Yue Lu* <br>
+IEEE RA-L, 2023. [[Paper]](https://www.hrl.uni-bonn.de/teaching/ss23/master-seminar/transformer-memory-for-interactive-visual-navigation-in-cluttered-environments.pdf)
+
 
 ### <a name="rearrangement"></a> Rearrangement
 
