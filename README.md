@@ -542,6 +542,9 @@ IEEE RA-L, 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9712363
 *Fangwei Zhong\*, Xiao Bi\*, Yudi Zhang, Wei Zhang, Yizhou Wang* <br>
 AAAI, 2023. [[Paper]](https://arxiv.org/pdf/2304.03623v1.pdf) [[Website]](https://sites.google.com/view/aot-rspt)
 
+* **Learning Vision-based Pursuit-Evasion Robot Policies** <br>
+*Andrea Bajcsy\*, Antonio Loquercio\*, Ashish Kumar, Jitendra Malik* <br>
+ArXiv, 2023. [[Paper]](https://arxiv.org/abs/2308.16185) [[Website]](https://abajcsy.github.io/vision-based-pursuit)
 
 ### <a name="visual_exploration"></a> Visual Exploration
 * **Curiosity-driven Exploration by Self-supervised Prediction** <br>
