@@ -752,6 +752,9 @@ NeurIPS, 2021. [[Paper]](https://arxiv.org/pdf/2109.08238.pdf) [[Website]](https
 *Matt Deitke, Eli VanderBilt, Alvaro Herrasti, Luca Weihs, Jordi Salvador, Kiana Ehsani, Winson Han, Eric Kolve, Ali Farhadi, Aniruddha Kembhavi, Roozbeh Mottaghi* <br>
 arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.06994.pdf) [[Website]](https://procthor.allenai.org/)
 
+* **EgoTV 📺: Egocentric Task Verification from Natural Language Task Descriptions** <br>
+*Rishi Hazra, Brian Chen, Akshara Rai, Nitin Kamra, Ruta Desai* <br>
+ICCV, 2023. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Hazra_EgoTV_Egocentric_Task_Verification_from_Natural_Language_Task_Descriptions_ICCV_2023_paper.pdf) [[Code]](https://github.com/facebookresearch/EgoTV) [[Website]](https://rishihazra.github.io/EgoTV)
 
 ## <a name="simulators"></a> Simulators
 * **AI2-THOR: An Interactive 3D Environment for Visual AI** <br>
