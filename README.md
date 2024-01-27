@@ -215,6 +215,10 @@ arXiv, 2022. [[Paper]](https://arxiv.org/abs/2206.10606) [[Code]](https://github
 *So Yeon Min, Yao-Hung Hubert Tsai, Wei Ding, Ali Farhadi, Ruslan Salakhutdinov, Yonatan Bisk, Jian Zhang* <br>
 IROS, 2023. [[Paper]](https://arxiv.org/abs/2212.05923) [[Video]](https://www.youtube.com/watch?v=LXsZst5ZUpU)
 
+* **MOPA: Modular Object Navigation with PointGoal Agents** <br>
+*Sonia Raychaudhuri, Tommaso Campari, Unnat Jain, Manolis Savva, Angel X. Chang* <br>
+WACV, 2024. [[Paper]](https://openaccess.thecvf.com/content/WACV2024/html/Raychaudhuri_MOPA_Modular_Object_Navigation_With_PointGoal_Agents_WACV_2024_paper.html) [[Video]](https://youtu.be/Jcspov0UpsA)
+
 ### <a name="imagegoal"></a> ImageGoal Navigation
 
 * **Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning** <br>
@@ -470,6 +474,10 @@ NeurIPS, 2021. [[Paper]](https://arxiv.org/pdf/2110.14143.pdf)
 * **History Aware Multimodal Transformer for Vision-and-Language Navigation** <br>
 *Shizhe Chen, Pierre-Louis Guhur, Cordelia Schmid, Ivan Laptev* <br>
 NeurIPS, 2021. [[Paper]](https://arxiv.org/pdf/2110.13309.pdf) [[Website]](https://cshizhe.github.io/projects/vln_hamt.html) [[Code]](https://github.com/cshizhe/VLN-HAMT)
+
+* **Language-Aligned Waypoint (LAW) Supervision for Vision-and-Language Navigation in Continuous Environments** <br>
+*Sonia Raychaudhuri, Saim Wani, Shivansh Patel, Unnat Jain, Angel Chang* <br>
+EMNLP, 2021. [[Paper]](https://aclanthology.org/2021.emnlp-main.328) [[Code]](https://github.com/3dlg-hcvc/LAW-VLNCE) [[Website]](https://3dlg-hcvc.github.io/LAW-VLNCE) [[Video]](https://www.youtube.com/watch?v=7dRymdCIAvo)
 
 * **SASRA: Semantically-aware Spatio-temporal Reasoning Agent for Vision-and-Language Navigation in Continuous Environments** <br>
 *Muhammad Zubair Irshad, Niluthpol Chowdhury Mithun, Zachary Seymour, Han-Pang Chiu, Supun Samarasekera, Rakesh Kumar* <br>
