@@ -257,6 +257,10 @@ CoRL, 2022. [[Paper]](https://arxiv.org/abs/2211.11746) [[Code]](https://github.
 *Obin Kwon, Jeongho Park, Songhwai Oh* <br>
 CVPR, 2023. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Kwon_Renderable_Neural_Radiance_Map_for_Visual_Navigation_CVPR_2023_paper.html) [[Website]](https://rllab-snu.github.io/projects/RNR-Map/)
 
+* **Instance-aware Exploration-Verification-Exploitation for Instance ImageGoal Navigation** <br>
+*Xiaohan Lei, Min Wang, Wengang Zhou, Li Li, Houqiang Li* <br>
+CVPR, 2024. [[Paper]](https://xiaohanlei.github.io/projects/IEVE/IEVE.pdf) [[Website]](https://xiaohanlei.github.io/projects/IEVE/)
+
 ### <a name="vln"></a> Vision-Language Navigation
 
 * **Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments** <br>
