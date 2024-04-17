@@ -126,7 +126,7 @@ arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.08312.pdf) [[Code]](https://gi
 BMVC 2022. [[Paper]](https://arxiv.org/pdf/2210.01353.pdf) [[Website]](https://yyf17.github.io/FSAAVN/index.html)
 
 * **Learning Semantic-Agnostic and Spatial-Aware Representation for Generalizable Visual-Audio Navigation** <br>
-* Hongcheng Wang*, Yuxuan Wang*, Fangwei Zhong, Mingdong Wu, Jianwei Zhang, Yizhou Wang, Hao Dong* <br>
+*Hongcheng Wang\*, Yuxuan Wang\*, Fangwei Zhong, Mingdong Wu, Jianwei Zhang, Yizhou Wang, Hao Dong* <br>
 IEEE RA-L, 2023. [[Paper]](https://arxiv.org/pdf/2304.10773.pdf)
 
 ### <a name="objectgoal"></a> ObjectGoal Navigation
@@ -487,6 +487,10 @@ EMNLP, 2021. [[Paper]](https://aclanthology.org/2021.emnlp-main.328) [[Code]](ht
 *Muhammad Zubair Irshad, Niluthpol Chowdhury Mithun, Zachary Seymour, Han-Pang Chiu, Supun Samarasekera, Rakesh Kumar* <br>
 ICPR, 2022. [[Paper]](https://arxiv.org/abs/2108.11945) [[Website]](https://zubair-irshad.github.io/projects/SASRA.html) [[Video]](https://www.youtube.com/watch?v=DsziGtgaJC0)
 
+* **AIGeN: An Adversarial Approach for Instruction Generation in VLN** <br>
+*Niyati Rawal, Roberto Bigazzi, Lorenzo Baraldi, Rita Cucchiara* <br>
+CVPRW, 2024. [[Paper]](https://arxiv.org/abs/2404.10054)
+
 
 ### <a name="multiagent"></a> Multi-Agent Tasks
 * **Two Body Problem: Collaborative Visual Task Completion** <br>
@@ -618,6 +622,10 @@ CVPR, 2022. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_
 * **Embodied Agents for Efficient Exploration and Smart Scene Description** <br>
 *Roberto Bigazzi, Marcella Cornia, Silvia Cascianelli, Lorenzo Baraldi, Rita Cucchiara* <br>
 ICRA, 2023. [[Paper]](https://arxiv.org/abs/2301.07150)
+
+* **Mapping High-level Semantic Regions in Indoor Environments without Object Recognition** <br>
+*Roberto Bigazzi, Lorenzo Baraldi, Shreyas Kousik, Rita Cucchiara, Marco Pavone* <br>
+ICRA, 2024. [[Paper]](https://arxiv.org/abs/2403.07076)
 
 
 ### <a name="eqa"></a> Embodied Question Answering
