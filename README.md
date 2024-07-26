@@ -558,6 +558,10 @@ AAAI, 2023. [[Paper]](https://arxiv.org/pdf/2304.03623v1.pdf) [[Website]](https:
 *Andrea Bajcsy\*, Antonio Loquercio\*, Ashish Kumar, Jitendra Malik* <br>
 ArXiv, 2023. [[Paper]](https://arxiv.org/abs/2308.16185) [[Website]](https://abajcsy.github.io/vision-based-pursuit)
 
+* **Empowering Embodied Visual Tracking with Visual Foundation Models and Offline RL** <br>
+* Fangwei Zhong\*, Kui Wu\*, Hai Ci, Churan Wang, Hao Chen* <br>
+ECCV, 2024. [[Paper]](https://arxiv.org/abs/2404.09857) [[Website]](https://sites.google.com/view/offline-evt)
+
 ### <a name="visual_exploration"></a> Visual Exploration
 * **Curiosity-driven Exploration by Self-supervised Prediction** <br>
 *Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, Trevor Darrell* <br>
