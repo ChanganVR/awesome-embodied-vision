@@ -825,6 +825,10 @@ arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.06994.pdf) [[Website]](https:/
 *Ran Gong\*, Jiangyong Huang\*, Yizhou Zhao, Haoran Geng, Xiaofeng Gao, Qingyang Wu, Wensi Ai, Ziheng Zhou, Demetri Terzopoulos, Song-Chun Zhu, Baoxiong Jia, Siyuan Huang* <br>
 ICCV, 2023. [[Paper]](https://arxiv.org/abs/2304.04321) [[Website]](https://arnold-benchmark.github.io/)
 
+* **Personalized Instance-based Navigation Toward User-Specific Objects in Realistic Environments** <br>
+*Luca Barsellotti\*, Roberto Bigazzi\*, Marcella Cornia, Lorenzo Baraldi, Rita Cucchiara* <br>
+NeurIPS, 2024. [[Paper]](https://arxiv.org/abs/2410.18195) [[Code]](https://github.com/aimagelab/pin) [[Website]](https://aimagelab.github.io/pin/)
+
 ## <a name="misc"></a> MISC
 * **Visual Learning and Embodied Agents in Simulation Environments Workshop** <br>
 ECCV, 2018. [[website]](https://eccv18-vlease.github.io/)
