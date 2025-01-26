@@ -623,6 +623,9 @@ CVPR, 2022. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_
 *Roberto Bigazzi, Marcella Cornia, Silvia Cascianelli, Lorenzo Baraldi, Rita Cucchiara* <br>
 ICRA, 2023. [[Paper]](https://arxiv.org/abs/2301.07150)
 
+* **GenNBV: Generalizable Next-Best-View Policy for Active 3D Reconstruction** <br>
+*Xiao Chen, Quanyi Li, Tai Wang, Tianfan Xue, Jiangmiao Pang* <br>
+CVPR, 2024. [[Paper]](https://arxiv.org/pdf/2402.16174.pdf) [[Code]](https://github.com/zjwzcx/GenNBV) [[Website]](https://gennbv.tech/)
 
 ### <a name="eqa"></a> Embodied Question Answering
 * **Embodied Question Answering** <br>
