@@ -566,6 +566,18 @@ ArXiv, 2023. [[Paper]](https://arxiv.org/abs/2308.16185) [[Website]](https://aba
 * Fangwei Zhong\*, Kui Wu\*, Hai Ci, Churan Wang, Hao Chen* <br>
 ECCV, 2024. [[Paper]](https://arxiv.org/abs/2404.09857) [[Website]](https://sites.google.com/view/offline-evt)
 
+* **VLM Can Be a Good Assistant: Enhancing Embodied Visual Tracking with Self-Improving Vision-Language Models** <br>
+*Kui Wu, Shuhang Xu, Hao Chen, Churan Wang, Zhoujun Li, Yizhou Wang, Fangwei Zhong* <br>
+IROS, 2025. [[Paper]](https://arxiv.org/abs/2505.20718) [[Website]](https://sites.google.com/view/evt-recovery-assistant)
+
+* **Hierarchical Instruction-aware Embodied Visual Tracking** <br>
+*Kui Wu, Hao Chen, Churan Wang, Fakhri Karray, Zhoujun Li, Yizhou Wang, Fangwei Zhong* <br>
+arXiv, 2025. [[Paper]](https://arxiv.org/abs/2505.20710) [[Website]](https://sites.google.com/view/hievt)
+
+* **AdaTracker: Learning Adaptive In-Context Policy for Cross-Embodiment Active Visual Tracking** <br>
+*Kui Wu, Hao Chen, Jinzhu Han, Haijun Liu, Churan Wang, Yizhou Wang, Zhoujun Li, Si Liu, Fangwei Zhong* <br>
+IEEE RA-L, 2026. [[Paper]](https://arxiv.org/abs/2604.20305)
+
 ### <a name="visual_exploration"></a> Visual Exploration
 * **Curiosity-driven Exploration by Self-supervised Prediction** <br>
 *Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, Trevor Darrell* <br>
