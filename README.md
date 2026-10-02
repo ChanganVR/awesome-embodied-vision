@@ -698,6 +698,10 @@ arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.06994.pdf) [[Website]](https:/
 *Weiyuan Li, Ruoxin Hong, Jiwei Shen, Liang Yuan, Yue Lu* <br>
 IEEE RA-L, 2023. [[Paper]](https://www.hrl.uni-bonn.de/teaching/ss23/master-seminar/transformer-memory-for-interactive-visual-navigation-in-cluttered-environments.pdf)
 
+* **RescueBench: Can Embodied Agents Save Lives in the Wild?** <br>
+*Kui Wu, Beiyu Guo, Hao Chen, ShuHang Xu, Yuling Li, Yongdan Zeng, Zhoujun Li, Yizhou Wang, Fangwei Zhong* <br>
+NeurIPS (Evaluations and Datasets Track), 2026. [[Paper]](https://arxiv.org/abs/2606.01848) [[Code]](https://github.com/UnrealZoo/RescueBench)
+
 
 ### <a name="rearrangement"></a> Rearrangement
 
